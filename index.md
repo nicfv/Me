@@ -6,6 +6,9 @@ Hello, world! My name is Nicolas Ventura, or Nic. I am currently a graduate stud
 
 Aside from engineering, I am also passionate about running, biking, and camping, as well as skiing in the winter time. Because I am currently living in northern California, the mountains at Lake Tahoe are one of my favorite places to ski. I can speak English, French, and a little bit of Spanish. I also am a connoisseur of all things Star Wars. Feel free to send me an email if you would like to talk about any interests that we share, or if you are interested in working together!
 
-### Learn more
+## Learn more
 
-* [LBL](lbl)
+### Work experiences
+
+* [Berkeley Lab](lbl)
+* [Electronic Arts](ea)
