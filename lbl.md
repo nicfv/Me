@@ -1,6 +1,6 @@
 # Berkeley Lab
 
-[Go Back](index)
+[Go Back](/)
 
 ## Facilities
 
@@ -21,3 +21,5 @@ One of my first projects was to validate a set of data points that we collected 
 Since then, I have made several visuals for the NERSC systems group, including a self-updating dashboard of the facility's power usage effectiveness. This was extremely useful to my mentor and was shared with EEHPCWG (the energy efficient high performance computing working group). I am also working on a data visualization project that should integrate directly with the existing system at NERSC which is also my master's project at UC Davis.
 
 The small team that I worked closely with has been some of the most trustworthy, competent people that I have ever met. They were excited to teach me what they know about NERSC and energy efficiency and were supportive of me continuing graduate school while simultaneously working. I am getting as much out of it as I can while doing my best to contribute back to their mission.
+
+[Go Back](/)
