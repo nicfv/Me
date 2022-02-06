@@ -4,11 +4,11 @@
 
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.")
+In this paper, _rent_ is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs.
 
 $$H_{M}=\sum\left(\texttt{monthly payments}\right)\approx r+u+i$$
 
-To not be confused with the [apartment, house, etc\dots] list price per month, rent will be referred as the total monthly payment to sustain a housing environment.
+To not be confused with the [apartment, house, etc...] list price per month, rent will be referred as the total monthly payment to sustain a housing environment.
 
 It then goes unsaid that the total payment sunk into housing costs is the total _rent_ times the number of months.
 
@@ -17,7 +17,7 @@ $$H=H_{M}\times t_{M}$$
 If the time stayed in the apartment does not equate to an integer number of years, the rent can be normalized to an monthly payment for an annual basis.
 
 
-$$\bar{H}=\frac{H}{12}=\frac{H_{M}\times t_{M}}{12}=\left(r+u+i\right)\times\frac{t_{M}}{12} \label{housing}$$
+$$\bar{H}=\frac{H}{12}=\frac{H_{M}\times t_{M}}{12}=\left(r+u+i\right)\times\frac{t_{M}}{12}$$
 
 For instance, if one were to stay in an apartment for 10 months, $$\bar{H}$$ can be written as a percentage of $$H$$ using this formula: $$\bar{H}=\frac{H_{M}\times 10}{12}\approx 83\%\times H_{M}$$.
 
@@ -41,7 +41,7 @@ $$Z=\left(G+f\right)\times D=\left(\frac{2\times x\times g}{m}+p\right)\times d\
 
 Similar to $$\bar{H}$$, the total transportation cost $$Z$$ can be normalized by month.
 
-$$\bar{Z}=\frac{Z}{12}=\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12} \label{transport}$$
+$$\bar{Z}=\frac{Z}{12}=\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}$$
 
 ## Extra Costs
 
@@ -52,7 +52,7 @@ $$E=F+12\times f\times N_{d}$$
 Where the normalized extra cost is simply put.
 
 
-$$\bar{E}=\frac{E}{12}=\frac{F}{12}+f\times N_{d} \label{extra}$$
+$$\bar{E}=\frac{E}{12}=\frac{F}{12}+f\times N_{d}$$
 
 ## Time Costs
 
@@ -64,7 +64,7 @@ $$T=2\times h\times t\times d\times w$$
 
 To normalize, simply divide by 12.
 
-$$\bar{T}=\frac{T}{12}=\frac{h\times t\times d\times w}{6} \label{time}$$
+$$\bar{T}=\frac{T}{12}=\frac{h\times t\times d\times w}{6}$$
 
 ## Conflict Costs
 
@@ -78,13 +78,13 @@ $$\bar{C}=N_{a}\times N_{c}\times N_{2}$$
 
 Due to the fact that $$N_{c}$$ is already defined as the number of conflicting interactions per person _per month_, then this cost is already normalized by month.
 
-$$\bar{C}=N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2} \label{conflict}$$
+$$\bar{C}=N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}$$
 
 ## Total Living Costs
 
-The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations ($$\ref{housing}$$), (\ref{transport}), (\ref{extra}), (\ref{time}), and (\ref{conflict}).
+The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations for $$\bar{H}$$, $$\bar{Z}$$, $$\bar{E}$$, $$\bar{T}$$, and $$\bar{C}$$.
 
-$$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}\label{final1}$$
+$$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}$$
 
 The following equation has the definitions plugged in.
 
@@ -92,9 +92,8 @@ $$\bar{L}=\left(r+u+i\right)\times\frac{t_{M}}{12}
 +\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}
 +\frac{F}{12}+f\times N_{d}
 +\frac{h\times t\times d\times w}{6}
-+N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}
-\label{final2}$$
++N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}$$
 
-To choose the most cost-efficient living space, plug in all the numbers to equation (\ref{final2}) for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
+To choose the most cost-efficient living space, plug in all the numbers to the above equation for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
 
 [Go Back](/)
