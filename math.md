@@ -1,14 +1,12 @@
-# Living Cost Comparison
+# Mathjax Test
 
 [Go Back](/)
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
 
-## Housing Costs
+There is a Mathjax script on this page. Can I write $$\frac{d}{dx}f(x)$$ inline math?
 
-Does $$any+thing$$ work?
-
-$$E=mc^{2}$$
+$$e^x=\sum\frac{x^n}{n!}$$
 
 <!-- In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.") -->
 
