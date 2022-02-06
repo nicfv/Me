@@ -16,6 +16,11 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 * [Berkeley Lab](lbl)
 * [Electronic Arts](ea)
+* [Teaching @ UC Davis](ucd1)
+
+### Educational Experience
+
+* TODO
 
 ### Just for fun
 
