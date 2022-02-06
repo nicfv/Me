@@ -13,10 +13,6 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 * [Berkeley Lab](lbl)
 * [Electronic Arts](ea)
 
-| Work experiences | |
-|-|-|
-| [Berkeley Lab](lbl) | [Electronic Arts](ea) |
-
 ### Fun
 
 * [Mathjax Test](math)
