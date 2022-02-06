@@ -10,7 +10,7 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 ### Resume
 
-[Download Resume](Resume)
+[Download Resume](Resume.pdf)
 
 ### Work experiences
 
