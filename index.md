@@ -16,3 +16,4 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 ### Fun
 
 * [Mathjax Test](math)
+* [Mathjax Test 2](math2)
