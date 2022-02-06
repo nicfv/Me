@@ -8,7 +8,7 @@
 
 In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.")
 
-$$H_{M}=\sum\left(monthly payments\right)\approx r+u+i$$
+<!-- $$H_{M}=\sum\left(monthly payments\right)\approx r+u+i$$ -->
 
 <!-- To not be confused with the [apartment, house, etc\dots] list price per month, rent will be referred as the total monthly payment to sustain a housing environment.
 
