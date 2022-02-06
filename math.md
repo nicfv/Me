@@ -6,7 +6,11 @@
 
 ## Housing Costs
 
-In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.")
+Does $$any+thing$$ work?
+
+$$E=mc^{2}$$
+
+<!-- In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.") -->
 
 <!-- $$H_{M}=\sum\left(monthly payments\right)\approx r+u+i$$ -->
 
