@@ -1,12 +1,12 @@
-# Mathjax Test
+# Living Cost Comparison
 
 [Go Back](/)
 
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
-In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.") -->
+In this paper, rent is referred to the collective sum of rent $$r$$ and any additional monthly fees, which may include utilities $$u$$, water, garbage, internet $$i$$, and taxes. The variable $$H_{M}$$ is defined to refer to the total monthly payment of all housing costs (that is also referred to as just "rent.")
 
-$$H_{M}=\sum\left(monthly payments\right)\approx r+u+i$$
+$$H_{M}=\sum\left(\texttt{monthly payments}\right)\approx r+u+i$$
 
 To not be confused with the [apartment, house, etc\dots] list price per month, rent will be referred as the total monthly payment to sustain a housing environment.
 
@@ -88,14 +88,12 @@ $$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}\label{final1}$$
 
 The following equation has the definitions plugged in.
 
-$$
-\bar{L}=&\left(r+u+i\right)\times\frac{t_{M}}{12}\\
+$$\bar{L}=&\left(r+u+i\right)\times\frac{t_{M}}{12}\\
 &+\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}\\
 &+\frac{F}{12}+f\times N_{d}\\
 &+\frac{h\times t\times d\times w}{6}\\
 &+N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}
-\addnum{final2}
-$$
+\label{final2}$$
 
 To choose the most cost-efficient living space, plug in all the numbers to equation (\ref{final2}) for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
 
