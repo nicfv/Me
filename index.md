@@ -20,7 +20,7 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 ### Educational Experience
 
-* TODO
+* [UC Davis](ucd)
 
 ### Just for fun
 
