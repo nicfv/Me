@@ -19,7 +19,7 @@ $$H=H_{M}\times t_{M}$$
 If the time stayed in the apartment does not equate to an integer number of years, the rent can be normalized to an monthly payment for an annual basis.
 
 
-$$\bar{H}=\frac{H}{12}=\frac{H_{M}\times t_{M}}{12}=\left(r+u+i\right)\times\frac{t_{M}}{12} \label{housing}$$
+<!-- $$\bar{H}=\frac{H}{12}=\frac{H_{M}\times t_{M}}{12}=\left(r+u+i\right)\times\frac{t_{M}}{12} \label{housing}$$ -->
 
 For instance, if one were to stay in an apartment for 10 months, $$\bar{H}$$ can be written as a percentage of $$H$$ using this formula: $$\bar{H}=\frac{H_{M}\times 10}{12}\approx 83\%\times H_{M}$$.
 
@@ -43,7 +43,7 @@ $$Z=\left(G+f\right)\times D=\left(\frac{2\times x\times g}{m}+p\right)\times d\
 
 Similar to $$\bar{H}$$, the total transportation cost $$Z$$ can be normalized by month.
 
-$$\bar{Z}=\frac{Z}{12}=\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12} \label{transport}$$
+<!-- $$\bar{Z}=\frac{Z}{12}=\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12} \label{transport}$$ -->
 
 ## Extra Costs
 
@@ -54,7 +54,7 @@ $$E=F+12\times f\times N_{d}$$
 Where the normalized extra cost is simply put.
 
 
-$$\bar{E}=\frac{E}{12}=\frac{F}{12}+f\times N_{d} \label{extra}$$
+<!-- $$\bar{E}=\frac{E}{12}=\frac{F}{12}+f\times N_{d} \label{extra}$$ -->
 
 ## Time Costs
 
@@ -66,7 +66,7 @@ $$T=2\times h\times t\times d\times w$$
 
 To normalize, simply divide by 12.
 
-$$\bar{T}=\frac{T}{12}=\frac{h\times t\times d\times w}{6} \label{time}$$
+<!-- $$\bar{T}=\frac{T}{12}=\frac{h\times t\times d\times w}{6} \label{time}$$ -->
 
 ## Conflict Costs
 
@@ -80,25 +80,25 @@ $$\bar{C}=N_{a}\times N_{c}\times N_{2}$$
 
 Due to the fact that $$N_{c}$$ is already defined as the number of conflicting interactions per person _per month_, then this cost is already normalized by month.
 
-$$\bar{C}=N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2} \label{conflict}$$
+<!-- $$\bar{C}=N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2} \label{conflict}$$ -->
 
 ## Total Living Costs
 
-The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations ($$\ref{housing}$$), (\ref{transport}), (\ref{extra}), (\ref{time}), and (\ref{conflict}).
+The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations (\ref{housing}), (\ref{transport}), (\ref{extra}), (\ref{time}), and (\ref{conflict}).
 
-$$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}\label{final1}$$
+<!-- $$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}\label{final1}$$ -->
 
 The following equation has the definitions plugged in.
 
-$$
+<!-- $$
 \bar{L}=&\left(r+u+i\right)\times\frac{t_{M}}{12}\\
 &+\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}\\
 &+\frac{F}{12}+f\times N_{d}\\
 &+\frac{h\times t\times d\times w}{6}\\
 &+N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}
 \addnum{final2}
-$$
+$$ -->
 
-To choose the most cost-efficient living space, plug in all the numbers to equation $$(\ref{final2})$$ for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
+To choose the most cost-efficient living space, plug in all the numbers to equation (\ref{final2}) for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
 
 [Go Back](/)
