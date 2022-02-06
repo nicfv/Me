@@ -82,17 +82,17 @@ $$\bar{C}=N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2} \label{conflict}$$
 
 ## Total Living Costs
 
-The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations (\ref{housing}), (\ref{transport}), (\ref{extra}), (\ref{time}), and (\ref{conflict}).
+The total living cost per month is hereby defined as $$\bar{L}$$. This number is the sum of the derived numbers above in equations ($$\ref{housing}$$), (\ref{transport}), (\ref{extra}), (\ref{time}), and (\ref{conflict}).
 
 $$\bar{L}=\bar{H}+\bar{Z}+\bar{E}+\bar{T}+\bar{C}\label{final1}$$
 
 The following equation has the definitions plugged in.
 
-$$\bar{L}=&\left(r+u+i\right)\times\frac{t_{M}}{12}\\
-&+\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}\\
-&+\frac{F}{12}+f\times N_{d}\\
-&+\frac{h\times t\times d\times w}{6}\\
-&+N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}
+$$\bar{L}=\left(r+u+i\right)\times\frac{t_{M}}{12}
++\left(\frac{2\times x\times g}{m}+p\right)\times\frac{d\times w}{12}
++\frac{F}{12}+f\times N_{d}
++\frac{h\times t\times d\times w}{6}
++N_{a}\times N_{c}\times\frac{N_{p}^{2}-N_{p}}{2}
 \label{final2}$$
 
 To choose the most cost-efficient living space, plug in all the numbers to equation (\ref{final2}) for each of your living options, and choose the one with the minimum $$\bar{L}$$. And that's it!
