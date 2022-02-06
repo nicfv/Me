@@ -14,7 +14,8 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 ### Work experiences
 
-[Berkeley Lab](lbl) | [Electronic Arts](ea)
+* [Berkeley Lab](lbl)
+* [Electronic Arts](ea)
 
 ### Fun
 
