@@ -10,7 +10,8 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 ### Resume
 
-[Download Resume](Resume.pdf)
+* [Download Resume](Resume.pdf)
+* [Linkedin](https://www.linkedin.com/in/nfv/)
 
 ### Work experiences
 
@@ -25,3 +26,4 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 ### Just for fun
 
 * [Living Cost Comparison](col)
+* [Winning Rock-Paper-Scissors](rps)
