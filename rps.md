@@ -40,9 +40,9 @@ They still unknowingly abide by behavioral rules 1 and 2 which makes their next 
 
 | v Opp / You > | ROCK     | PAPER | SCISSORS |
 |---------------|----------|-------|----------|
-| ROCK          | scissors | rock  | paper    |
-| PAPER         | scissors | rock  | paper    |
-| SCISSORS      | scissors | rock  | paper    |
+| __ROCK__      | scissors | rock  | paper    |
+| __PAPER__     | scissors | rock  | paper    |
+| __SCISSORS__  | scissors | rock  | paper    |
 
 _Summary:_ In Case 1, your next move should be whichever object would lose to the one you had just played, regardless of your opponent's move.
 
@@ -54,9 +54,9 @@ Your opponent assumes that you will follow rules 1 and 2 and plans their move ac
 
 | v Opp / You > | ROCK     | PAPER    | SCISSORS |
 |---------------|----------|----------|----------|
-| ROCK          | rock     | rock     | rock     |
-| PAPER         | paper    | paper    | paper    |
-| SCISSORS      | scissors | scissors | scissors |
+| __ROCK__      | rock     | rock     | rock     |
+| __PAPER__     | paper    | paper    | paper    |
+| __SCISSORS__  | scissors | scissors | scissors |
 
 _Summary:_ In Case 2, your next move should be what your opponent has just played, regardless of your move.
 
@@ -68,17 +68,17 @@ Consider this. Your opponent will follow the same process that you had just went
 
 | v You / Opp > | ROCK | PAPER | SCISSORS |
 |---------------|------|-------|----------|
-| ROCK          | rock | paper | scissors |
-| PAPER         | rock | paper | scissors |
-| SCISSORS      | rock | paper | scissors |
+| __ROCK__      | rock | paper | scissors |
+| __PAPER__     | rock | paper | scissors |
+| __SCISSORS__  | rock | paper | scissors |
 
 Therefore, in order to beat your opponent, you must plan your next move to beat your own thought process from Case 2. Just play whichever object will win in each cell of the table shown above. Below is the table for what you should play.
 
 | v Opp / You > | ROCK  | PAPER    | SCISSORS |
 |---------------|-------|----------|----------|
-| ROCK          | paper | scissors | rock     |
-| PAPER         | paper | scissors | rock     |
-| SCISSORS      | paper | scissors | rock     |
+| __ROCK__      | paper | scissors | rock     |
+| __PAPER__     | paper | scissors | rock     |
+| __SCISSORS__  | paper | scissors | rock     |
 
 _Summary:_ In Case 3, your next move should be whichever object would beat your current play, regardless of your opponent's move.
 
@@ -96,17 +96,17 @@ Your opponent will follow the same process that you had just went through in Cas
 
 | v You / Opp > | ROCK     | PAPER    | SCISSORS |
 |---------------|----------|----------|----------|
-| ROCK          | paper    | paper    | paper    |
-| PAPER         | scissors | scissors | scissors |
-| SCISSORS      | rock     | rock     | rock     |
+| __ROCK__      | paper    | paper    | paper    |
+| __PAPER__     | scissors | scissors | scissors |
+| __SCISSORS__  | rock     | rock     | rock     |
 
 To win, simply pick the object which will beat your opponent's move.
 
 | v Opp / You > | ROCK     | PAPER    | SCISSORS |
 |---------------|----------|----------|----------|
-| ROCK          | scissors | scissors | scissors |
-| PAPER         | rock     | rock     | rock     |
-| SCISSORS      | paper    | paper    | paper    |
+| __ROCK__      | scissors | scissors | scissors |
+| __PAPER__     | rock     | rock     | rock     |
+| __SCISSORS__  | paper    | paper    | paper    |
 
 This works for any case, assuming your opponent strictly follows these rules. Of course, there is always some randomness in human behavior, so don't expect this to work all the time. Maybe not even half the time. You will win a truly random game of Rock Paper Scissors only 33.3% of the time. But maybe this guide can give you a few percent boost. Good luck!
 
