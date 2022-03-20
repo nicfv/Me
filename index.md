@@ -1,6 +1,6 @@
 # About Me
 
-![me](./media/me.jpg)
+![me](./me.jpg)
 
 ## Welcome to my website!
 
@@ -19,7 +19,7 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 * [Berkeley Lab](lbl)
 * [Electronic Arts](ea)
-* [Teaching @ UC Davis](ucd1)
+* [Teaching @ UC Davis](ta)
 
 ### Educational Experience
 
