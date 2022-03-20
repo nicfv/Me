@@ -1,5 +1,7 @@
 # About Me
 
+![me](./media/me.jpg)
+
 ## Welcome to my website!
 
 Hello, world! My name is Nicolas Ventura, or Nic. I am currently a graduate student at the Univerisity of California, at Davis. I graduated in 2021 with a B.S. in mechanical engineering and working towards a master's degree in mechanical and aerospace engineering, focusing on computational science and analysis. I have had several diverse experiences, ranging from competing in a business startup incubator, to game development, and energy efficiency.

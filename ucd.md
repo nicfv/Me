@@ -25,6 +25,10 @@ UC PLASMA was an intense, 14-week long business startup competition open to curr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gytPDLGHiXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+![makeathon](./media/matheathon.jpg)
+
+_The THNKRs team with their awards from the Biomedical Engineering Society Make-A-Thon, where the idea for AccuDropper originated._
+
 ### Senior Design
 
 In 2021, I worked in a team of 6 to design a device that would aid in the research of neurobiology. Our device was to keep the head of a mouse still to conduct brain scans while allowing the rest of the mouse to experience natural movement. Our team came up with a spherical treadmill for the mouse to run on, surrounded by virtual reality screens to emulate being in a maze. We called this, the _Oculus Mouse_.

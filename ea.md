@@ -14,4 +14,8 @@ What I did for this was create a visual heatmap of the world that updated in rea
 
 Just a week before my internship ended, the last of my code was pushed to the production stage and the big reveal was that I got to see and show my visual update in real time. It was so satisfying to see it work in production, and my only regret was that it was a fully remote internship so I could not see it on their big screens in the studio with the rest of my team.
 
+![credits](./media/ea_credits.png)
+
+_In-game screenshot of the credits of Star Wars: Galaxy of Heroes._
+
 [Go Back](/)

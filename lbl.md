@@ -10,6 +10,10 @@ I was hired as an asset integrity verification engineer. One of the first things
 
 Many of the source drawings were very old and outdated which made it a difficult job. Doing field surveys sometimes rose even more questions. Being an asset integrity verification engineer wasn't the most exciting job, however I learned a lot and got a lot out of that internship. The facilities', and my mentor's, mission was to support the ongoing science of the lab, and I believe I contributed to that effort.
 
+![fac](./media/lbl_1.png)
+
+_Me (second from right) with the 6 other facilities interns on a field survey for a water valve replacement above Berkeley Lab._
+
 ## NERSC Systems
 
 My second job at LBL is with NERSC (the National Energy Research Scientific Computing center) as an energy efficiency engineer starting in 2021. I didn't know much about NERSC beforehand, but it is home to some of the biggest, most powerful, and energy efficient supercomputers used for science. In fact, during the time I worked there, the NERSC-9 computer called _Perlmutter_ made 5th place in the Top500 and 7th place in the Green500. The Top500 and Green500 use an algorithm to measure the speed and power usage of the 500 most powerful supercomputers in the world. Perlmutter taking 5th and 7th place was completely unprecedented.
