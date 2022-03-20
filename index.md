@@ -25,6 +25,13 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 * [UC Davis](ucd)
 
+### Travel/Photography
+
+* [Hiking in California](ca-hike.md)
+* [Skiing in California](ca-ski.md)
+* [Camping in California](ca-camp.md)
+* [Camping in Oregon](or-camp.md)
+
 ### Just for fun
 
 * [Living Cost Comparison](col)
