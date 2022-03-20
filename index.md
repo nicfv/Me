@@ -27,10 +27,10 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 ### Travel/Photography
 
-* [Hiking in California](ca-hike.md)
-* [Skiing in California](ca-ski.md)
-* [Camping in California](ca-camp.md)
-* [Camping in Oregon](or-camp.md)
+* [Hiking in California](ca-hike)
+* [Skiing in California](ca-ski)
+* [Camping in California](ca-camp)
+* [Camping in Oregon](or-camp)
 
 ### Just for fun
 
