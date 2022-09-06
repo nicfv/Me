@@ -14,6 +14,7 @@ Aside from engineering, I am also passionate about running, biking, and camping,
 
 * [Download Resume](Resume.pdf)
 * [Linkedin](https://www.linkedin.com/in/nfv/)
+* [GitHub](https://github.com/nicfv)
 
 ### Work experiences
 
