@@ -4,15 +4,11 @@
 
 ## Capital Games
 
-In 2020 during the thick of the pandemic, I worked virtually for Capital Games, a studio within EA, one of the biggest game developers in the world. Capital Games' pride and joy was a mobile game called _Star Wars: Galaxy of Heroes_. Of course being a huge Star Wars fan, I started playing that game once I first heard about it.
+In 2020, I worked virtually for Capital Games, a studio within EA, one of the biggest game developers in the world. I helped the development of the mobile game called _Star Wars: Galaxy of Heroes_ by creating administrative tools for the game developers to obtain instant feedback of the game.
 
-The summer that I worked for Capital Games went by very fast, but I still had the time to finish two meaningful projects. The first one was to get me introduced to the admin panel on the game server. My team needed a centralized log of administrator actions, since many of the game administrators were outsourced. An example an admin action is banning a player from the game or gifting items to a player. The main reason for this is for the Capital Games developers to ensure that the game remains fair to all players.
+My first project was to create a centralized log of administrator actions to exist on the server admin panel. An example of an administrator action is banning a player from the game or gifting items to a player. The centralized log ensures that the game remains fair and enjoyable for all players.
 
-My other project was more long-term and it was completely up to me in terms of tech stack and visual appearance. I had to start by essentially writing a project proposal called a technical design document that outlined all the tools I was going to use and timeframe estimates for each stage in the project. My project was to show in some way the game's revenue separated by world regions.
-
-What I did for this was create a visual heatmap of the world that updated in real-time to show in-app purchases. The color intensity would be based off of the amount of revenue, separated by country. I built the dashboard so that it was interactive; hovering or clicking on a country would show more details about the recent purchases made. I wrote some code in the game server iteslef to stream the data from the back end, which did not affect gameplay at all.
-
-Just a week before my internship ended, the last of my code was pushed to the production stage and the big reveal was that I got to see and show my visual update in real time. It was so satisfying to see it work in production, and my only regret was that it was a fully remote internship so I could not see it on their big screens in the studio with the rest of my team.
+I had more freedom in my second project. I was tasked with finding a way to display in-game revenue by geographical location and for this I decided to build a __global heatmap of player purchases__. I wrote a project proposal for this and split up my project into smaller tasks to work via the agile methodology. My project ended up being a visual dashboard which displayed a world map that was interactive. I used JavaScript and SVG for the frontend and Java and Redis for the backend to process the revenue data from the game server. I finished the project in time for the end of my internship and my code was pushed to production, and I got to see my program work with real data in real time.
 
 ![credits](./ea_credits.png)
 
