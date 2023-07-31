@@ -1,0 +1,12 @@
+@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
+
+* {
+    box-sizing: border-box;
+    border-collapse: collapse;
+    outline: none;
+}
+
+html,
+body {
+    height: 100%;
+}
