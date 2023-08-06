@@ -23,8 +23,7 @@ body {
 }
 
 html {
-    background: linear-gradient(#9ae, #bee);
-    background-attachment: fixed;
+    background: #def
 }
 
 body {
@@ -76,8 +75,8 @@ h2 {
 }
 
 img.social {
-    width: 32px;
-    height: auto;
+    width: auto;
+    height: 32px;
 }
 
 ::selection {
