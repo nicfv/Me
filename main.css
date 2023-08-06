@@ -15,18 +15,12 @@
 html {
     width: 100%;
     height: 100%;
+    background: #eee;
 }
 
 body {
     width: 100%;
     min-height: 100%;
-}
-
-html {
-    background: #def
-}
-
-body {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,8 +28,9 @@ body {
 
 div.row,
 div.col {
-    display: flex;
     padding: 1em;
+    display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
@@ -57,9 +52,6 @@ div.circ {
 }
 
 div.circ>img {
-    object-fit: fill;
-    display: inline;
-    margin: 0 auto;
     margin-left: -25%;
     height: 100%;
     width: auto;
