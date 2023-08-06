@@ -35,7 +35,7 @@ body {
 div.row,
 div.col {
     display: flex;
-    padding: 1em 10em;
+    padding: 1em;
     justify-content: center;
     align-items: center;
 }
