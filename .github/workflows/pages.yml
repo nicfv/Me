@@ -29,13 +29,12 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check Package Versions
-        run: |
-          python --version
-          pip --version
-          mkdocs --version
+      - name: Install Packages
+        run: pip install mkdocs
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Build Website
+        run: mkdocs build && ls
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
