@@ -42,4 +42,8 @@ extra:
       link: https://www.npmjs.com/~nfv
     - icon: material/language-python
       link: https://pypi.org/user/nfv/
+    - icon: fontawesome/solid/blog
+      link: https://blog.nicfv.com/
+    - icon: material/camera
+      link: https://photos.nicfv.com/
   generator: false
