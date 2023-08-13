@@ -1,0 +1,26 @@
+site_name: Photos
+site_description: A space for photos of my travels, just for fun.
+site_author: Nicolas Ventura
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+  favicon: icon.svg
+  features:
+    - navigation.footer
+extra:
+  social:
+    - icon: material/web
+      link: https://nicolasventura.com/
+    - icon: material/email
+      link: mailto:nicolas@ventura.cx
+  generator: false
