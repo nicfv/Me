@@ -2,7 +2,7 @@ site_name: Blog
 site_description: A space for my thoughts.
 site_author: Nicolas Ventura
 nav:
-  - Home: index.md
+  - index.md
 theme:
   name: material
   palette:
@@ -25,8 +25,8 @@ theme:
   icon:
     logo: material/book-open-page-variant
   favicon: icon.svg
-markdown_extensions:
-  - attr_list
+  features:
+    - navigation.footer
 plugins:
   - search
   - blog:
