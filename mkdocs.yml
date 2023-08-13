@@ -29,7 +29,8 @@ markdown_extensions:
   - attr_list
 plugins:
   - search
-  - blog
+  - blog:
+      blog_dir: .
 extra:
   social:
     - icon: material/web
