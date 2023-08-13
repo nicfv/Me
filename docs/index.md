@@ -4,12 +4,10 @@ hide:
   - toc
 ---
 
-<div class="grid cards" markdown>
 
-- # Nicolas Ventura
-- ![Me](me.jpg)
+![Me](me.jpg){ style="max-width:100px;height:auto;float:right;" }
 
-</div>
+# Nicolas Ventura
 
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
