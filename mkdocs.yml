@@ -42,7 +42,7 @@ extra:
       link: https://www.npmjs.com/~nfv
     - icon: material/language-python
       link: https://pypi.org/user/nfv/
-    - icon: fontawesome/solid/blog
+    - icon: material/book-open-page-variant
       link: https://blog.nicfv.com/
     - icon: material/camera
       link: https://photos.nicfv.com/
