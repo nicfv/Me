@@ -12,4 +12,4 @@ hide:
 
 ## Engineer-In-Training Certified in the state of California
 
-[:fontawesome-brands-twitter: Download Resume](Resume.pdf){ .md-button }
+[:material-download: Download Resume](Resume.pdf){ .md-button .md-button--primary }
