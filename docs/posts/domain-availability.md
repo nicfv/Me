@@ -101,7 +101,7 @@ Anything above this is usually available except for popular words as well. At 5 
 
 Requiring 3 consonants and 2 vowels leaves only about 2% of the combinations from the 5-letter sample size. Even just removing 4 letters from that subset almost halved the amount of combinations, which is about 1% of the original sample size. However, the vowels can be rearranged in a `CVCCV` or `CCVCV` pattern and possibly be pronounceable, which increases the sample size by a factor of 3, or about 3% of the supply.
 
-## Six-Character
+### Six-Character
 
 The following is a rough number of pronounceable combinations of 6 letters.
 
