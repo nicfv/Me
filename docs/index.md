@@ -4,7 +4,6 @@ hide:
   - toc
 ---
 
-
 ![Me](me.jpg){ style="max-width:200px;height:auto;float:right;" }
 
 # Nicolas Ventura
@@ -16,3 +15,5 @@ hide:
 ## Engineer-In-Training Certified in the state of California
 
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
+
+> Click the links below to learn more!

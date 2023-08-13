@@ -20,7 +20,8 @@ theme:
       toggle:
         icon: material/brightness-3
         name: Switch to light mode
-  logo: icon.svg
+  icon:
+    logo: fontawesome/solid/user
   favicon: icon.svg
 plugins: []
 markdown_extensions:
