@@ -26,14 +26,20 @@ theme:
 plugins: []
 markdown_extensions:
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - md_in_html
 extra:
   social:
     - icon: material/web
       link: https://nicolasventura.com/
     - icon: material/email
       link: mailto:nicolas@ventura.cx
+    - icon: material/linkedin
+      link: https://www.linkedin.com/in/nfv/
+    - icon: material/github
+      link: https://github.com/nicfv
+    - icon: material/microsoft-visual-studio
+      link: https://marketplace.visualstudio.com/publishers/ventura
+    - icon: material/npm
+      link: https://www.npmjs.com/~nfv
+    - icon: material/language-python
+      link: https://pypi.org/user/nfv/
   generator: false
