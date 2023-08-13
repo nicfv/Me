@@ -6,7 +6,7 @@ hide:
 
 # Nicolas Ventura
 
-![Me](me.jpg){ .md-typeset }
+![Me](me.jpg){ border-radius:100%; }
 
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
