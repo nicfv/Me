@@ -1,2 +1,37 @@
 site_name: Blog
-theme: minty
+site_description: A space for my thoughts.
+site_author: Nicolas Ventura
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-1
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+  icon:
+    logo: material/book-open-page-variant
+  favicon: icon.svg
+markdown_extensions:
+  - attr_list
+plugins:
+  - blog:
+      blog_dir: .
+extra:
+  social:
+    - icon: material/web
+      link: https://nicolasventura.com/
+    - icon: material/email
+      link: mailto:nicolas@ventura.cx
+  generator: false
