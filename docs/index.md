@@ -5,7 +5,7 @@ hide:
 ---
 
 
-![Me](me.jpg){ style="max-width:100px;height:auto;float:right;" }
+![Me](me.jpg){ style="max-width:200px;height:auto;float:right;" }
 
 # Nicolas Ventura
 
@@ -15,4 +15,4 @@ hide:
 
 ## Engineer-In-Training Certified in the state of California
 
-[:material-download: Download Resume](Resume.pdf){ .md-button .md-button--primary }
+[:material-download: Download Resume](Resume.pdf){ .md-button .md-button--primary download }
