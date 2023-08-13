@@ -1,6 +1,9 @@
 site_name: Blog
 site_description: A space for my thoughts.
 site_author: Nicolas Ventura
+nav:
+  Blog:
+    - blog/index.md
 theme:
   name: material
   palette:
