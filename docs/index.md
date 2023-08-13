@@ -12,4 +12,4 @@ hide:
 
 ## Engineer-In-Training Certified in the state of California
 
-<button href="Resume.pdf" download="Resume-Nicolas-Ventura">:material-download: Download Resume</button>
+[:material-download: Download Resume](Resume.pdf){.md-button}

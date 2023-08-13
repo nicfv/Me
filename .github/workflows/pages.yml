@@ -29,10 +29,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Verify Versions
-        run: |
-          python --version
-          pip --version
       - name: Install Packages
         run: pip install mkdocs mkdocs-material
       - name: Checkout
