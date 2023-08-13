@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-![Me](me.jpg){ .md-author }
+![Me](me.jpg){ .md-source-file__fact }
 
-<div style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;">
+<div style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;" markdown>
 
 ![Me](me.jpg){ style="margin-left:-25%;height:100%;width:auto;" }
 
@@ -14,9 +14,13 @@ hide:
 
 <div class="grid" markdown>
 
-# Nicolas Ventura
+=== "Hello"
 
-![Me](me.jpg)
+    # Nicolas Ventura
+
+=== "World"
+
+    ![Me](me.jpg)
 
 </div>
 
