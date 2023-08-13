@@ -2,7 +2,7 @@ site_name: Blog
 site_description: A space for my thoughts.
 site_author: Nicolas Ventura
 nav:
-  - Home: blog/index.md
+  - Home: index.md
 theme:
   name: material
   palette:
