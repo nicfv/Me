@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Nicolas Ventura
+# Nicolas Ventura{ [text-align=center] }
 
 ![Me](me.jpg){ border-radius:100%; }
 
