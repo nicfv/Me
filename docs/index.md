@@ -15,4 +15,4 @@ hide:
 
 ## Engineer-In-Training Certified in the state of California
 
-[Download Resume](Resume.pdf){ .md-button .md-button--primary download }
+[Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
