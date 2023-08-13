@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Deploy to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
@@ -29,15 +29,25 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      - name: Verify Versions
+        run: |
+          python --version
+          pip --version
+      - name: Install Packages
+        run: pip install mkdocs mkdocs-material
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Build Website
+        run: python run.py
+      - name: Run mkdocs
+        run: mkdocs build
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          # Upload entire repository
-          path: '.'
+          # Upload site/ directory
+          path: 'site'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
