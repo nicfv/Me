@@ -6,6 +6,8 @@ hide:
 
 # Nicolas Ventura
 
+![Me](me.jpg){ .md-typeset }
+
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
 ## M.S. Mechanical & Aerospace Engineering
