@@ -1,5 +1,5 @@
-site_name: Photos
-site_description: A space for photos of my travels, just for fun.
+site_name: Nicolas Ventura
+site_description: Portfolio
 site_author: Nicolas Ventura
 theme:
   name: material
@@ -17,6 +17,7 @@ theme:
   favicon: icon.svg
   features:
     - navigation.footer
+plugins: []
 extra:
   social:
     - icon: material/web
