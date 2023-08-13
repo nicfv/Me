@@ -28,6 +28,7 @@ theme:
 markdown_extensions:
   - attr_list
 plugins:
+  - search
   - blog
 extra:
   social:
