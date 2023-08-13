@@ -6,7 +6,15 @@ hide:
 
 # Nicolas Ventura
 
-![Me](me.jpg){ style="float-right;width:100px;height:auto;border-radius:100%;" }
+![Me](me.jpg){ style="margin-left:-25%;height:100%;width:auto;" }
+
+![Me](me.jpg){ style="margin-left:-25%;height:100%;width:auto;" }{ style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;" }
+
+![Me](me.jpg){ style="margin-left:-25%;height:100%;width:auto;" }{: style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;" }
+
+![Me](me.jpg){: style="margin-left:-25%;height:100%;width:auto;" }{ style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;" }
+
+![Me](me.jpg){: style="margin-left:-25%;height:100%;width:auto;" }{: style="width:100px;height:100px;overflow:hidden;border-radius:50%;border:1px solid black;" }
 
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
