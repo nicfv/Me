@@ -8,7 +8,7 @@ hide:
 
 ![Me](me.jpg){ border-radius:100%; }
 
-## Data Center Engineer @ Lawrence Berkeley National Lab
+## Data Center Engineer @ Lawrence Berkeley National Lab{ style="color:red" }
 
 ## M.S. Mechanical & Aerospace Engineering
 
