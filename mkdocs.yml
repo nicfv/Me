@@ -46,4 +46,8 @@ extra:
       link: https://blog.nicfv.com/
     - icon: material/camera
       link: https://photos.nicfv.com/
+    - icon: material/format-letter-matches
+      link: https://wordle.nicfv.com/
+    - icon: material/hexagon
+      link: https://hexles.com/
   generator: false
