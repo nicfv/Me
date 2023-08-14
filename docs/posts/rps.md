@@ -2,7 +2,7 @@
 date: 2021-01-05
 date_updated: 2022-06-07
 categories:
-  - shower thought
+  - Shower Thought
 tags:
   - rock
   - papaer

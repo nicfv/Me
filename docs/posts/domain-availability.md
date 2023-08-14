@@ -1,8 +1,8 @@
 ---
 date: 2022-06-07
 categories:
-  - tech
-  - shower thought
+  - Tech
+  - Shower Thought
 tags:
   - domain
 ---
