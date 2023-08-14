@@ -1,9 +1,10 @@
 ---
 date: 2022-06-07
 categories:
-  - Tech
   - Shower Thought
 tags:
+  - tech
+  - website
   - domain
 ---
 # Domain Name Availability

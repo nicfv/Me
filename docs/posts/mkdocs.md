@@ -1,9 +1,9 @@
 ---
 date: 2023-08-12
 categories:
-  - Tech
   - Project
 tags:
+  - tech
   - website
   - mkdocs
 ---

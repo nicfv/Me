@@ -3,6 +3,7 @@ site_description: A space for my thoughts.
 site_author: Nicolas Ventura
 nav:
   - index.md
+  - tags.md
 theme:
   name: material
   palette:

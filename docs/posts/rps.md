@@ -4,10 +4,8 @@ date_updated: 2022-06-07
 categories:
   - Shower Thought
 tags:
-  - rock
-  - papaer
-  - scissors
-  - theory
+  - rock, paper, scissors
+  - game theory
 ---
 # How To Win at Rock-Paper-Scissors
 
