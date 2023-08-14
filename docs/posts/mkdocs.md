@@ -1,5 +1,11 @@
 ---
 date: 2023-08-12
+categories:
+  - tech
+  - project
+tags:
+  - website
+  - mkdocs
 ---
 # The birth of my 3 'main' websites
 

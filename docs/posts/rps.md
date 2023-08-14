@@ -1,6 +1,13 @@
 ---
 date: 2021-01-05
 date_updated: 2022-06-07
+categories:
+  - shower thought
+tags:
+  - rock
+  - papaer
+  - scissors
+  - theory
 ---
 # How To Win at Rock-Paper-Scissors
 
