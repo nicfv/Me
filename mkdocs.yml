@@ -27,7 +27,8 @@ theme:
   favicon: icon.svg
 plugins:
   - search
-  - tags
+  - tags:
+      - tags_file: tags.md
   - blog:
       blog_dir: .
 extra:
