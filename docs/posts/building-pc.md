@@ -104,4 +104,4 @@ cd cnijfilter-mx410series-3.50-1-deb
 sudo ./install.sh
 ```
 
-...The driver built sucessfully, and the printer finally responded to all my printing requests!
+...The driver built sucessfully, and the printer was finally conquered!
