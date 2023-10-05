@@ -6,7 +6,9 @@ hide:
 
 ![Me](me.jpg){ style="max-width:200px;height:auto;float:right;" }
 
-# Nicolas Ventura
+# Nicolas (Nic) Ventura
+
+###### he/him
 
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
