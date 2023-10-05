@@ -36,6 +36,8 @@ extra:
       link: https://www.linkedin.com/in/nfv/
     - icon: material/github
       link: https://github.com/nicfv
+    - icon: material/stack-overflow
+      link: https://stackoverflow.com/users/15317094/nfv
     - icon: material/microsoft-visual-studio
       link: https://marketplace.visualstudio.com/publishers/ventura
     - icon: material/npm
