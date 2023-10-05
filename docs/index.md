@@ -8,8 +8,6 @@ hide:
 
 # Nicolas (Nic) Ventura
 
-###### he/him
-
 ## Data Center Engineer @ Lawrence Berkeley National Lab
 
 ## M.S. Mechanical & Aerospace Engineering
@@ -19,5 +17,7 @@ hide:
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
 
 > Click the links below to learn more!
+
+###### he/him
 
 ###### Last updated 
