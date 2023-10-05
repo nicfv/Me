@@ -50,7 +50,7 @@ One month (M) is about the length of time that corresponds to one cycle of the m
 
 ## Years
 
-One year (y) is the length of time for Earth to complete one revolution around the Sun. It is always exactly 12 months, which contain a variable amount of days. One year is about 365 or 366 days.
+One year (Y) is the length of time for Earth to complete one revolution around the Sun. It is always exactly 12 months, which contain a variable amount of days. One year is about 365 or 366 days.
 
 ## Weeks
 
@@ -88,7 +88,7 @@ The cells containing "X" have an exact factor from one unit of time to another.
 
 It's clear that months and years cannot be easily converted into any other unit of time besides each other. How do we fix this?
 
-# Proposed Solution
+## Proposed Solution
 
 Our timekeeping system is in desparate need of an overhaul. My motivations to create a universal timekeeping system are:
 
