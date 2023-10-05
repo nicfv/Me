@@ -39,3 +39,4 @@ extra:
     - icon: material/email
       link: mailto:nicolas@ventura.cx
   generator: false
+copyright: Copyright &copy; 2023 Nicolas Ventura
