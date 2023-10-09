@@ -42,6 +42,8 @@ C = Length / Time
 
 > Proportionality constant between the gravitational force of two bodies and their masses and distance apart
 
+# REVISE: THERE IS AN ERROR HERE. IT SHOULD BE T^(-2) NOT T^(-1)
+
 ```
 G = Force * Length ^ 2 / Mass ^ 2
   = M^(1)L^(1)T^(-2) * L^(2) * M^(-2)
@@ -161,7 +163,7 @@ First let's determine the conversion rate of our fundamental unit of distance, t
 
 ```
 1 V = 1 (G * h)^(1/5)
-G = 6.674E-11 kg*m^(3)/s^(2)
+G = 6.674E-11 m^(3)/kg/s^(2)
 h = 6.626E-34 kg*m^(2)/s
 => (G * h)^(1/5) =~ 2.13367 nm
 ```
