@@ -58,14 +58,6 @@ B = Energy / Temperature
   = M^(1)L^(2)T^(-2)H^(-1)
 ```
 
-<!-- ## Stefan-Boltzmann Constant
-
-```
-Sigma = Power / Length ^ 2 / Temperature ^ 4
-      = M(1)L(2)T(-3) * L(-2) * H(-4)
-      = M(1)T(-3)H(-4)
-``` -->
-
 ### Planck Constant
 
 > The ratio of a photon's energy over its wavelength
