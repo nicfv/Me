@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Packages
-        run: pip install mkdocs mkdocs-material==9.2.0b3
+        run: pip install mkdocs mkdocs-material
       - name: Checkout
         uses: actions/checkout@v3
       - name: Build Website
