@@ -9,7 +9,7 @@ tags:
 
 # Blessed Units
 
-Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogether and come up with a new, pure unit system to describe our world, the *Ventura Unit System*, or VUS, pronounced *views*. For example, lets use "speed of light"s to describe quantities of velocity. Since this is a blog post and not a scientific research paper, let's keep this simple, assuming there are only 4 (out of the [seven](https://en.wikipedia.org/wiki/SI_base_unit)) physical base units in our universe. Let's also assume our universe has 4 [fundamental constants](https://en.wikipedia.org/wiki/Physical_constant). See the tables below for the list of each and symbols.
+Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogether and come up with a new, pure unit system to describe our world, the *Blessed Unit System*, or BUS, pronounced *booze*. For example, lets use "speed of light"s to describe quantities of velocity. Since this is a blog post and not a scientific research paper, let's keep this simple, assuming there are only 4 (out of the [seven](https://en.wikipedia.org/wiki/SI_base_unit)) physical base units in our universe. Let's also assume our universe has 4 [fundamental constants](https://en.wikipedia.org/wiki/Physical_constant). See the tables below for the list of each and symbols.
 
 ## Table of Reference
 
@@ -27,7 +27,7 @@ Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogethe
 | [Boltzmann Constant](#boltzmann-constant) | B |
 | [Planck Constant](#planck-constant) | h |
 
-Let's create the Ventura Unit System using these fundamental physical constants. First, we need to define the constants in terms of their base units. For this, we can break down each constant into it's base units and combine them by adding or subtracting their exponents. Units of length, for example, are expressed in `L` or `L^(1)`. Area, which is length squared, is expressed in `L*L = L^(1) * L^(1) = L^(1+1) = L^(2)`. Inverted units are subtracted instead of added, because they have negative exponents.
+Let's create the Blessed Unit System using these fundamental physical constants. First, we need to define the constants in terms of their base units. For this, we can break down each constant into it's base units and combine them by adding or subtracting their exponents. Units of length, for example, are expressed in `L` or `L^(1)`. Area, which is length squared, is expressed in `L*L = L^(1) * L^(1) = L^(1+1) = L^(2)`. Inverted units are subtracted instead of added, because they have negative exponents.
 
 ### Speed of Light
 
@@ -162,23 +162,23 @@ We already calculated mass above, and to spare the reader from all the math, I c
 
 ## Conclusion
 
-Let's finish this up by wrapping up what I originally did this research for and use one of these newly represented quantities. First, an easy example: If I'm driving at 60 miles per hour (~100 KPH), what is my velocity in the Ventura Unit System (VUS)? Start by defining what my units of velocity are. From the table above, speed is measured in `C`, or "speeds of light". 1 speed of light (or 1 C) is just over 1 billion kilometers per hour. Using this simple formula, we can convert from SI to VUS units.
+Let's finish this up by wrapping up what I originally did this research for and use one of these newly represented quantities. First, an easy example: If I'm driving at 60 miles per hour (~100 KPH), what is my velocity in the Blessed Unit System (BUS)? Start by defining what my units of velocity are. From the table above, speed is measured in `C`, or "speeds of light". 1 speed of light (or 1 C) is just over 1 billion kilometers per hour. Using this simple formula, we can convert from SI to BUS units.
 
 ```
-Velocity(VUS) = Velocity(SI) / (C)
+Velocity(BUS) = Velocity(SI) / (C)
               = 100 / 1 000 000 000
               = 0.000 000 1
 ```
 
-My driving speed is 0.0000001 velocity VUS. It doesn't matter if I converted from US units to VUS, or football fields per millisecond - my driving speed will be 0.0000001 velocity VUS no matter what.
+My driving speed is 0.0000001 velocity BUS. It doesn't matter if I converted from US units to BUS, or football fields per millisecond - my driving speed will be 0.0000001 velocity BUS no matter what.
 
-Now, let's measure my height in length VUS. Length VUS are measured in `sqrt(G*h/C^(3))`. My height is around 5'9", or about 1.75 meters, let's translate it into square root of gravitational-plank over speed of light cubes. We can use the same formula as last time to determine my height in length VUS.
+Now, let's measure my height in length BUS. Length BUS are measured in `sqrt(G*h/C^(3))`. My height is around 5'9", or about 1.75 meters, let's translate it into square root of gravitational-plank over speed of light cubes. We can use the same formula as last time to determine my height in length BUS.
 
 ```
-Length(VUS) = Length(SI) / sqrt(G*h/C^(3))
+Length(BUS) = Length(SI) / sqrt(G*h/C^(3))
             = 1.75 m / sqrt(6.674E-11 * 1.055E-34 / (3E8)^(3)) m
             = 1.75 m / 1.615E-35 m  <-- Planck length
-            = 1.084E35 Length(VUS)
+            = 1.084E35 Length(BUS)
 ```
 
-As it turns out, 1 length VUS is equal to 1 planck length. From the math, I am 1.084E35 planck lengths tall. The truly amazing thing about this unit system, is that it is completely independent from human interventions (e.g. [redefining the SI unit system](https://www.npl.co.uk/si-units/the-redefinition-of-the-si-units)) and can work anywhere in the universe. The only reason that I needed to determine a conversion rate from VUS to meters (which turned out to be the planck length) is because our measurement tools on Earth currently only support measuring US or SI units - but if we adopt this new unit system, there would no longer be a need for either US or SI units. My height is always 1.084E35 planck lengths regardless of what human (or other) unit system it's converted from.
+As it turns out, 1 length BUS is equal to 1 planck length. From the math, I am 1.084E35 planck lengths tall. The truly amazing thing about this unit system, is that it is completely independent from human interventions (e.g. [redefining the SI unit system](https://www.npl.co.uk/si-units/the-redefinition-of-the-si-units)) and can work anywhere in the universe. The only reason that I needed to determine a conversion rate from BUS to meters (which turned out to be the planck length) is because our measurement tools on Earth currently only support measuring US or SI units - but if we adopt the Blessed Unit System, there would no longer be a need for either US or SI units. My height is always 1.084E35 planck lengths regardless of what human (or other) unit system it's converted from.
