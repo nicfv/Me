@@ -152,6 +152,7 @@ We already calculated mass above, and to spare the reader from all the math, I c
 | Temperature | `H` | `sqrt(h*C^(5)/G)/B` |
 | Area | `L^(2)` | `G*h/C^(3)` |
 | Volume | `L^(3)` | `sqrt((G*h)^(3)/C^(9))` |
+| Density | `M^(1)L^(-3)` | `C^(4)/(G^(2)*h)` |
 | Velocity | `L^(1)T^(-1)` | `C` |
 | Acceleration | `L^(1)T^(-2)` | `sqrt(C^(7)/(G*h))` |
 | Momentum | `M^(1)L^(1)T^(-1)` | `sqrt(C*h/G)` |
@@ -170,14 +171,14 @@ Velocity(BUS) = Velocity(SI) / (C)
               = 0.000 000 1
 ```
 
-My driving speed is 0.0000001 velocity BUS. It doesn't matter if I converted from US units to BUS, or football fields per millisecond - my driving speed will be 0.0000001 velocity BUS no matter what.
+My driving speed is 0.0000001 velocity BUS. It doesn't matter if I converted from standard SI or US units, or football fields per millisecond - my driving speed will be 0.0000001 velocity BUS no matter what.
 
 Now, let's measure my height in length BUS. Length BUS are measured in `sqrt(G*h/C^(3))`. My height is around 5'9", or about 1.75 meters, let's translate it into square root of gravitational-plank over speed of light cubes. We can use the same formula as last time to determine my height in length BUS.
 
 ```
 Length(BUS) = Length(SI) / sqrt(G*h/C^(3))
             = 1.75 m / sqrt(6.674E-11 * 1.055E-34 / (3E8)^(3)) m
-            = 1.75 m / 1.615E-35 m  <-- Planck length
+            = 1.75 m / 1.615E-35 m  <-- Planck length!
             = 1.084E35 Length(BUS)
 ```
 
