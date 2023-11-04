@@ -31,7 +31,7 @@ extra:
     - icon: material/web
       link: https://nicolasventura.com/
     - icon: material/email
-      link: mailto:nicolas@ventura.cx
+      link: mailto:me@nicolasventura.com
     - icon: material/linkedin
       link: https://www.linkedin.com/in/nfv/
     - icon: material/github
@@ -52,5 +52,7 @@ extra:
       link: https://wordle.nicfv.com/
     - icon: material/hexagon
       link: https://hexles.com/
+    - icon: material/chess-pawn
+      link: https://www.chess.com/member/nicfv
   generator: false
 copyright: Copyright &copy; 2023 Nicolas Ventura
