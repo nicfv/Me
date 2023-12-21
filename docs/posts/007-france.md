@@ -1,7 +1,7 @@
 ---
 date: 2023-12-16
 categories:
-  - Travel
+  - Journal
 tags:
   - travel
   - France
@@ -16,7 +16,7 @@ Our first leg was SFO-ZRH (San Francisco to Zurich, Switzerland.) But, the fligh
 
 ## Sunday, December 17
 
-By now, it is Sunday and we are stuck in the Zurich airport for a couple hours. Plenty of the airport shops have walls and walls of chocolate, including my favorite, Toblerone! Our second leg of the trip was ZRH-NCE which was a much shorter flight. It was interesting that we had to take a bus to get to the plane. Finally, around 7 PM local time we land in Nice, grab our baggage (which were the first out on the carousel!), grab our rental car, and head to Cannes. We went to see our Grandmother briefly before going to bed at our AirBnB. Unfortunately, I didn't get much sleep.
+By now, it is Sunday and we are stuck in the Zurich airport for a couple hours. Plenty of the airport shops have walls and walls of chocolate, including my favorite, Toblerone! Our second leg of the trip was ZRH-NCE which was a much shorter flight. It was interesting that we had to take a bus to get to the plane. Finally, around 7 PM local time we land in Nice, grab our baggage (which were the first out on the carousel!), grab our rental car, and head to Cannes. We saw my Grandmother, Jacqueline, briefly before going to bed at our AirBnB (which was in the same apartment complex!) Unfortunately, I didn't get much sleep.
 
 ## Monday, December 18
 
@@ -24,6 +24,18 @@ I was feeling very ill this day and pretty sure I know why. Even if I didn't get
 
 ## Tuesday, December 19
 
-I took a COVID test which to no surprise, was positive. I'm hoping that since I've been vaccinated, this will be over quickly. Actually, I am feeling a bit better already from yesterday. I stayed home again to make sure that I can get over this as soon as possible and enjoy my vacation.
+I took a COVID test which to no surprise, was positive. I'm hoping that since I've been vaccinated, this will be over quickly. Actually, I am feeling a bit better already from yesterday. I stayed home again to make sure that I can get over this as soon as possible and start to enjoy my vacation.
 
-### In progress...
+## Wednesday, December 20
+
+I've nearly recovered this horrendous disease. I had a staple French breakfast, a croissant with raspberry jam. Later, we went out as a family on a short walk in an old but beautifully decorated cemetary and saw the resting site of Jacqueline's aunts and cousin. Then for dinner, my sister made some delicious risotto, but too bad I hadn't recovered my sense of taste yet.
+
+## Thursday, December 21
+
+I made it this far, over the worst and finally feeling better. Today was much more interesting as a result, and I hope that no more words in this journal are wasted on COVID. Despite (still) not getting enough sleep, the day started off to a great start. I woke up at 4:30 and got up around 7:30, a bit before sunrise. We have a view of the Mediterranean Sea from our AirBnB. On top of the spectacular sunrise, there was an awesome silhouette of Corsica, what I would call the "Hawaii of France." After breakfast, we went over to Jacqueline's and all of us went to the Marche Noel, the Christmas Market in downtown Cannes. Like a typical street fair, most of the vendors sold jewelry, but one that was pretty interesting was someone who sold umbrellas that folded the other way to keep the water within, instead of dripping out, when brought inside. We literally bought 100 raviolis and also stopped for crepes. Normally, I go for the sweet ones, with sugar or Nutella, but I wanted to try a savory one so I got a cheese-filled crepe; the crepe was awesome but the cheese was a bit disappointing. My family wanted to do some more shopping but I started getting some brain fog so Jacqueline and I just watched the water fountains. When they were done, we piled into the car and drove to La Croisette where we had a view of Saint Marguerite island. Also, someone was there shooting staged videos of a really expensive car - maybe for a commercial? I looked up the model later and it was a Bentley Continental GT, with the base price of $250,000!
+
+> So, if you ever see a commercial for a Benteley Continental GT that was filmed in Cannes, I was there!
+
+With a car full of Christmas goods, and a phone/camera full of pictures, that was a wrap. Later that evening my dad's cousin Veronique with her 2 grandkids stopped by at Jacqueline's for a visit. For dinner, my mom (who was also sick) and I head back to our "quarantine zone" (a.k.a. the AirBnB) to eat dinner. It will probably be a while before testing negative...
+
+### To be continued...
