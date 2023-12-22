@@ -38,4 +38,14 @@ I made it this far, over the worst and finally feeling better. Today was much mo
 
 With a car full of Christmas goods, and a phone/camera full of pictures, that was a wrap. Later that evening my dad's cousin Veronique with her 2 grandkids stopped by at Jacqueline's for a visit. For dinner, my mom (who was also sick) and I head back to our "quarantine zone" (a.k.a. the AirBnB) to eat dinner. It will probably be a while before testing negative...
 
+## Friday, December 22
+
+All of us went to Biot today, a fortified old village in the hills. There is a really neat glass workshop where they handmake and sell unique glassware - where the glass is filled with tiny bubbles! We watched the craftsmen make some vases, explored the glass art museum, and I got myself some cups to bring home. After the workshop, we went to the downtown Biot area, where there was a holiday boutique happening. We got some souvenirs and gifts there, and then looked in a beautiful old church there.
+
+After returning to Jacqueline's from Biot, we made those raviolis for lunch from yesterday's market. They were interesting; one side of the ravioli was yellow and the other side was green, and filled with cheese and spinach. They were tasty, but a bit dry with only butter and no sauce.
+
+After lunch, without Jaqueline, we went to Mouans-Sartoux for their sale of santons, which are nativity figurines. Most of them are already painted, but some of them can be bought specifically to be painted. We bought several different santons to add to our growing collection, and afterwards we went to a bakery where my dad got roasted chestnuts. I thought they were nasty...
+
+On the way home we stopped at Lidl, a grocery store and bought way too much stuff. Luckily, we were parked close so it wasn't too much trouble to bring everything out to the car. For dinner I had leftover raviolis and added tomato sauce, and they were much better that way. That's all for today, now I desparately need to catch up on my sleep.
+
 ### To be continued...
