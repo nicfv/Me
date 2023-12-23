@@ -48,4 +48,8 @@ After lunch, without Jaqueline, we went to Mouans-Sartoux for their sale of sant
 
 On the way home we stopped at Lidl, a grocery store and bought way too much stuff. Luckily, we were parked close so it wasn't too much trouble to bring everything out to the car. For dinner I had leftover raviolis and added tomato sauce, and they were much better that way. That's all for today, now I desparately need to catch up on my sleep.
 
+## Saturday, December 23
+
+Today we wrapped gifts in the morning, and then had veal pockets for lunch. It was made like a stew with vegetables, and the veal was very juicy and full of stuffing. After lunch, we drove to the town of Vallauris for shopping and sightseeing, but mainly (gift) shopping. We did again explore the very old Church there. However, on our way out, we watched a Christmas-themed street show, with acrobatics, juggling, and other tricks. We finished the day by ordering pizza from a place called Mister Pizza. I got an Italienne, and it was delicious.
+
 ### To be continued...
