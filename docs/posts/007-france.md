@@ -28,7 +28,7 @@ I took a COVID test which to no surprise, was positive. I'm hoping that since I'
 
 ## Wednesday, December 20
 
-I've nearly recovered this horrendous disease. I had a staple French breakfast, a croissant with raspberry jam. Later, we went out as a family on a short walk in an old but beautifully decorated cemetary and saw the resting site of Jacqueline's aunts and cousin. Then for dinner, my sister made some delicious risotto, but too bad I hadn't recovered my sense of taste yet.
+I've nearly recovered this horrendous disease. I had a staple French breakfast, a croissant with raspberry jam. Later, we went out as a family on a short walk in an old but beautifully decorated cemetary and saw the resting site of Jacqueline's aunts and cousin, Pepe. Then for dinner, my sister made some delicious risotto, but too bad I hadn't recovered my sense of taste yet.
 
 ## Thursday, December 21
 
@@ -44,12 +44,16 @@ All of us went to Biot today, a fortified old village in the hills. There is a r
 
 After returning to Jacqueline's from Biot, we made those raviolis for lunch from yesterday's market. They were interesting; one side of the ravioli was yellow and the other side was green, and filled with cheese and spinach. They were tasty, but a bit dry with only butter and no sauce.
 
-After lunch, without Jaqueline, we went to Mouans-Sartoux for their sale of santons, which are nativity figurines. Most of them are already painted, but some of them can be bought specifically to be painted. We bought several different santons to add to our growing collection, and afterwards we went to a bakery where my dad got roasted chestnuts. I thought they were nasty...
+After lunch, without Jaqueline, we went to Mouans-Sartoux for their sale of santons, which are figurines to make miniature nativity scenes called creches. Most of them are already painted, but some of them can be bought specifically to be painted. We bought several different santons to add to our growing collection, and afterwards we went to a bakery where my dad got roasted chestnuts. I thought they were nasty...
 
 On the way home we stopped at Lidl, a grocery store and bought way too much stuff. Luckily, we were parked close so it wasn't too much trouble to bring everything out to the car. For dinner I had leftover raviolis and added tomato sauce, and they were much better that way. That's all for today, now I desparately need to catch up on my sleep.
 
 ## Saturday, December 23
 
 Today we wrapped gifts in the morning, and then had veal pockets for lunch. It was made like a stew with vegetables, and the veal was very juicy and full of stuffing. After lunch, we drove to the town of Vallauris for shopping and sightseeing, but mainly (gift) shopping. We did again explore the very old Church there. However, on our way out, we watched a Christmas-themed street show, with acrobatics, juggling, and other tricks. We finished the day by ordering pizza from a place called Mister Pizza. I got an Italienne, and it was delicious.
+
+## Sunday, December 24
+
+It's Christmas eve! This morning, my family and I went to Cannes to see the Suquet, which is a very old and historic church. Inside, there was a beautifully crafted creche that had music and was animated, thanks to Jaqueline's cousin Pepe, whose grave we went to see on Wednesday. After the Suquet we walked a little bit along Le Croisette and saw plenty of truly expensive boats. We stopped breifly for drinks at a place called La Muse where I had a sirop de peche/peach syrup. For some reason, it always tastes better from a restaurant. On the way back, we went to the farmers market and bought several fruits and some saucisson, and then stopped for lunch at a Vietnamese restaurant called Xuan le Printemps at the request of my sister. We all ordered appetizers of nems, which are egg rolls that you eat with lettuce, and then I had some noodles with chicken. Not very French, but still good! Later in the evening we went to L'Eglise Sainte Philomene in Le Cannet for Christmas mass. It was very crowded and of course all in French except for the Latin bits. On our way back out to the car, we took some pictures of the city hall that was all decorated and lit up by a projector playing Christmas animations. For dinner back at Jacqueline's, we had several appetizer-like dishes like mini quiches for example, and then opened some presents.
 
 ### To be continued...
