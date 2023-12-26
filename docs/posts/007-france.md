@@ -62,4 +62,14 @@ Joyeux Noel! The 4 of us and Jaqueline left early today to drive to Toulon, wher
 
 Sadly, Emilie and her troupe had to leave before lunch. We ate foie gras, turkey, pommes-dauphine, and farce (stuffing). I also tried an oyster for the first time. And possibly the last time. After lunch we played bocce ball in Franck's small gravelly front yard, and then opened gifts. Franck got me some nice naval themed shot glasses. I sat with my family and chat with Corrine a bit, and learned that she has a very interesting job. She is into hypnotism for mental healing and has a client she practices on. Franck then showed us all some very old "Super 8" film from the 70s, when he and my dad Marc were just kids. It was interesting to see what they and Jaqueline were like back then and I learned a lot about his and my dad's history.
 
+## Tuesday, December 26
+
+This morning, Jaqueline, my dad, and I walked over to see the very small church L'eglise Paroissale Saint-Joseph on our way to the boulangerie (bakery.) It was neat to see the sign on the front of the church denoting that it is in the parish of Saint Nicolas. At the boulangerie, we grabbed a baguette, and some croissants at my request.
+
+Later in the morning we visited the cemetery of the resting place of Walter, who was my grandfather (Jaqueline's husband) and Julie, my great grandmother. We also saw the grave sites of Jaqueline's father and her uncles, whom I'd never met. Today I realized how little I know of my ancient family. I learned that Walter served in the French military in Africa and Julie made clothing for the French army.
+
+After we left the cemetery, we made a surprise visit to my dad and Jaqueline's friends, Nicole and Richard. We stayed outside of their house for fear of spreading Covid, but their house was magnificent. There was a pool with a small poolhouse in the backyard, and a huge garden of vegatables and flowers. They also have a very tiny and adorable dog, that the name unfortunately alludes me.
+
+Then, we went back to Jacqueline's for lunch just in time to leave again. This time, to see my godmother Jocelyne and great aunt Pyrette in Nice. I know we are not supposed to pick favorites in our family but I absolutely love Jocelyne. She is now retired and takes pictures in art museums. We got to their apartment and Pyrette had baked us a delicious apple pie, but unfortunately I was not hungry so I only had a small taste. Then Jocelyne and my family went out to walk about Nice, and we saw the sunset on the rocky beaches, some strange-looking sculptures, and finally ending at another Christmas market. There was no shortage of food and drink there, so I got a crepe with Nutella. It was much better than last time! We ended up buying even more gifts at this market including more santons. I have no idea how we're going to bring all this home, since we were already packed completely full on the way here!
+
 ### To be continued...
