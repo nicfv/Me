@@ -72,4 +72,12 @@ After we left the cemetery, we made a surprise visit to my dad and Jaqueline's f
 
 Then, we went back to Jacqueline's for lunch just in time to leave again. This time, to see my godmother Jocelyne and great aunt Pyrette in Nice. I know we are not supposed to pick favorites in our family but I absolutely love Jocelyne. She is now retired and takes pictures in art museums. We got to their apartment and Pyrette had baked us a delicious apple pie, but unfortunately I was not hungry so I only had a small taste. Then Jocelyne and my family went out to walk about Nice, and we saw the sunset on the rocky beaches, some strange-looking sculptures, and finally ending at another Christmas market. There was no shortage of food and drink there, so I got a crepe with Nutella. It was much better than last time! We ended up buying even more gifts at this market including more santons. I have no idea how we're going to bring all this home, since we were already packed completely full on the way here!
 
+## Wednesday, December 27
+
+In the morning I went with my parents and Jaqueline to E. Leclerc, which is basically like the Walmart of France. We again bought way too much stuff, including yogurt, chicken, chocolate, bathroom supplies, and more nems. The poor guy at the checkout had to scan all of our items which took several minutes. Franck came over for lunch and we had chicken and tomatoes with mozarella.
+
+After lunch we all went to yet another cemetery to visit the resting place of our uncle Marc, who owned a restaurant called Chez Marc where we always used to eat. Then we left the cemetery to see our aunt Christiane who was married to Marc. At her house we also saw Veronique again and her husband. We explored their property and played with their two dogs, and then sat and talked for a long time. More sweets were served, and I had some of an almond pie (gateau de rois) which is a traditional French Christmas treat. Veronique also showed us the sign they took down from the entrance of Chez Marc. It was a little sad, but I'm glad they were able to keep the sign, and actually, there is still a sign on the road showing the direction to the restaurant.
+
+We returned home to Jaqueline's for dinner and served the nems we bought earlier today. We also played belote which is a French card game you play in pairs. I played with Franck against my parents and they kicked our butts. I can't believe that already tomorrow is our last full day here.
+
 ### To be continued...
