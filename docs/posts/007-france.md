@@ -80,4 +80,10 @@ After lunch we all went to yet another cemetery to visit the resting place of ou
 
 We returned home to Jaqueline's for dinner and served the nems we bought earlier today. We also played belote which is a French card game you play in pairs. I played with Franck against my parents and they kicked our butts. I can't believe that already tomorrow is our last full day here.
 
+## Thursday, December 28
+
+This is our last full day in France. I woke up very early today but couldn't go back to sleep. My dad was awake too, so we walked over to Jaqueline's and saw Franck before he left for work. Then we went back to our AirBnB to do laundry and start packing up. The owner paid us a brief visit to ask us what we thought of her place and to see if anything needed attention. And finally, being the last day, I test negative for COVID!
+
+For lunch my mom made us lasagna made with Italian sausage, it was delicious and I ate a bit too much. We had a bit of a relaxing afternoon, but did walk over to pick up some bread at the boulangerie and then we all drove over to the coast for a short walk. Then we returned back to the AirBnB again to finish up packing. After some packing and more lazy afternoon, we headed back to Jaqueline's for dinner and Franck came back over. I calculated that in total, I ate about 5 pounds (US) of chocolate on this trip, or about 4% of my body weight... I love chocolate, but this is completely absurd. After dinner we played belote again and looked at some old photo albums. I'm very sad that we're leaving so early tomorrow morning, but I'm glad we got to do so much on this trip, despite my illness. Our flight departs Nice at 10:00 AM tomorrow, but we're planning to check out of the AirBnB around 6:30 AM. That means; early to bed, early to rise.
+
 ### To be continued...
