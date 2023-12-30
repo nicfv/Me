@@ -3,7 +3,7 @@ site_description: About Me
 site_author: Nicolas Ventura
 nav:
   - index.md
-  - tags.md
+  - blog/tags.md
 theme:
   name: material
   palette:
@@ -28,7 +28,7 @@ theme:
 plugins:
   - search
   - tags:
-      tags_file: tags.md
+      tags_file: blog/tags.md
   - blog:
       blog_toc: true
 extra:
