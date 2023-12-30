@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Write Date
         run: date +'%b %-d, %Y' >> docs/index.md
-      - name: Run mkdocs
+      - name: Build Website
         run: mkdocs build
       - name: Setup Pages
         uses: actions/configure-pages@v3
