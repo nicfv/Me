@@ -29,6 +29,7 @@ plugins:
   - search
   - blog:
       archive: true
+      categories: true
   - tags:
       tags_file: blog/tags.md
 markdown_extensions:
