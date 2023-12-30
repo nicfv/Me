@@ -1,6 +1,9 @@
 site_name: Nicolas Ventura
 site_description: About Me
 site_author: Nicolas Ventura
+nav:
+  - index.md
+  - tags.md
 theme:
   name: material
   palette:
@@ -20,12 +23,14 @@ theme:
       toggle:
         icon: material/brightness-3
         name: Switch to light mode
-  icon:
-    logo: fontawesome/solid/user
+  logo: icon.svg
   favicon: icon.svg
-plugins: []
-markdown_extensions:
-  - attr_list
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - blog:
+      blog_toc: true
 extra:
   social:
     - icon: material/web
