@@ -1,5 +1,5 @@
 # Tags
 
-Following is a list of relevant tags:
+Browse through the list of relevant tags from my blog posts here.
 
 [TAGS]
