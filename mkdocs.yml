@@ -2,7 +2,8 @@ site_name: Nicolas Ventura
 site_description: About Me
 site_author: Nicolas Ventura
 nav:
-  - blog/index.md
+  - Blog:
+    - blog/index.md
   - blog/tags.md
 theme:
   name: material
