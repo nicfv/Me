@@ -1,0 +1,60 @@
+site_name: Nicolas Ventura
+site_description: About Me
+site_author: Nicolas Ventura
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-1
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/brightness-3
+        name: Switch to light mode
+  icon:
+    logo: fontawesome/solid/user
+  favicon: icon.svg
+plugins: []
+markdown_extensions:
+  - attr_list
+extra:
+  social:
+    - icon: material/web
+      link: https://nicolasventura.com/
+    - icon: material/email
+      link: mailto:www@nicolasventura.com
+    - icon: material/linkedin
+      link: https://www.linkedin.com/in/nfv/
+    - icon: material/github
+      link: https://github.com/nicfv
+    - icon: material/stack-overflow
+      link: https://stackoverflow.com/users/15317094/nfv
+    - icon: material/microsoft-visual-studio
+      link: https://marketplace.visualstudio.com/publishers/ventura
+    - icon: material/npm
+      link: https://www.npmjs.com/~nfv
+    - icon: material/language-python
+      link: https://pypi.org/user/nfv/
+    - icon: simple/strava
+      link: https://www.strava.com/athletes/nicfv
+    - icon: material/book-open-page-variant
+      link: https://blog.nicfv.com/
+    - icon: material/camera
+      link: https://photos.nicfv.com/
+    - icon: material/format-letter-matches
+      link: https://wordle.nicfv.com/
+    - icon: material/hexagon
+      link: https://hexles.com/
+    - icon: material/chess-pawn
+      link: https://www.chess.com/member/nicfv
+  generator: false
+copyright: Copyright &copy; 2023 Nicolas Ventura
