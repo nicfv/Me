@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-  - tabs
+  - search
 ---
 
 ![Me](me.jpg){ style="max-width:200px;height:auto;float:right;" }
