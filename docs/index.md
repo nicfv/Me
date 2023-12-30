@@ -16,7 +16,7 @@ hide:
 
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
 
-> Click the links below to learn more!
+> Click the links in the footer below to learn more!
 
 ###### he/him
 
