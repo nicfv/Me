@@ -3,6 +3,9 @@ site_description: About Me
 site_author: Nicolas Ventura
 theme:
   name: material
+  features:
+    - navigation.sections
+    - navigation.top
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
