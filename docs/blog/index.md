@@ -2,7 +2,7 @@
 
 ## Announcement
 
-**30 Dec 2023**: This blog has been migrated to [nicfv.com/blog](https://nicfv.com/blog/). The old URL will continue to redirect to the new URL for the time being. In a few weeks, I will be removing the URL alias, so please use the new URL.
+**30 Dec 2023**: This blog has been migrated to [nicfv.com/blog](https://nicfv.com/blog/). The old URL will continue to redirect to the new URL for the time being. Due to registry limitations, only HTTP is redirected. In a few weeks, I will be removing the URL alias, so please use the new URL.
 
 **27 Dec 2023**: Within the next 1-2 weeks, this website will be migrated to another URL (likely *nicfv.com/blog*) for maintainability. When this happens, the old URL (currently *blog.nicfv.com*) will continue to work but will redirect to the new site. No other changes are planned at this time.
 
