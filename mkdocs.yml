@@ -4,8 +4,6 @@ site_author: Nicolas Ventura
 nav:
   - blog/index.md
   - blog/tags.md
-  - Archive
-  - Categories
 theme:
   name: material
   palette:
@@ -29,9 +27,7 @@ theme:
   favicon: icon.svg
 plugins:
   - search
-  - blog:
-      archive: true
-      categories: true
+  - blog
   - tags:
       tags_file: blog/tags.md
 markdown_extensions:
