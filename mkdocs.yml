@@ -40,6 +40,11 @@ extra:
       link: mailto:www@nicolasventura.com
     - icon: material/linkedin
       link: https://www.linkedin.com/in/nfv/
+    - icon: material/book-open-page-variant
+      link: https://nicfv.com/blog/
+      name: Blog
+    - icon: material/instagram
+      link: https://www.instagram.com/nicfvcom/
     - icon: material/github
       link: https://github.com/nicfv
     - icon: material/stack-overflow
@@ -52,10 +57,6 @@ extra:
       link: https://pypi.org/user/nfv/
     - icon: simple/strava
       link: https://www.strava.com/athletes/nicfv
-    - icon: material/book-open-page-variant
-      link: https://nicfv.com/blog/
-    - icon: material/instagram
-      link: https://www.instagram.com/nicfvcom/
     - icon: material/format-letter-matches
       link: https://wordle.nicfv.com/
     - icon: material/hexagon

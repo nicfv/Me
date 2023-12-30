@@ -8,7 +8,7 @@ tags:
 ---
 # Full of Food and COVID in France
 
-## A Family Holday Vacation to France, December 2023
+**A Family Holday Vacation to France, December 2023**
 
 My family and I visit our relatives in France every couple years. We had been planning to travel to France for some time, but to put it nicely, we are very bad at planning. I knew that if we were to go, I would at least need to help to plan our flight itinerary. After some frustration and finesse, I was able to find some good flights which my dad graciously booked for us all.
 
