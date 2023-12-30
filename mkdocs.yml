@@ -4,6 +4,8 @@ site_author: Nicolas Ventura
 nav:
   - blog/index.md
   - blog/tags.md
+  - Archive
+  - Categories
 theme:
   name: material
   palette:
