@@ -7,6 +7,10 @@ theme:
   features:
     - navigation.sections
     - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
