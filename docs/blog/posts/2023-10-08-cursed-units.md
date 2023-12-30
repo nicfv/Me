@@ -1,5 +1,6 @@
 ---
 date: 2023-10-08
+date_updated: 2023-12-30
 categories:
   - Shower Thought
 tags:
@@ -26,7 +27,7 @@ Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogethe
 | [Boltzmann Constant](#boltzmann-constant) | B |
 | [Planck Constant](#planck-constant) | h |
 
-Let's create the Blessed Unit System using these fundamental physical constants. First, we need to define the constants in terms of their base units. For this, we can break down each constant into it's base units and combine them by adding or subtracting their exponents. Units of length, for example, are expressed in `L` or `L^(1)`. Area, which is length squared, is expressed in `L*L = L^(1) * L^(1) = L^(1+1) = L^(2)`. Inverted units are subtracted instead of added, because they have negative exponents.
+Let's create the Blessed Unit System using these fundamental physical constants. For example, if you are driving at 60 miles per hour, or about 100 kilometers per hour, (miles, kilometers, and hours are totally arbitrary units), you are actually driving at 0.1 micro-speed of lights (0.1 uC). This is a much more pure way to measure speed, and more on this example at [the end](#conclusion). But how do we measure length, time, or other dimensions? First, we need to define the constants in terms of their base units. For this, we can break down each constant into it's base units and combine them by adding or subtracting their exponents. Units of length, for example, are expressed in `L` or `L^(1)`. Area, which is length squared, is expressed in `L*L = L^(1) * L^(1) = L^(1+1) = L^(2)`. Inverted units are subtracted instead of added, because they have negative exponents.
 
 ### Speed of Light
 
@@ -162,7 +163,7 @@ We already calculated mass above, and to spare the reader from all the math, I c
 
 ## Conclusion
 
-Let's finish this up by wrapping up what I originally did this research for and use one of these newly represented quantities. First, an easy example: If I'm driving at 60 miles per hour (~100 KPH), what is my velocity in the Blessed Unit System (BUS)? Start by defining what my units of velocity are. From the table above, speed is measured in `C`, or "speeds of light". 1 speed of light (or 1 C) is just over 1 billion kilometers per hour. Using this simple formula, we can convert from SI to BUS units.
+Let's finish this up by wrapping up what I originally did this research for and use one of these newly represented quantities. First, the easy example from the beginning: If I'm driving at 60 miles per hour (~100 KPH), what is my velocity in the Blessed Unit System (BUS)? Start by defining what my units of velocity are. From the table above, speed is measured in `C`, or "speeds of light". 1 speed of light (or 1 C) is just over 1 billion kilometers per hour. Using this simple formula, we can convert from SI to BUS units.
 
 ```
 Velocity(BUS) = Velocity(SI) / (C)
