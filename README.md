@@ -1,3 +1,8 @@
-# About Me [![Pages](https://github.com/nicfv/Me/actions/workflows/pages.yml/badge.svg)](https://github.com/nicfv/Me/actions/workflows/pages.yml)
+# Me [![Pages](https://github.com/nicfv/Me/actions/workflows/pages.yml/badge.svg)](https://github.com/nicfv/Me/actions/workflows/pages.yml)
 
-[nicfv.com](https://nicfv.com/)
+Visit the links below:
+
+| Name | Link |
+| ---- | ---- |
+| **Portfolio** - About me | [nicfv.com](https://nicfv.com/) |
+| **Blog** - A space for my thoughts | [nicfv.com/blog](https://nicfv.com/blog/) |
