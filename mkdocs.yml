@@ -8,7 +8,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.indexes
-    # - navigation.tabs
+    - navigation.tabs
     - search.suggest
     - search.highlight
     - search.share
