@@ -12,6 +12,8 @@ tags:
 
 Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogether and come up with a new, pure unit system to describe our world, the *Blessed Unit System*, or BUS, pronounced *booze*. For example, lets use "speed of light"s to describe quantities of velocity. Since this is a blog post and not a scientific research paper, let's keep this simple, assuming there are only 4 (out of the [seven](https://en.wikipedia.org/wiki/SI_base_unit)) physical base units in our universe. Let's also assume our universe has 4 [fundamental constants](https://en.wikipedia.org/wiki/Physical_constant). See the tables below for the list of each and symbols.
 
+<!-- more -->
+
 ## Table of Reference
 
 | Base Unit | Symbol |

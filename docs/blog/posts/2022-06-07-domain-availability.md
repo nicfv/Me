@@ -13,6 +13,8 @@ tags:
 
 One of the first things you need in order to set up a website is a domain name. Ideally, a good one. A domain name is a combination of numbers, letters, and possibly hyphens ending in a top level domain (TLD). An example of a TLD is `.com`. Good domain names are hard to obtain. More specifically, short domain names ending in `.com` are hard to obtain. Are there any left?
 
+<!-- more -->
+
 ## Top Level Domains
 
 The most common TLD is `.com` but there are many others.
