@@ -1,7 +1,6 @@
 site_name: Nicolas Ventura
 site_description: About Me
 site_author: Nicolas Ventura
-repo_url: https://github.com/nicfv/Me
 theme:
   name: material
   features:
@@ -72,4 +71,4 @@ extra:
     - icon: material/chess-pawn
       link: https://www.chess.com/member/nicfv
   generator: false
-copyright: Copyright &copy; 2023 Nicolas Ventura
+copyright: Copyright &copy; 2024 Nicolas Ventura
