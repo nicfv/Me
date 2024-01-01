@@ -6,8 +6,8 @@ theme:
   features:
     - navigation.sections
     - navigation.top
-    # - navigation.indexes
-    # - navigation.tabs
+    - navigation.indexes
+    - navigation.tabs
     - search.suggest
     - search.highlight
     - search.share
