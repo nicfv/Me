@@ -7,7 +7,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.indexes
-    # - navigation.tabs
+    - navigation.tabs
     - search.suggest
     - search.highlight
     - search.share
@@ -38,6 +38,8 @@ plugins:
       tags_file: blog/tags.md
 markdown_extensions:
   - attr_list
+extra_css:
+  - style.css
 extra:
   social:
     - icon: material/web
