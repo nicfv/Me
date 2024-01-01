@@ -39,7 +39,7 @@ plugins:
 markdown_extensions:
   - attr_list
 extra_css:
-  - style.css
+  - extra.css
 extra:
   social:
     - icon: material/web
