@@ -38,6 +38,8 @@ plugins:
       tags_file: blog/tags.md
 markdown_extensions:
   - attr_list
+extra_css:
+  - extra.css
 extra:
   social:
     - icon: material/web
