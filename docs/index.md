@@ -1,4 +1,5 @@
 ---
+icon: fontawesome/solid/user
 hide:
   - navigation
   - toc

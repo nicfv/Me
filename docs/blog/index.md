@@ -1,3 +1,6 @@
+---
+icon: material/book-open-page-variant
+---
 # Blog
 
 **Announcement**
