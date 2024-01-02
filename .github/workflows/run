@@ -5,6 +5,7 @@ usage() {
     echo '  -h  Show help'
     echo '  -b  Check that blog filenames match their date'
     echo '  -d  Replace instances of %TODAY% with today`s date'
+    echo '  -v  Make output more verbose'
     exit 1
 }
 
@@ -14,14 +15,27 @@ usage() {
 # Define script options
 repldate=false
 blogdate=false
+verbose=false
+
+# Print an informational message (verbose only)
+info() {
+    "${verbose}" && echo "[INFO ] [$(date)] ${*}"
+}
+
+# Print an error message
+error() {
+    echo "[ERROR] [$(date)] ${*}"
+}
 
 # Parse command line options
-while getopts ':hbd' opt ; do
+while getopts ':hbdv' opt ; do
     case "${opt}" in
         'b')
             blogdate=true ;;
         'd')
             repldate=true ;;
+        'v')
+            verbose=true ;;
         'h'|*)
             usage ;;
     esac
@@ -32,25 +46,29 @@ done
     posts="$(find docs/blog/posts/ -type f -name '*.md')"
     failed=false
     for post in ${posts} ; do
+        info "Checking date in ${post}..."
         postdate="$(grep -E '^date:.+$' "${post}" | sed -E 's/date: ([0-9\-]+).?$/\1/')"
         regexstr="^docs/blog/posts/${postdate}-.+\.md$"
         if [[ -z "${postdate}" ]] ; then
-            echo "${post} is missing a date in the metadata"
+            error "${post} is missing a date in the metadata"
             failed=true
         elif [[ ! "${post}" =~ ${regexstr} ]] ; then
-            echo "${post} doesn't match date ${postdate}"
+            error "${post} doesn't match date ${postdate}"
             failed=true
         fi
-        "${failed}" && exit 1
     done
+    "${failed}" && exit 1
+    info 'Passed.'
 }
 
 # Replace instances of %TODAY% in all markdown files
 "${repldate}" && {
     files="$(find docs/ -type f -name '*.md')"
     for file in ${files} ; do
+        info "Writing dates in ${file}..."
         sed -i "s/%TODAY%/$(date +'%B %-d, %Y')/g" "${file}"
     done
+    info 'Done.'
 }
 
 # Return a successful exit code
