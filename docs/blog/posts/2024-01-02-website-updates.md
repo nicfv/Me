@@ -79,6 +79,38 @@ My second big part of this project was migrating my blog and photos into the sam
 1. It cleans up the DNS records for nicfv.com. Also, a side effect of this also benefits my [URL redirection](#url-redirection) since everything is a subdirectory and not a subdomain. (With subdomains, I would actually have to create a redirect for each one individually, since wildcard subdomains pose a security risk.)
 1. It makes it easier for me to maintain, since everything is in once place and in one GitHub repository.
 
+This actually isn't as complicated as it sounds, either. For the blog, I merged my repository's history with my portfolio's history. This was a bit of a challenge, since Git doesn't like to merge unrelated histories. Also, it probably wasn't necessary, but I wanted to keep the histories anyway, in case I needed to look back on something. I just had to add my portfolio as a second Git remote to my blog, and then I was able to fetch, merge, and push.
+
+I decided not to go this route for my photography website (which was *photos.nicfv.com*.) The main reason being I was reaching the file limit, or maybe already there. According to [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github), the recommended limit is 1GB with a hard cap of 5GB. With 140 pictures posted at the time, I was already at 1.1GB, so I knew that continuing like this was unsustainable and I needed to find a different solution.
+
+I pondered some ideas like hosting my own media server from my Raspberry Pi, but that would just be another project to maintain, and I do not want any external traffic entering my network. So, that idea is completely out.
+
+## Instagram
+
+It took me an embarassingly long time to come up with this, but the most obvious solution to almost anyone would be to create an Instagram account to share photos! Free, unlimited\* image hosting, it's so well-known and used by so many people already, and best of all, no maintenance is required! So that's exactly what I did. I created my [account](../../photos/index.md) (on PC, not the app) and began posting all the pictures I had on my old website.
+
+Instagram's website is a bit buggy and would not let me edit post captions for posts with multiple images, so I decided to post each image individually. I did this until I got to 96 images, and then everything seemed to stop working. \*I discovered that I was temporarily **blocked** from posting more images!! Turns out, Instagram does have (poorly documented) rate limits! I assume at this time, that is 100 posts per day (since I had already deleted a few multi-image posts before getting to 96.) What a bummer, but luckily I think it is just a one-time thing for me to post 100+ images per day anyway. At the time of writing this, I've already had my account for 3 days and was able to finish posting the rest of my old website's images, and several images from my [France trip](./2023-12-16-france.md).
+
+### Embedding Posts
+
+I still would like my own website for my images however. I considered getting the image direct URLs off Instagram to link to, but one thing that Instagram allows you to do is simply embed their posts. This is perfect, since it will allow people to like and comment on my photos directly from my website. But if you have Instagram, I leave an exercise to the reader. Log in to [instagram.com](https://www.instagram.com/) and copy the embed code of one of your posts, and paste it in Notepad. How long is it?
+
+>! It's HTML code nearly 7,000 characters long!
+
+After playing around with an embedded post on a mockup page, I was able to shorten it to this, only ~150 characters, or just 2% of the original size:
+
+```html
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/<POST_ID>/">
+</blockquote>
+```
+
+If you do this on your own website, just make sure to include their helper script somewhere on the page:
+
+```html
+<script async src="//www.instagram.com/embed.js"></script>
+```
+
 <!-- # Creating DNAME Records
 
 A [CNAME](https://en.wikipedia.org/wiki/CNAME_record) record is a common [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) record that maps one domain to another. -->
