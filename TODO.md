@@ -1,0 +1,2 @@
+- Instead of just printing out the date at the end of the file, replace instances of `%TODAY%` with the date
+- Write a blog post about migrating photos to Instagram
