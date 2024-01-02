@@ -34,9 +34,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Verify Blog Dates
-        run: ./.github/workflows/run -b
+        run: ./.github/workflows/run -bv
       - name: Write Date
-        run: ./.github/workflows/run -d
+        run: ./.github/workflows/run -dv
       - name: Build Website
         run: mkdocs build
       - name: Setup Pages
