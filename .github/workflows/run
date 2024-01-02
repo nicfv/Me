@@ -3,6 +3,7 @@
 usage() {
     echo "Usage: ${0} [ options ]"
     echo '  -h  Show help'
+    echo '  -b  Check that blog filenames match their date'
     echo '  -d  Replace instances of %TODAY% with today`s date'
     exit 1
 }
@@ -11,22 +12,46 @@ usage() {
 [[ "${#}" -eq 0 ]] && usage
 
 # Define script options
-rdate=false
+repldate=false
+blogdate=false
 
 # Parse command line options
-while getopts ':hd' opt ; do
+while getopts ':hbd' opt ; do
     case "${opt}" in
+        'b')
+            blogdate=true ;;
         'd')
-            rdate=true ;;
+            repldate=true ;;
         'h'|*)
             usage ;;
     esac
 done
 
+# Check to make sure blog filenames match their date
+"${blogdate}" && {
+    posts="$(find docs/blog/posts/ -type f -name '*.md')"
+    failed=false
+    for post in ${posts} ; do
+        postdate="$(grep -E '^date:.+$' "${post}" | sed -E 's/date: ([0-9\-]+).?$/\1/')"
+        regexstr="^docs/blog/posts/${postdate}-.+\.md$"
+        if [[ -z "${postdate}" ]] ; then
+            echo "${post} is missing a date in the metadata"
+            failed=true
+        elif [[ ! "${post}" =~ ${regexstr} ]] ; then
+            echo "${post} doesn't match date ${postdate}"
+            failed=true
+        fi
+        "${failed}" && exit 1
+    done
+}
+
 # Replace instances of %TODAY% in all markdown files
-"${rdate}" && {
+"${repldate}" && {
     files="$(find docs/ -type f -name '*.md')"
     for file in ${files} ; do
         sed -i "s/%TODAY%/$(date +'%B %-d, %Y')/g" "${file}"
     done
 }
+
+# Return a successful exit code
+exit 0
