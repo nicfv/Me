@@ -51,7 +51,7 @@ I was already halfway there with my [first solution](#first-solution). I just ne
 
 > For example: A visitor goes to `google.com/maps` which would normally serve a fille called `maps`. The rewrite rule tells the server to serve the `maps.html` file, even though it still just shows `maps` in your navigation bar.
 
-This is exactly what I need, and with a mind-numbingly simple 2 lines of code, I can rewrite any subdirectory to my single index page.
+This is exactly what I need, and with a mind-numbingly simple 2 lines of code, I can rewrite any subdirectory to my single index page using the wildcard `.*`.
 
 ```
 RewriteEngine On
@@ -67,7 +67,17 @@ echo "<p>Redirecting to <a href=\"$dest\">$dest</a>...</p>\n";
 echo "<script type=\"text/javascript\">window.location.replace('$dest');</script>";
 ```
 
-The 2nd line builds the new URL based on the requested URL. So, https://nicolasventura.com/blog turns into https://nicfv.com/blog. Try it for yourself! See how simple it would be to change it if I get a new common domain? The 3rd line is totally optional, it shows a redirect message with a hyperlink, in case the visitor's browser has disabled URL redirect. And the 4th line is exactly my [first solution](#first-solution), which actually redirects.
+The 2nd line builds the new URL based on the requested URL. So, https://nicolasventura.com/blog turns into https://nicfv.com/blog. Try it for yourself! See how simple it would be to change it if I get a new common domain? The 3rd line is totally optional, it shows a redirect message with a hyperlink, in case the visitor's browser has disabled URL redirect. And the 4th line is exactly my [first solution](#first-solution), which actually redirects. The best part about this was the fact that I did not need to mess with DNS records for nicolasventura.com at all!
+
+## Consolidating Subdomains
+
+My second big part of this project was migrating my blog and photos into the same website hosting as my homepage. That's why the URLs changed from *blog.nicfv.com* (a separate subdomain) to *nicfv.com/blog* (a subdirectory within the apex domain) for example. I made this change for a few reasons.
+
+1. It makes it easier for a visitor to navigate between my websites, since they are all part of the same top level directory. I'm also able to add navigation tabs using `mkdocs` which further improves the user experience and makes my website look better.
+1. It more strictly makes them look uniform to one another, since I can now use a single `mkdocs.yml` configuration file for all 3 websites.
+1. If I want to add more websites, I can do so directly in this one by creating a new subdirectory and index page, and it will automatically use all the same styling rules as the rest of them.
+1. It cleans up the DNS records for nicfv.com. Also, a side effect of this also benefits my [URL redirection](#url-redirection) since everything is a subdirectory and not a subdomain. (With subdomains, I would actually have to create a redirect for each one individually, since wildcard subdomains pose a security risk.)
+1. It makes it easier for me to maintain, since everything is in once place and in one GitHub repository.
 
 <!-- # Creating DNAME Records
 
