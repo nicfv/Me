@@ -21,4 +21,4 @@ hide:
 
 ###### he/him
 
-###### Last updated 
+###### Last updated %TODAY%

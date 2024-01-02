@@ -7,7 +7,7 @@ This is a space for photos of my travels, just for fun. I like to travel, and ta
 
 [![qr](./nicfvcom_qr.png){ style="display:block;margin:auto;max-width:50%;height:auto;" }](https://www.instagram.com/nicfvcom/)
 
-I live in Northern California and many of these locations are local parks and preserves. As of the "last updated" date, I have visited 12/50 US states.
+I live in Northern California and many of these locations are local parks and preserves. As of %TODAY%, I have visited 12/50 US states.
 
 ## Camera
 I currently am using a Canon PowerShot A3500 IS, with mainly stock settings. This is my first camera. A few of the earlier photos on this website are also taken with my phone (Samsung Galaxy A10e) camera.
