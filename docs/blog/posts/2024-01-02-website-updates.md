@@ -3,7 +3,6 @@ date: 2024-01-02
 categories:
   - Project
 tags:
-  - dns
   - tech
   - website
   - mkdocs
@@ -97,7 +96,7 @@ I still would like my own website for my images however. I considered getting th
 
 >! It's HTML code nearly 7,000 characters long!
 
-After playing around with an embedded post on a mockup page, I was able to shorten it to this, only ~150 characters, or just 2% of the original size:
+After playing around with an embedded post on a mockup page, I was able to shorten it to this, only ~150 characters, or just **2%** of the original size:
 
 ```html
 <blockquote class="instagram-media" data-instgrm-captioned
@@ -111,6 +110,6 @@ If you do this on your own website, just make sure to include their helper scrip
 <script async src="//www.instagram.com/embed.js"></script>
 ```
 
-<!-- # Creating DNAME Records
+## Conclusion
 
-A [CNAME](https://en.wikipedia.org/wiki/CNAME_record) record is a common [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) record that maps one domain to another. -->
+I will probably not include every single photo I post on Instagram on my website, but definitely major trips with 10+ pictures. So it's a significant change, but as long as I stick to this plan, it will be very easy to keep both my Instagram and website fresh. I'm really doing all this for myself, to keep records of places I go, and things I see. Same thing with this blog, it's just fun to write about things I do, and I don't mind if nobody actually reads this. I'm just keeping a record of myself, for myself. If you are reading this, and find it interesting, feel free to send me an email! Just use the mail link at the bottom of this page to get my address.
