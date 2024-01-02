@@ -33,6 +33,8 @@ jobs:
         run: pip install mkdocs mkdocs-material
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Verify Blog Dates
+        run: ./.github/workflows/run -b
       - name: Write Date
         run: ./.github/workflows/run -d
       - name: Build Website
