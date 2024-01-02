@@ -3,7 +3,7 @@ icon: material/camera
 ---
 # Photos
 
-This is a space for photos of my travels, just for fun. I like to travel, and take pictures while traveling. The way I'm organizing this is based on the format `YYYY/Location`. Use the navigation menu on the left, or the previous/next buttons above the footer to explore through some of my different adventures. The search bar at the top can also be used to jump to different pages. Additionally, you may follow [@nicfvcom](https://www.instagram.com/nicfvcom/) on Instagram for even more photos.
+This is a space for photos of my travels, just for fun. I like to travel, and take pictures while traveling. The way I'm organizing this is based on the format `YYYY/Location`. Use the navigation menu on the left, or the search bar at the top to explore through some of my different adventures. Additionally, you may follow [@nicfvcom](https://www.instagram.com/nicfvcom/) on Instagram for even more photos.
 
 [![qr](./nicfvcom_qr.png){ style="display:block;margin:auto;max-width:50%;height:auto;" }](https://www.instagram.com/nicfvcom/)
 
