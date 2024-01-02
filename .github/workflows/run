@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+usage() {
+    echo "Usage: ${0} [ options ]"
+    echo '  -h  Show help'
+    echo '  -d  Replace instances of %TODAY% with today`s date'
+    exit 1
+}
+
+# Print usage for zero arguments
+[[ "${#}" -eq 0 ]] && usage
+
+# Define script options
+rdate=false
+
+# Parse command line options
+while getopts ':hd' opt ; do
+    case "${opt}" in
+        'd')
+            rdate=true ;;
+        'h'|*)
+            usage ;;
+    esac
+done
+
+# Replace instances of %TODAY% in all markdown files
+"${rdate}" && {
+    files="$(find docs/ -type f -name '*.md')"
+    for file in ${files} ; do
+        sed -i "s/%TODAY%/$(date +'%B %-d, %Y')/g" "${file}"
+    done
+}
