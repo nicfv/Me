@@ -38,8 +38,6 @@ plugins:
       tags_file: blog/tags.md
 markdown_extensions:
   - attr_list
-# extra_css:
-#   - extra.css
 extra:
   social:
     - icon: material/web
@@ -49,9 +47,6 @@ extra:
       name: Send Email
     - icon: material/linkedin
       link: https://www.linkedin.com/in/nfv/
-    # - icon: material/book-open-page-variant
-    #   link: https://nicfv.com/blog/
-    #   name: Blog
     - icon: material/instagram
       link: https://www.instagram.com/nicfvcom/
     - icon: material/github
