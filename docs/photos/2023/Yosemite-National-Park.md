@@ -6,10 +6,6 @@ tags:
   - travel
 ---
 
-# Yosemite National Park
-
-<!-- more -->
-
 <script async src="//www.instagram.com/embed.js"></script>
 
 <blockquote class="instagram-media" data-instgrm-captioned
