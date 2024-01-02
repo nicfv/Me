@@ -1,3 +1,5 @@
+Interested to read more about this trip? I wrote a [blog post](../../blog/posts/2023-12-16-france0.md) about it!
+
 <script async src="//www.instagram.com/embed.js"></script>
 
 <blockquote class="instagram-media" data-instgrm-captioned
