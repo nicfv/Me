@@ -1,11 +1,3 @@
----
-date: 2023-08-01
-categories:
-  - Photos
-tags:
-  - travel
----
-
 <script async src="//www.instagram.com/embed.js"></script>
 
 <blockquote class="instagram-media" data-instgrm-captioned
