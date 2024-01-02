@@ -94,7 +94,7 @@ Instagram's website is a bit buggy and would not let me edit post captions for p
 
 I still would like my own website for my images however. I considered getting the image direct URLs off Instagram to link to, but one thing that Instagram allows you to do is simply embed their posts. This is perfect, since it will allow people to like and comment on my photos directly from my website. But if you have Instagram, I leave an exercise to the reader. Log in to [instagram.com](https://www.instagram.com/) and copy the embed code of one of your posts, and paste it in Notepad. How long is it?
 
->! It's HTML code nearly 7,000 characters long!
+> It's HTML code nearly 7,000 characters long!
 
 After playing around with an embedded post on a mockup page, I was able to shorten it to this, only ~150 characters, or just **2%** of the original size:
 
