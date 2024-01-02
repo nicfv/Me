@@ -3,7 +3,18 @@
   style="stroke-linejoin: round; stroke:#000; fill: #f9f9f9;"
   viewBox="0 0 1000 589">
   <style>
-    #CA
+    #TX,
+    #CA,
+    #AZ,
+    #OH,
+    #NY,
+    #NV,
+    #NM,
+    #UT,
+    #CO,
+    #OR,
+    #WA,
+    #TN
     {
       fill: gold;
     }
