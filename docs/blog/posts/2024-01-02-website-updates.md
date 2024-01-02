@@ -82,9 +82,9 @@ This actually isn't as complicated as it sounds, either. For the blog, I merged 
 
 I decided not to go this route for my [photography website](../../photos/index.md) (which was *photos.nicfv.com*.) The main reason being I was reaching the file limit, or maybe already there. According to [GitHub](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github), the recommended limit is 1GB with a hard cap of 5GB. With just 140 pictures posted at the time, I was already at 1.1GB, so I knew that continuing like this was unsustainable and I needed to find a different solution.
 
-I pondered some ideas like hosting my own media server from my Raspberry Pi, but that would just be another project to maintain, and I do not want any external traffic entering my network. So, that idea is completely out.
-
 ## Instagram
+
+I pondered some ideas like hosting my own media server from my Raspberry Pi, but that would just be another project to maintain, and I do not want any external traffic entering my network. So, that idea is completely out.
 
 It took me an embarassingly long time to come up with this, but the most obvious solution to almost anyone would be to create an Instagram account to share photos! Free, unlimited\* image hosting, it's so well-known and used by so many people already, and best of all, no maintenance is required! So that's exactly what I did. I created my [account](../../photos/index.md) (on PC, not the app) and began posting all the pictures I had on my old website.
 
@@ -92,7 +92,7 @@ Instagram's website is a bit buggy and would not let me edit post captions for p
 
 ### Embedding Posts
 
-Even with an Instagram account, I still would like my own website for my photography. I considered getting the image permalinks off Instagram to use as image sources, but one thing that Instagram allows you to do is simply embed their posts. This is perfect, since it will allow people to like and comment on my photos directly from my website. But if you have Instagram, I leave an exercise to the reader. Log in to [instagram.com](https://www.instagram.com/) and copy the embed code of one of your posts, and paste it in Notepad. How long is it?
+Even with an Instagram account, I still would like my own website for my photography. I considered getting the image permalinks off Instagram to use as image sources, but one thing that Instagram allows you to do is simply embed their posts. This is perfect, since it will allow people to like and comment on my photos directly from my website. But if you have Instagram, I leave an exercise to the reader. Log in to [instagram.com](https://www.instagram.com/) and copy the embed code of one of your posts, and paste it into Notepad. How long is it?
 
 > It's HTML code nearly 7,000 characters long!
 
@@ -114,4 +114,4 @@ Annoyingly, there is no option to embed an entire Instagram feed, so you do need
 
 ## Conclusion
 
-I will probably not include every single photo I post on Instagram on my website, but definitely major trips with 10+ pictures. So it's a significant change, but as long as I stick to this plan, it will be very easy to keep both my Instagram and website fresh. I'm really doing all this for myself, to keep records of places I go, and things I see. Same thing with this blog, it's just fun to write about things I do, and I don't mind if nobody actually reads this. I'm just keeping a record of myself, for myself. If you are reading this, and find it interesting, feel free to send me an email! Just use the mail link at the bottom of this page to get my address.
+I will probably not include every single photo I post on Instagram on my website, but definitely major trips with 10+ pictures. So it's a significant change, but as long as I stick to this plan, it will be very easy to keep both my Instagram and website fresh. I'm really doing all this for myself, to keep records of places I go, and things I see. Same thing with this blog, it's just a fun way to write about things I do, and I don't mind if nobody actually reads it. I'm just keeping a record of myself, for myself. If you are reading this, and find it interesting, feel free to send me an email! Just use the mail link at the bottom of this page to get my address.
