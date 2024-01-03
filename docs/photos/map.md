@@ -1,6 +1,6 @@
 # Maps
 
-I've visited the states in yellow.
+I've visited the states in yellow. I currently live in Northern California.
 
 ![us](./us.svg)
 
