@@ -66,7 +66,7 @@ echo "<p>Redirecting to <a href=\"$dest\">$dest</a>...</p>\n";
 echo "<script type=\"text/javascript\">window.location.replace('$dest');</script>";
 ```
 
-The 2nd line builds the new URL based on the requested URL. So, [https://nicolasventura.com/blog](https://nicolasventura.com/blog) turns into [https://nicfv.com/blog](https://nicfv.com/blog). Try it for yourself! See how simple it would be to change it if I get a new common domain? The 3rd line is totally optional, it shows a redirect message with a hyperlink, in case the visitor's browser has disabled URL redirect. And the 4th line is exactly my [first solution](#first-solution), which actually does the redirect. The best part about this was the fact that I did not need to mess with DNS records for nicolasventura.com at all!
+The 2nd line builds the new URL based on the requested URL. So, [https://nicolasventura.com/blog](https://nicolasventura.com/blog) turns into [https://nicfv.com/blog](https://nicfv.com/blog). Try it for yourself! See how simple it would be to change it if I get a new common domain? The 3rd line is totally optional, it shows a redirect message with a hyperlink, in case the visitor's browser has disabled URL redirect. And the 4th line is exactly my [first solution](#first-solution), which actually does the redirect. I used PHP for this, but it can be done just as well in JavaScript. The best part about this was the fact that I did not need to mess with DNS records for nicolasventura.com at all!
 
 ## Consolidating Subdomains
 
