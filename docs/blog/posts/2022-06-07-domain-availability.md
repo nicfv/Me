@@ -1,5 +1,6 @@
 ---
-date: 2022-06-07
+date:
+  created: 2022-06-07
 categories:
   - Shower Thought
 tags:
