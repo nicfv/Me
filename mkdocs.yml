@@ -42,6 +42,9 @@ markdown_extensions:
 extra_css:
   - extra.css
 extra:
+  analytics:
+    provider: google
+    property: 421848847
   social:
     - icon: material/web
       link: https://nicolasventura.com/
