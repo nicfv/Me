@@ -15,7 +15,7 @@ tags:
 
 I've made my first\* contribution into a major open-source project!
 
-\* Well, actually, I did make a [minor contribution](https://github.com/psychrometrics/psychrolib/pull/82) into an open-source project called [Psychrolib](https://github.com/psychrometrics/psychrolibhttps://github.com/psychrometrics/psychrolib) - which my [Psychart](https://psychart.nicfv.com/) application is dependent upon, but that could be it's own story. Based on the number of watchers, forks, and stars, this next project dwarfs poor Psychrolib in comparison, despite how important Psychrolib is for my work.
+\* Well, actually, I did make a [minor contribution](https://github.com/psychrometrics/psychrolib/pull/82) into an open-source project called [Psychrolib](https://github.com/psychrometrics/psychrolib) - which my [Psychart](https://psychart.nicfv.com/) application is dependent upon, but that could be it's own story. Based on the number of watchers, forks, and stars, this next project dwarfs poor Psychrolib in comparison, despite how important Psychrolib is for my work.
 
 <!-- more -->
 
