@@ -25,11 +25,11 @@ As I've written in several of my articles before, I'm using a software called `m
 
 I was having an issue with displaying the "updated date" you see on the left of my blog posts, so I consulted the [documentation](https://squidfunk.github.io/mkdocs-material/) for `material`. It was actually a very simple fix and I just needed to reformat my dates in the metadata to look like this.
 
-```yaml
-date:
-  created: YYYY-MM-DD
-  updated: YYYY-MM-DD
-```
+> ```yaml
+> date:
+>   created: YYYY-MM-DD
+>   updated: YYYY-MM-DD
+> ```
 
 However, when looking through the docs, I noticed that many of the examples used January 1, 2023 as the date example, except for one using 2022. Assuming it was a typo, I forked the repository, made a commit, and submitted a [pull request](https://github.com/squidfunk/mkdocs-material/pull/6598). To break that down...
 
