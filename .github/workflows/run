@@ -43,12 +43,11 @@ done
 
 # Check to make sure blog filenames match their date
 "${blogdate}" && {
-    exit 0 # TODO: UPDATE THIS TO CHECK FOR CREATED DATES
     posts="$(find docs/blog/posts/ -type f -name '*.md')"
     failed=false
     for post in ${posts} ; do
         info "Checking date in ${post}..."
-        postdate="$(grep -E '^date:.+$' "${post}" | sed -E 's/date: ([0-9\-]+).?$/\1/')"
+        postdate="$(grep -E '^  created:.+$' "${post}" | sed -E 's/  created: ([0-9\-]+).?$/\1/')"
         regexstr="^docs/blog/posts/${postdate}-.+\.md$"
         if [[ -z "${postdate}" ]] ; then
             error "${post} is missing a date in the metadata"
