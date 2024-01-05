@@ -17,8 +17,6 @@ hide:
 
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
 
-> Click the links in the footer below to learn more!
+> Should I write a quote here?
 
-###### he/him
-
-###### Last updated %TODAY%
+###### Click the links in the footer below to learn more! | he/him | Last updated %TODAY%
