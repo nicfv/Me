@@ -25,11 +25,11 @@ As I've written in several of my articles before, I'm using a software called `m
 
 I was having an issue with displaying the "updated date" you see on the left of my blog posts, so I consulted the [documentation](https://squidfunk.github.io/mkdocs-material/) for `material`. It was actually a very simple fix and I just needed to reformat my dates in the metadata to look like this.
 
-> ```yaml
-> date:
->   created: YYYY-MM-DD
->   updated: YYYY-MM-DD
-> ```
+```yaml
+date:
+  created: YYYY-MM-DD
+  updated: YYYY-MM-DD
+```
 
 However, when looking through the docs, I noticed that many of the examples used January 1, 2023 as the date example, except for one using 2022. Assuming it was a typo, I forked the repository, made a commit, and submitted a [pull request](https://github.com/squidfunk/mkdocs-material/pull/6598). To break that down...
 
@@ -48,11 +48,12 @@ For JavaScript software development, there is a package registry called [NPM](ht
 One thing about NPM packages is that they can depend on *other* NPM packages. For example, is-ten-thousand depends on *another* ridiculous package called [is-positive](https://www.npmjs.com/package/is-positive), which probably means that within the code in is-ten-thousand, it checks first if the number is positive. (Why?)
 
 > Just for kicks, I wrote my own version of is-ten-thousand...
-> ```js
-> function isTenThousand(num) {
->     return num === 10000;
-> }
-> ```
+
+```js
+function isTenThousand(num) {
+    return num === 10000;
+}
+```
 
 I gave a few silly examples, but NPM is filled with extremely important and useful packages like [Typescript](https://www.npmjs.com/package/typescript).
 
