@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# Print help message and exit fail
 usage() {
     echo "Usage: ${0} [ options ]"
     echo '  -h  Show help'
