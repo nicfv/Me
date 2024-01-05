@@ -9,11 +9,11 @@ hide:
 
 # Nicolas (Nic) Ventura
 
-## Data Center Engineer @ Lawrence Berkeley National Lab
+## Data Center Engineer @ [Lawrence Berkeley National Lab](https://www.lbl.gov/)
 
-## M.S. Mechanical & Aerospace Engineering
+## M.S. Mechanical & Aerospace Engineering, EIT Certified
 
-## Engineer-In-Training Certified in the state of California
+## [Napa Valley Marathon Finisher 04:14:52](https://results.svetiming.com/napa-valley-marathon/events/2023/kaiser-permanente-napa-valley-marathon/1311/entrant?share=1)
 
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
 
