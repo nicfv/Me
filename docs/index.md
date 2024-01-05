@@ -13,7 +13,7 @@ hide:
 
 ## M.S. Mechanical & Aerospace Engineering, EIT Certified
 
-## [Napa Valley Marathon Finisher 04:14:52](https://results.svetiming.com/napa-valley-marathon/events/2023/kaiser-permanente-napa-valley-marathon/1311/entrant?share=1)
+## Napa Valley Marathon Finisher [04:14:52](https://results.svetiming.com/napa-valley-marathon/events/2023/kaiser-permanente-napa-valley-marathon/1311/entrant?share=1)
 
 [Download Resume](Resume.pdf){ .md-button .md-button--primary download="Resume-Nicolas-Ventura" }
 
