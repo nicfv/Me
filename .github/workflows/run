@@ -47,7 +47,7 @@ done
     failed=false
     for post in ${posts} ; do
         info "Checking date in ${post}..."
-        postdate="$(grep -E '^  created:.+$' "${post}" | sed -E 's/  created: ([0-9\-]+).?$/\1/')"
+        postdate="$(grep -E '^  created:.+$' "${post}" | sed -E 's/^  created: ([0-9\-]+).?$/\1/')"
         regexstr="^docs/blog/posts/${postdate}-.+\.md$"
         if [[ -z "${postdate}" ]] ; then
             error "${post} is missing a date in the metadata"
@@ -57,7 +57,7 @@ done
             failed=true
         fi
     done
-    "${failed}" && exit 1
+    "${failed}" && error 'Failed!' && exit 1
     info 'Passed.'
 }
 
