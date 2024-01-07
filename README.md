@@ -2,6 +2,6 @@
 
 Visit the links below:
 
-- **Portfolio** - About me: [nicfv.com](https://nicfv.com/)
-- **Blog** - A space for my thoughts: [nicfv.com/blog](https://nicfv.com/blog/)
-- **Photos** - Photos of my travels: [nicfv.com/photos](https://nicfv.com/photos/)
+- **Portfolio** - About me: [nicolasventura.com](https://nicolasventura.com/)
+- **Blog** - A space for my thoughts: [nicolasventura.com/blog](https://nicolasventura.com/blog/)
+- **Photos** - Photos of my travels: [nicolasventura.com/photos](https://nicolasventura.com/photos/)
