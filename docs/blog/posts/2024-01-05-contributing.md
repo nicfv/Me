@@ -15,7 +15,7 @@ tags:
 
 I've made my first\* contribution into a major open-source project!
 
-\* Well, actually, I did make a [minor contribution](https://github.com/psychrometrics/psychrolib/pull/82) into an open-source project called [Psychrolib](https://github.com/psychrometrics/psychrolib) - which my [Psychart](https://psychart.nicfv.com/) application is dependent upon, but that could be it's own story. Based on the number of watchers, forks, and stars, this next project dwarfs poor Psychrolib in comparison, despite how important Psychrolib is for my work.
+\* Well, actually, I did make a [minor contribution](https://github.com/psychrometrics/psychrolib/pull/82) into an open-source project called [Psychrolib](https://github.com/psychrometrics/psychrolib) - which my [Psychart](https://psychart.nicfv.com/) application is dependent upon, but that could be its own story. Based on the number of watchers, forks, and stars, this next project dwarfs poor Psychrolib in comparison, despite how important Psychrolib is for my work.
 
 <!-- more -->
 
@@ -37,7 +37,7 @@ However, when looking through the docs, I noticed that many of the examples used
 1. *Made commits*: I edited the dates in the documentation and noted that those edits are to be published to my fork.
 1. *Submit a pull request*: Telling the owner of `material` that I wanted my code to be pulled into his official software repository.
 
-I heard back from Martin Donath, the owner of `material` who goes by the username [squidfunk](https://github.com/squidfunk) who recommended I simply change all the dates to 2024. So I did and my pull request was accepted! Despite being an absolutely tiny change, that makes me an official contributor for my favorite project, [`material`](https://github.com/squidfunk/mkdocs-material)!
+I heard back from Martin Donath, the owner of `material` who goes by the username [squidfunk](https://github.com/squidfunk) who recommended I simply change all the dates to 2024. So I did and my pull request was accepted! Despite being an absolutely tiny change, that makes me an official [contributor](https://github.com/squidfunk/mkdocs-material/commits?author=nicfv) for my favorite project, [`material`](https://github.com/squidfunk/mkdocs-material)!
 
 ## Everything
 
