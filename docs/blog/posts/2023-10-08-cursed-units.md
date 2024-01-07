@@ -1,7 +1,7 @@
 ---
 date:
   created: 2023-10-08
-  updated: 2023-12-30
+  updated: 2024-01-07
 categories:
   - Shower Thought
 tags:
@@ -22,7 +22,7 @@ Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogethe
 | Mass | M |
 | Length | L |
 | Time | T |
-| Temperature | H |
+| Temperature | K |
 
 | Constant | Symbol |
 | -------- | ------ |
@@ -58,8 +58,8 @@ G = Force * Length ^ 2 / Mass ^ 2
 
 ```
 B = Energy / Temperature
-  = M^(1)L^(2)T^(-2) * H^(-1)
-  = M^(1)L^(2)T^(-2)H^(-1)
+  = M^(1)L^(2)T^(-2) * K^(-1)
+  = M^(1)L^(2)T^(-2)K^(-1)
 ```
 
 ### Planck Constant
@@ -96,7 +96,7 @@ Now we have some options here! Length will cancel out when `a = -3b`, and the ti
     M |  0 -1  1  1 |      | C |      | M |
 A = L |  1  3  2  2 |  x = | G |  b = | L |
     T | -1 -2 -2 -1 |      | B |      | T |
-    H |  0  0 -1  0 |      | h |      | H |
+    K |  0  0 -1  0 |      | h |      | K |
 ```
 
 This gives us a linear combination of our fundamental constants and our base units. Now we can find the inverse of `A`. This is the result of plugging it into an online calculator.
@@ -114,7 +114,7 @@ Not so pretty, but we can now use this to rewrite our linear combination from `A
     |  0 |  (M)
 b = |  1 |  (L)
     | -1 |  (T)
-    |  0 |  (H)
+    |  0 |  (K)
 ```
 
 For this value of `b` we should expect to get a value output of just `C` since the speed of light already matches these units exactly and can describe our quantity.
@@ -153,7 +153,7 @@ We already calculated mass above, and to spare the reader from all the math, I c
 | Mass | `M` | `sqrt(h/(G*C))` |
 | Length | `L` | `sqrt(G*h/C^(3))` |
 | Time | `T` | `sqrt(G*h/C^(5))` |
-| Temperature | `H` | `sqrt(h*C^(5)/G)/B` |
+| Temperature | `K` | `sqrt(h*C^(5)/G)/B` |
 | Area | `L^(2)` | `G*h/C^(3)` |
 | Volume | `L^(3)` | `sqrt((G*h)^(3)/C^(9))` |
 | Density | `M^(1)L^(-3)` | `C^(4)/(G^(2)*h)` |
