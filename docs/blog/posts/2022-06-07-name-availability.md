@@ -13,7 +13,11 @@ tags:
 
 ## Intro
 
-One of the first things you need in order to set up an account on any website is a unique username and a good password. One of the first things you need in order to set up a website is a unique domain name. Ideally, good usernames and domain names are easy to spell and remember.
+Have you ever tried to sign up for something, and you get this frustrating message?
+
+> Username unavailable! Try again.
+
+One of the first things you need in order to set up an account on any website is a unique username and a good password. One of the first things you need in order to set up a website is a unique domain name. Ideally, good usernames and domain names are easy to spell and remember. We can use some math tricks to find out how to find a good username without guessing over and over.
 
 A username (including email addresses) is a combination of letters, numbers, and sometimes special characters are also allowed. Sometimes they start with `@`. A domain name is a combination of numbers, letters, and possibly hyphens ending in a top level domain (TLD), for example, `.com`. A password *should* be a combination of letter, numbers, *and* special characters, and usually case-sensitive. Good usernames and domain names are hard to obtain, and becoming exceedingly rare. Are there any left? Also, what makes a good password?
 
