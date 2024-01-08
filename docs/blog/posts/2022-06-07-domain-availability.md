@@ -15,7 +15,7 @@ tags:
 
 One of the first things you need in order to set up an account on any website is a unique username and a good password. One of the first things you need in order to set up a website is a unique domain name. Ideally, good usernames and domain names are easy to spell and remember.
 
-A username is a combination of letters, numbers, and sometimes special characters are also allowed. Sometimes they start with `@`. A domain name is a combination of numbers, letters, and possibly hyphens ending in a top level domain (TLD), for example, `.com`. A password *should* be a combination of letter, numbers, *and* special characters, and usually case-sensitive. Good usernames and domain names are hard to obtain, and becoming exceedingly rare. Are there any left? Also, what makes a good password?
+A username (including email addresses) is a combination of letters, numbers, and sometimes special characters are also allowed. Sometimes they start with `@`. A domain name is a combination of numbers, letters, and possibly hyphens ending in a top level domain (TLD), for example, `.com`. A password *should* be a combination of letter, numbers, *and* special characters, and usually case-sensitive. Good usernames and domain names are hard to obtain, and becoming exceedingly rare. Are there any left? Also, what makes a good password?
 
 <!-- more -->
 
@@ -219,12 +219,12 @@ Here is the same table from [Compiled Data](#compiled-data) recalculated with ti
 | 22 | 49.64Ty | Eternity | Eternity | Eternity |
 | 23 | Eternity | Eternity | Eternity | Eternity |
 
-Anything less than 0.5 seconds I marked as "instant", and anything over 1,000 trillion years I marked as "eternity". As reference, our universe is less than 14 billion years old. You'll also notice that this table is much shorter, since after 23 characters, it takes an eternity regardless of what type of alphabet is used.
+Anything less than 0.5 seconds I marked as "instant", and anything over 1,000 trillion years I marked as "eternity". As reference, our universe is less than 14 billion years old. After 23 characters, it takes an eternity regardless of what type of alphabet is used.
 
-These times can be massively improved, however. On one hand, someone can simply be using much better hardware than I am. On the other hand, the code itself can be greatly improved by using the idea of parallelism, which can essentially run multiple tasks at once in parallel. This will divide the time by the number of parallel tasks.
+These times can be massively improved, however. One, someone can simply be using much better hardware than I am. Two, the code itself can be greatly improved by using the idea of parallelism, which can essentially run multiple tasks at once in parallel. This will divide the time by the number of parallel tasks.
 
 ## Conclusion
 
-For finding good usernames or domain names, 7 characters with only lowercase letters is enough for at least 1 unique name per human alive on Earth. If you're lucky, or using a website (or registering from a TLD) with only hundreds, or thousands of people, you may be able to find a shorter name. If you want a stricter pattern with consonants and vowels, you may be limiting yourself to just 3-5% of the available supply.
+For finding good usernames or domain names, 7 characters with only lowercase letters is enough for at least 1 unique name per human alive on Earth. If you're lucky, or using a website (or registering from a TLD) with only hundreds, or thousands of other users, you may be able to find a shorter name. If you want a stricter pattern with consonants and vowels, you may be limiting yourself to just 3-5% of the available supply.
 
-Regarding passwords, it is well known that longer passwords using all types of characters are the hardest to crack. Luckily, even if someone guesses your password with a password generator, most websites will only allow a certain number of password attempts before locking your account, and only you should be able to unlock it. With the development of better hardware, AI, and quantum computers, make sure that your passwords are very secure.
+Regarding passwords, it is well known that longer passwords using all types of characters are the hardest to crack. Luckily, even if someone guesses your password with a password generator, most websites will only allow a certain number of password attempts before locking your account, and then only you should be able to unlock it. With the development of better hardware, AI, and quantum computers, make sure that your passwords are very secure.
