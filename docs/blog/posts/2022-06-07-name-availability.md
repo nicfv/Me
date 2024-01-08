@@ -27,13 +27,13 @@ Let an example domain be `nicfv.com` (or username `nicfv`.) The part before the 
 
 Many websites have a minimum-character requirement of 4 or 5 characters, for example, to prevent people from registering an account called "a", "b", etc., but some websites do not have this requirement. This is pretty reasonable, I think, since it would be a little confusing to see someone's handle as "@a", but it would be pretty cool.
 
-> Fun fact: I was able to register an account with a [2L username](https://test.pypi.org/user/nv/) on Python's package manager testing framework.
+> **Fun fact:** I was able to register an account with a [2L username](https://test.pypi.org/user/nv/) on Python's package manager testing framework.
 
 ### Domain
 
 It is basically impossible to own a single-character `.com` domain at this time. Several of them are already owned, and the rest of the `C.tld` and `CC.tld` domains are reserved by registries and impossible to register a new one. The only possible way to own one is to buy one of the few that still exist in the wild for likely millions of dollars. The next closest thing is a `3C.tld` domain. These are in fact possible to obtain or register, but typically are only available through resale. Three characters increases the total supply by a lot so it may be possible to register one depending on the TLD. Now we will see how many possible domains exist with different patterns and whether they can be pronounced or not.
 
-> Fun fact: I was able to register a 3L `.us` domain, and a 2C `.cyou` domain! I let the `.cyou` one expire, since that is a weird, and unknown TLD. I am using the `.us` domain for a personal project.
+> **Fun fact:** I was able to register a 3L `.us` domain, and a 2C `.cyou` domain! I let the `.cyou` one expire, since that is a weird, and unknown TLD. I am using the `.us` domain for a personal project.
 
 ### Password
 
@@ -95,7 +95,7 @@ If you wanted something "pronounceable", like a consonant-vowel-consonant (CVC),
 combos = 21 * 5 * 21 = 2205
 ```
 
-As for passwords, 3C is still not enough - even with the introduction of 10 special characters.
+As for passwords, 3C is still not enough - even with the introduction of 10 special characters. Modern computers are simply too fast and would crack 3C passwords in an instant.
 
 ```
 length(alphabet) = 2 * 26 + 10 + 10 = 72
@@ -165,7 +165,7 @@ specials = ~!@#$%^&*()-_+=<>,.?/\[]{}:;'"
 | 22 | 1.35e+31 | 1.73e+34 | 2.71e+39 | 1.60e+43 |
 | 23 | 3.50e+32 | 6.24e+35 | 1.68e+41 | 1.47e+45 |
 
-> How to read this table: With a word length of 10 characters, using only lowercase letters (10L), there are 141.17 trillion combinations. The `e+` notation is scientific notation - for example, with 8 characters, using lowercase + numbers + uppercase + specials, there are `5.13e+15` combinations, or `5.13 * 10^15`.
+> **How to read this table:** With a word length of 10 characters, using only lowercase letters (10L), there are 141.17 trillion combinations. The `e+` notation is scientific notation - for example, with 8 characters, using lowercase + numbers + uppercase + specials, there are `5.13e+15` combinations, or `5.13 * 10^15`.
 
 ## Cracking Passwords
 
@@ -219,12 +219,12 @@ Here is the same table from [Compiled Data](#compiled-data) recalculated with ti
 | 22 | 49.64Ty | Eternity | Eternity | Eternity |
 | 23 | Eternity | Eternity | Eternity | Eternity |
 
-Anything less than 0.5 seconds I marked as "instant", and anything over 1,000 trillion years I marked as "eternity". As reference, our universe is less than 14 billion years old. After 23 characters, it takes an eternity regardless of what type of alphabet is used.
+Anything less than 0.5 seconds I marked as "instant", and anything over 1,000 trillion years I marked as "eternity". As reference, our universe is less than 14 billion years old. After 23 characters, it takes an eternity (with these parameters) regardless of what type of alphabet is used.
 
-These times can be massively improved, however. One, someone can simply be using much better hardware than I am. Two, the code itself can be greatly improved by using the idea of parallelism, which can essentially run multiple tasks at once in parallel. This will divide the time by the number of parallel tasks.
+These times can be massively improved, however. One, someone can simply be using much better hardware than I am. Two, the code itself can be greatly improved by using the idea of parallelism, which can essentially run multiple tasks at once in parallel. This will divide up the work, and time, by the number of parallel tasks.
 
 ## Conclusion
 
 For finding good usernames or domain names, 7 characters with only lowercase letters is enough for at least 1 unique name per human alive on Earth. If you're lucky, or using a website (or registering from a TLD) with only hundreds, or thousands of other users, you may be able to find a shorter name. If you want a stricter pattern with consonants and vowels, you may be limiting yourself to just 3-5% of the available supply.
 
-Regarding passwords, it is well known that longer passwords using all types of characters are the hardest to crack. Luckily, even if someone guesses your password with a password generator, most websites will only allow a certain number of password attempts before locking your account, and then only you should be able to unlock it. With the development of better hardware, AI, and quantum computers, make sure that your passwords are very secure.
+Regarding passwords, it is well known that longer passwords using all types of characters are the hardest to crack. Luckily, even if someone guesses your password with a password generator, most websites will only allow a certain number of password attempts before locking your account, and then only you should be able to unlock it. However, with the development of better hardware, AI, and quantum computers, make sure that your passwords are very secure!
