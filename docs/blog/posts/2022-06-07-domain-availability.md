@@ -200,6 +200,46 @@ const end = Date.now();
 
 I ran the same code in C, a compiled language, to see if there would be any performance improvements. Surprisingly, it did not improve much, with a top speed of about 1.8 million checks per millisecond. When I turned on compiler optimization options, the top speed jumped to nearly 4.3 million checks per millisecond (or 4.3 billion per second!)
 
+Assuming that someone with similar hardware of mine and running a password guesser consistently would crack passwords in about this length of time. The extra factor of 2 is an average, representing that passwords can be cracked any time from the beginning of guesswork all the way until the final guess.
+
+```
+time[s] = combos / (checks per second * 2)
+```
+
+Here is the same table from [Compiled Data](#compiled-data) recalculated with time ranges to crack the password, assuming 4.3 billion guesses per second.
+
+| `length(word)` | Lowercase (26) | +Numbers (36) | +Uppercase (62) | +Specials (92) |
+| -------------- | -------------- | ------------- | --------------- | -------------- |
+| 1 | Instant | Instant | Instant | Instant |
+| 2 | Instant | Instant | Instant | Instant |
+| 3 | Instant | Instant | Instant | Instant |
+| 4 | Instant | Instant | Instant | Instant |
+| 5 | Instant | Instant | Instant | 1s |
+| 6 | Instant | Instant | 7s | 1m |
+| 7 | 1s | 9s | 7m | 2h |
+| 8 | 24s | 5m | 7h | 7d |
+| 9 | 11m | 3h | 18d | 2y |
+| 10 | 5h | 5d | 3y | 160y |
+| 11 | 5d | 177d | 192y | 14.73ky |
+| 12 | 128d | 17y | 11.89ky | 1.35My |
+| 13 | 9y | 629y | 737.04ky | 124.63My |
+| 14 | 238y | 22.63ky | 45.7My | 11.47By |
+| 15 | 6.18ky | 814.58ky | 2.83By | 1.05Ty |
+| 16 | 160.68ky | 29.32My | 175.66By | 97.05Ty |
+| 17 | 4.18My | 1.06By | 10.89Ty | Eternity |
+| 18 | 108.62My | 38.01By | 675.22Ty | Eternity |
+| 19 | 2.82By | 1.37Ty | Eternity | Eternity |
+| 20 | 73.43By | 49.25Ty | Eternity | Eternity |
+| 21 | 1.91Ty | Eternity | Eternity | Eternity |
+| 22 | 49.64Ty | Eternity | Eternity | Eternity |
+| 23 | Eternity | Eternity | Eternity | Eternity |
+
+Anything less than 0.5 seconds I marked as "instant", and anything over 1,000 trillion years I marked as "eternity". As reference, our universe is less than 14 billion years old. You'll also notice that this table is much shorter, since after 23 characters, it takes an eternity regardless of what type of alphabet is used.
+
+These times can be massively improved, however. On one hand, someone can simply be using much better hardware than I am. On the other hand, the code itself can be greatly improved by using the idea of parallelism, which can essentially run multiple tasks at once in parallel. This will divide the time by the number of parallel tasks.
+
 ## Conclusion
 
-In conclusion, while good and short `.com` domains may not be easily found, `.net` and `.org` may provide good alternatives. There are about 10,000 pronounceable 4-letter, 400,000 pronounceable 5-letter, and 12M pronounceable 6-letter combinations which are very rough estimates around 3% of the original set of combinations.
+For finding good usernames or domain names, 7 characters with only lowercase letters is enough for at least 1 unique name per human alive on Earth. If you're lucky, or using a website (or registering from a TLD) with only hundreds, or thousands of people, you may be able to find a shorter name. If you want a stricter pattern with consonants and vowels, you may be limiting yourself to just 3-5% of the available supply.
+
+Regarding passwords, it is well known that longer passwords using all types of characters are the hardest to crack. Luckily, even if someone guesses your password with a password generator, most websites will only allow a certain number of password attempts before locking your account, and only you should be able to unlock it. With the development of better hardware, AI, and quantum computers, make sure that your passwords are very secure.
