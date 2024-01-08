@@ -161,14 +161,9 @@ specials = ~!@#$%^&*()-_+=<>,.?/\[]{}:;'"
 | 18 | 2.95e+25 | 1.03e+28 | 1.83e+32 | 2.23e+35 |
 | 19 | 7.66e+26 | 3.71e+29 | 1.14e+34 | 2.05e+37 |
 | 20 | 1.99e+28 | 1.34e+31 | 7.04e+35 | 1.89e+39 |
-| 30 | 2.81e+42 | 4.89e+46 | 5.91e+53 | 8.20e+58 |
-| 40 | 3.97e+56 | 1.79e+62 | 4.96e+71 | 3.56e+78 |
-| 50 | 5.61e+70 | 6.53e+77 | 4.16e+89 | 1.55e+98 |
-| 60 | 7.91e+84 | 2.39e+93 | 3.50e+107 | 6.72e+117 |
-| 70 | 1.12e+99 | 8.73e+108 | 2.93e+125 | 2.92e+137 |
-| 80 | 1.58e+113 | 3.19e+124 | 2.46e+143 | 1.27e+157 |
-| 90 | 2.23e+127 | 1.17e+140 | 2.07e+161 | 5.51e+176 |
-| 100 | 3.14e+141 | 4.27e+155 | 1.73e+179 | 2.39e+196 |
+| 21 | 5.18e+29 | 4.81e+32 | 4.37e+37 | 1.74e+41 |
+| 22 | 1.35e+31 | 1.73e+34 | 2.71e+39 | 1.60e+43 |
+| 23 | 3.50e+32 | 6.24e+35 | 1.68e+41 | 1.47e+45 |
 
 > How to read this table: With a word length of 10 characters, using only lowercase letters (10L), there are 141.17 trillion combinations. The `e+` notation is scientific notation - for example, with 8 characters, using lowercase + numbers + uppercase + specials, there are `5.13e+15` combinations, or `5.13 * 10^15`.
 
