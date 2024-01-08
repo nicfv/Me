@@ -37,7 +37,7 @@ However, when looking through the docs, I noticed that many of the examples used
 1. *Made commits*: I edited the dates in the documentation and noted that those edits are to be published to my fork.
 1. *Submit a pull request*: Telling the owner of `material` that I wanted my code to be pulled into his official software repository.
 
-I heard back from Martin Donath, the owner of `material` who goes by the username [squidfunk](https://github.com/squidfunk) who recommended I simply change all the dates to 2024. So I did and my pull request was accepted! Despite being an absolutely tiny change, that makes me an official [contributor](https://github.com/squidfunk/mkdocs-material/commits?author=nicfv) for my favorite project, [`material`](https://github.com/squidfunk/mkdocs-material)!
+I heard back from Martin Donath, the owner of `material` who goes by the username [squidfunk](https://github.com/squidfunk) who recommended I simply change all the dates to 2024. So I did and my pull request was accepted! Despite being an absolutely tiny change, my GitHub icon even shows up at the bottom of the [page](https://squidfunk.github.io/mkdocs-material/plugins/blog/) I updated, thanks to the `git-committers` plugin. And, that makes me an official [contributor](https://github.com/squidfunk/mkdocs-material/commits?author=nicfv) for my favorite project, [`material`](https://github.com/squidfunk/mkdocs-material)!
 
 ## Everything
 
