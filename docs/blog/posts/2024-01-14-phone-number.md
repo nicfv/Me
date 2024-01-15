@@ -21,7 +21,11 @@ One very weak argument is that not everyone has a phone. Okay... [survey says](h
 
 ## Medium Argument 1
 
-Your phone battery could die. Then what? You're locked out of BookFace until you charge it. Remember that "BookFace" can represent any app/website - including ones that might be very time sensitive, e.g. to your job, finances, or family. Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
+Your phone battery could die. Then what? You're locked out of BookFace until you charge it.
+
+> Remember that "BookFace" can represent any app/website - including ones that might be very time sensitive, e.g. to your job, finances, academics, or family.
+
+Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
 
 ## Medium Argument 2
 
@@ -60,8 +64,6 @@ Even though there's enough for each American to have almost 8 unique phone numbe
 Even disregarding the main topic of account authentication, there's some glaring issues here. If my phone number is deactivated and reassigned to someone else, everyone that has my number saved will be contacting that other person. On the other hand, if I get a new phone and it has a reassigned phone number, I will be getting contacted and possibly spammed from all of the previous owner's contacts, depending on how private they kept their phone number.
 
 More annoyingly, let's say the previous owner already used this phone number to create their BookFace account. That means, I'm now stuck and cannot create one myself, since a phone number is required for registration.
-
-> Just as another reminder, "BookFace" can be anything - including finance apps, academic apps, etc.
 
 A worst-case scenario is registering a phone with a reassigned number from a known spammer or someone that otherwise abused their phone communication. Those actions may have caused that number to be added to several blacklists and possibly even blocked from using it as an authentication method for more tech-savvy companies, like BookFace.
 
