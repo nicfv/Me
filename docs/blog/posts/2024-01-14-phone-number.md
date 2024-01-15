@@ -6,25 +6,26 @@ categories:
 tags:
   - tech
   - website
-draft: true
 ---
 # Phone Number Verification
 
-Something that always bugs me is when a website or app requires phone number verification, often called SMS authentication. Usually, that means that you enter your phone number into the app, and it will send you an automated code that you enter, or a link you click, to verify that the number is really yours. Many websites are now beginning to enforce this policy. In my opinion, this is a terrible system for several reasons.
+Something that always irks me is when a website or app requires phone number verification, often called SMS authentication. Usually, that means whenever you want to log in to, let's call it BookFace, it will text you an automated code that you enter, or a link to click, to verify that the number is really yours and it is really you trying to log in. Many websites are now beginning to enforce this policy. In my opinion, this is a terrible system for several reasons.
 
 <!-- more -->
 
+> I'm using "BookFace" as an example company/app name. It could represent Gmail, Instagram, or something very critical like your mobile banking app.
+
 ## Weak Argument
 
-One very weak argument is that not everyone has a phone. Okay... [survey says](https://www.pewresearch.org/internet/fact-sheet/mobile/) that in 2021, 97% of Americans and 100% ages 18-49 own a cell phone of some kind. I *said* it was a weak argument! A counter argument to this, is those people signing up for these services (e.g. Gmail, Instagram, etc...) likely have a phone, and may even be accessing these apps directly from their phone. A counter to the counter, is that these figures are cell phone ownership - not necessarily the number of mobile phone *subscriptions* or activated SIM cards.
+One very weak argument is that not everyone has a phone. Okay... [survey says](https://www.pewresearch.org/internet/fact-sheet/mobile/) that in 2021, 97% of Americans and 100% ages 18-49 own a cell phone of some kind. I *said* it was a weak argument! A counter argument to this, is those people signing up for BookFace likely have a phone, and may even be accessing BookFace directly from their phone. A counter to the counter, is that these figures are cell phone ownership - not necessarily the number of mobile phone *subscriptions* or activated SIM cards.
 
 ## Medium Argument 1
 
-Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
+Your phone battery could die. Then what? You're locked out of BookFace until you charge it. Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
 
 ## Medium Argument 2
 
-This is more of a personal one. To me, my phone number feels more personal to me than my email or other modes of online communication. I simply don't like sharing my personal phone number with companies - especially since I know many of them do not respect privacy laws and will sell my personal data. I've seriously considered obtaining a "burner" phone to use for all my account authentication methods, but then I would need to be carrying 2 phones around and pay for additional data, and of course there is the issue of phone number reuse (mentioned [later](#reuse) in this article.)
+This is more of a personal one. To me, my phone number feels more personal to me than my email or other modes of online communication. I simply don't like sharing my personal phone number with BookFace - especially since I know it will not respect privacy laws and will sell my personal data. I've seriously considered obtaining a "burner" phone to use for all my account authentication methods, but then I would need to be carrying 2 phones around and pay for additional data, and of course there is the issue of phone number reuse (mentioned [later](#reuse) in this article.)
 
 ## Strong Argument
 
@@ -56,9 +57,9 @@ Even though there's enough for each American to have almost 8 unique phone numbe
 
 Even disregarding the main topic of account authentication, there's some glaring issues here. If my phone number is deactivated and reassigned to someone else, everyone that has my number saved will be contacting that other person. On the other hand, if I get a new phone and it has a reassigned phone number, I will be getting contacted and possibly spammed from all of the previous owner's contacts, depending on how private they kept their phone number.
 
-More annoyingly, let's say the previous owner already used this phone number to create their Gmail or whatever account. That means, I'm now stuck and cannot create one myself, since a phone number is required for registration.
+More annoyingly, let's say the previous owner already used this phone number to create their BookFace account. That means, I'm now stuck and cannot create one myself, since a phone number is required for registration.
 
-A worst-case scenario is registering a phone with a reassigned number from a known spammer or someone that otherwise abused their phone communication. Those actions may have caused that number to be added to several blacklists and possibly even blocked from using it as an authentication method on more tech-savvy websites.
+A worst-case scenario is registering a phone with a reassigned number from a known spammer or someone that otherwise abused their phone communication. Those actions may have caused that number to be added to several blacklists and possibly even blocked from using it as an authentication method on more tech-savvy companies, like BookFace.
 
 ## Alternatives
 
@@ -66,11 +67,11 @@ Okay, so far I've just been complaining and offering no solution. But trust me, 
 
 ### Email Link
 
-Send a link to your email address. When clicked on, you are logged into the app or website.
+Send a link to your email address. When clicked on, you are logged into BookFace.
 
 ### Email OTP
 
-Send a one-time passcode to your email address. Entering it into the app or website will log you in.
+Send a one-time passcode to your email address. Entering it into BookFace will log you in.
 
 ### Backup Email
 
@@ -88,10 +89,14 @@ But if the hardware is scanning incorrectly, or you're wearing a face mask, thes
 
 ### Software Token
 
-In my opinion, this is my favorite alternative to SMS authentication, and there are 2 main methods for this. You could use an app that enables push notifications. When you try to log in to an app or website, you receive a notification on your phone that may say something like "Is this really you?" Clicking "Yes" will log you in.
+In my opinion, this is my favorite alternative to SMS authentication, and there are 2 main methods for this. You could use an app that enables push notifications. When you try to log in to BookFace, you receive a notification on your phone that may say something like "Is this really you?" Clicking "Yes" will log you in.
 
-The other option is an authenticator app that continually generates one-time passcodes. The app or website you try to log into will ask for the one-time passcode, and entering it correctly will log you in.
+The other option is an authenticator app that continually generates one-time passcodes. When logging into BookFace, it will ask for the one-time passcode, and entering it correctly will log you in.
+
+### Nothing
+
+We're all forgetting the most obvious solution here. (In fact, I'm writing this in an edit since I forgot to include it initially!) Just **do nothing**. Don't require users to set up multi-factor authentication at all. Perhaps enforce stricter password requirements, but with modern password managers, who cares? I'll generate a 99-character-long random password just for you, BookFace.
 
 ## Conclusion
 
-I think software tokens work the best, because they are very similar to SMS authentication, but without the drawbacks. Since it is all on your phone, the you won't notice any difference. In fact, you may be able to install some of these apps on your computer as well for convenience. Most of these push notification or authenticator apps will have a way to "backup" your codes, so if you lose your phone then you can import your data into the new phone. Also, you don't share your phone number with these companies, which I think is a nice bonus.
+I think software tokens work the best, because they are very similar to SMS authentication, but without the drawbacks. Since it can be all on your phone, then you won't notice any difference. In fact, you *may* be able to install some of these apps on your computer as well for convenience (e.g. phone dying or getting lost!) Most of these push notification or authenticator apps will have a way to "backup" your codes, so if you lose your phone then you can import your data into the new one. Also, you don't share your phone number with these companies, which I think is a nice bonus.
