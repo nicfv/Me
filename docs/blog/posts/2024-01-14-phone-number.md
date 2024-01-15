@@ -21,7 +21,7 @@ One very weak argument is that not everyone has a phone. Okay... [survey says](h
 
 ## Medium Argument 1
 
-Your phone battery could die. Then what? You're locked out of BookFace until you charge it. Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
+Your phone battery could die. Then what? You're locked out of BookFace until you charge it. Remember that "BookFace" can represent any app/website - including ones that might be very time sensitive, e.g. to your job, finances, or family. Okay, what if you lose your phone? In most cases, that means you lose your phone number with it. Unfortunately, it's not that simple to recover your lost phone number. So, no phone = no phone number = locked out of your accounts? What a horrible day that would be!
 
 ## Medium Argument 2
 
@@ -33,7 +33,7 @@ In my opinion, this reason alone should be more than enough to stop companies fr
 
 ### Phone Number Supply
 
-Moving on, with our current setup of phone numbers, there is a limited supply. In the United States, for example, the phone number pattern begins with "1" (because of the [world zone](https://en.wikipedia.org/wiki/List_of_country_calling_codes)) and consists of a 3-digit area code, a 3-digit office code, and a 4-digit line number, with rules based on the [North American Numbering Plan (NANP)](https://en.wikipedia.org/wiki/North_American_Numbering_Plan). Here's the pattern visualized without any rules\*:
+With our current setup of how phone numbers work, there is a limited supply. In the United States, for example, the phone number pattern begins with "1" (because of the [world zone](https://en.wikipedia.org/wiki/List_of_country_calling_codes)) and consists of a 3-digit area code, a 3-digit office code, and a 4-digit line number, with rules based on the [North American Numbering Plan (NANP)](https://en.wikipedia.org/wiki/North_American_Numbering_Plan). Here's the pattern visualized without any rules\*:
 
 ```
 +1(XXX)-XXX-XXXX
@@ -51,6 +51,8 @@ There are 10 variable digits, each with 10 possibilities (0-9) so that means the
 
 After applying these rules, there are only 6.27 billion *possible* phone numbers. But, there aren't 6.27 billion phone numbers out there, because in 2022, there are/were only 335 area codes, which means only 2.65 billion phone numbers, assuming every area code is at its max capacity! All right, that is still plenty more than the 335 million Americans.
 
+> During proof-reading, I noticed the interesting coincidence: **335** area codes & **335** million Americans!
+
 ### Reuse
 
 Even though there's enough for each American to have almost 8 unique phone numbers, existing phone numbers that are deactivated are **still** reactivated and put back into the pool! According to [this](https://www.telesign.com/blog/number-deactivation-and-the-recycled-phone-number-dilemma) article, over 35 million phone numbers are reused each year. That's a lot!
@@ -59,11 +61,13 @@ Even disregarding the main topic of account authentication, there's some glaring
 
 More annoyingly, let's say the previous owner already used this phone number to create their BookFace account. That means, I'm now stuck and cannot create one myself, since a phone number is required for registration.
 
-A worst-case scenario is registering a phone with a reassigned number from a known spammer or someone that otherwise abused their phone communication. Those actions may have caused that number to be added to several blacklists and possibly even blocked from using it as an authentication method on more tech-savvy companies, like BookFace.
+> Just as another reminder, "BookFace" can be anything - including finance apps, academic apps, etc.
+
+A worst-case scenario is registering a phone with a reassigned number from a known spammer or someone that otherwise abused their phone communication. Those actions may have caused that number to be added to several blacklists and possibly even blocked from using it as an authentication method for more tech-savvy companies, like BookFace.
 
 ## Alternatives
 
-Okay, so far I've just been complaining and offering no solution. But trust me, there are *plenty* of better ways to achieve better authentication security than forcing users to provide their phone numbers.
+Okay, so far I've just been complaining and offering no solution. But trust me, there are *plenty* of better ways to achieve authentication security than forcing users to provide their phone numbers.
 
 ### Email Link
 
@@ -83,9 +87,9 @@ Plug in a USB device that generates codes which authenticate your identity. Unfo
 
 ### Biometrics
 
-I actually *really* hate this one, even more than phone number/SMS authentication, but I wanted to include it for completeness. Some examples of biometric authentication include fingerprint scanning or face ID.
+I actually *really* hate this one, even more than SMS authentication, but I wanted to include it for completeness. Some examples of biometric authentication include fingerprint scanning or face ID.
 
-But if the hardware is scanning incorrectly, or you're wearing a face mask, these don't work. Similarly to my [second medium argument](#medium-argument-2), I don't want to give companies access to my biometric data.
+But if the hardware is scanning incorrectly, or you're wearing a face mask, these don't work. Similarly to my [second medium argument](#medium-argument-2), I don't want to give BookFace access to my biometric data.
 
 ### Software Token
 
@@ -93,10 +97,14 @@ In my opinion, this is my favorite alternative to SMS authentication, and there 
 
 The other option is an authenticator app that continually generates one-time passcodes. When logging into BookFace, it will ask for the one-time passcode, and entering it correctly will log you in.
 
+### User Choice
+
+Allow the user to select their preferred method from the list above or SMS authentication.
+
 ### Nothing
 
-We're all forgetting the most obvious solution here. (In fact, I'm writing this in an edit since I forgot to include it initially!) Just **do nothing**. Don't require users to set up multi-factor authentication at all. Perhaps enforce stricter password requirements, but with modern password managers, who cares? I'll generate a 99-character-long random password just for you, BookFace.
+We're all forgetting the most obvious solution here. (In fact, I'm writing this during my proof-read since I forgot to include it initially!) Just **do nothing**. Don't require users to set up multi-factor authentication at all. Perhaps enforce stricter password requirements, but with modern password managers, who cares? I'll generate a 99-character-long random password just for you, BookFace.
 
 ## Conclusion
 
-I think software tokens work the best, because they are very similar to SMS authentication, but without the drawbacks. Since it can be all on your phone, then you won't notice any difference. In fact, you *may* be able to install some of these apps on your computer as well for convenience (e.g. phone dying or getting lost!) Most of these push notification or authenticator apps will have a way to "backup" your codes, so if you lose your phone then you can import your data into the new one. Also, you don't share your phone number with these companies, which I think is a nice bonus.
+I think software tokens work the best, because they are very similar to SMS authentication, but without the drawbacks. Since it can be all on your phone, then you won't notice any difference. In fact, you *may* be able to install some of these apps on your computer as well for convenience (e.g. phone dying or getting lost!) Most of these push notification or authenticator apps will have a way to "backup" your codes, so if you lose your phone then you can import your data into the new one. Also, you don't share your phone number with BookFace, which I think is a nice bonus.
