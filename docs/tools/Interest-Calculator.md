@@ -1,8 +1,6 @@
-<script type="text/javascript" src="/tools/interest-calc.js"></script>
+<script type="text/javascript" src="/tools/Interest-Calculator.js"></script>
 
-# Interest Calculator
-
-This is a simple calculator to calculate annual interest rate based on the initial value, final value, duration, and compounding frequency (per year) using the formula below. Each calculator solves for a different parameter, which are defined below.
+This is a simple interest calculator to calculate initial value, final value, annual interest rate, or duration by rearranging the formula below. Each calculator solves for a different parameter, which are defined below.
 
 ```
 F = P(1+(i/f))^(nf)
