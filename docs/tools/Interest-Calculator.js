@@ -17,6 +17,10 @@ window.addEventListener('load', () => {
     document.getElementById('i(P)').addEventListener('input', calc_i);
     document.getElementById('i(n)').addEventListener('input', calc_i);
     document.getElementById('i(f)').addEventListener('input', calc_i);
+    document.getElementById('n(F)').addEventListener('input', calc_n);
+    document.getElementById('n(P)').addEventListener('input', calc_n);
+    document.getElementById('n(i)').addEventListener('input', calc_n);
+    document.getElementById('n(f)').addEventListener('input', calc_n);
 });
 /**
  * Get a numeric input value.
@@ -47,4 +51,12 @@ function calc_i() {
     const F = getNum('i(F)'), P = getNum('i(P)'), n = getNum('i(n)'), f = getNum('i(f)'),
         i = 100 * f * ((F / P) ** (1 / (n * f)) - 1);
     document.getElementById('i()').textContent = i.toFixed(2) + '%';
+}
+/**
+ * Calculate and output the annual interest rate.
+ */
+function calc_n() {
+    const F = getNum('n(F)'), P = getNum('n(P)'), i = getNum('n(i)'), f = getNum('n(f)'),
+        n = Math.log(F / P) / f / Math.log(1 + i / 100 / f);
+    document.getElementById('n()').textContent = n.toFixed(2) + ' yr';
 }

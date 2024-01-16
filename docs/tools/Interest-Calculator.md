@@ -6,7 +6,7 @@ This is a simple interest calculator to calculate initial value, final value, an
 F = P(1+(i/f))^(nf)
 ```
 
-#### Definitions
+**Definitions**
 
 | Variable | Definition | Unit |
 | -------- | ---------- | ---- |
@@ -24,7 +24,7 @@ F = P(1+(i/f))^(nf)
 | Interest Rate `%` | <input type="number" id="F(i)" placeholder="Interest Rate [%]"> |
 | Duration `yr` | <input type="number" id="F(n)" placeholder="Duration [yr]"> |
 | Frequency `/yr` | <input type="number" id="F(f)" placeholder="Frequency [/yr]"> |
-| Final Value `$` | <p id="F()">NaN%</p> |
+| Final Value `$` | <p id="F()">N/A</p> |
 
 ## Initial Value
 
@@ -34,7 +34,7 @@ F = P(1+(i/f))^(nf)
 | Interest Rate `%` | <input type="number" id="P(i)" placeholder="Interest Rate [%]"> |
 | Duration `yr` | <input type="number" id="P(n)" placeholder="Duration [yr]"> |
 | Frequency `/yr` | <input type="number" id="P(f)" placeholder="Frequency [/yr]"> |
-| Final Value `$` | <p id="P()">NaN%</p> |
+| Initial Value `$` | <p id="P()">N/A</p> |
 
 ## Annual Interest Rate
 
@@ -44,4 +44,14 @@ F = P(1+(i/f))^(nf)
 | Final Value `$` | <input type="number" id="i(F)" placeholder="Final Value [$]"> |
 | Duration `yr` | <input type="number" id="i(n)" placeholder="Duration [yr]"> |
 | Frequency `/yr` | <input type="number" id="i(f)" placeholder="Frequency [/yr]"> |
-| Interest Rate `%` | <p id="i()">NaN%</p> |
+| Interest Rate `%` | <p id="i()">N/A</p> |
+
+## Duration
+
+| Label | Input |
+| ----- | ----- |
+| Initial Value `$` | <input type="number" id="n(P)" placeholder="Initial Value [$]"> |
+| Final Value `$` | <input type="number" id="n(F)" placeholder="Final Value [$]"> |
+| Interest Rate `%` | <input type="number" id="n(i)" placeholder="Interest Rate [%]"> |
+| Frequency `/yr` | <input type="number" id="n(f)" placeholder="Frequency [/yr]"> |
+| Duration `yr` | <p id="n()">N/A</p> |
