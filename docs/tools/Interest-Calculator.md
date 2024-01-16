@@ -1,6 +1,6 @@
 <script type="text/javascript" src="/tools/Interest-Calculator.js"></script>
 
-This is a simple interest calculator to calculate initial value, final value, annual interest rate, or duration by rearranging the formula below. Each calculator solves for a different parameter, which are defined below.
+This is a simple interest calculator to calculate initial value, final value, annual interest rate, or duration by rearranging the formula below. Each calculator solves for a different parameter, which are defined below. Use the table of contents on the right to navigate to the calculator with the variable you want to solve for.
 
 ```
 F = P(1+(i/f))^(nf)
@@ -18,6 +18,8 @@ F = P(1+(i/f))^(nf)
 
 ## Final Value
 
+> How much will I have in {X} years?
+
 | Label | Input |
 | ----- | ----- |
 | Initial Value `$` | <input type="number" id="F(P)" placeholder="Initial Value [$]"> |
@@ -27,6 +29,8 @@ F = P(1+(i/f))^(nf)
 | Final Value `$` | <p id="F()">N/A</p> |
 
 ## Initial Value
+
+> How much do I need to put in to have ${X} in {Y} years?
 
 | Label | Input |
 | ----- | ----- |
@@ -38,6 +42,8 @@ F = P(1+(i/f))^(nf)
 
 ## Annual Interest Rate
 
+> I deposited ${X} amount {Y} years ago, now I have ${Z}, what was my annual interest rate?
+
 | Label | Input |
 | ----- | ----- |
 | Initial Value `$` | <input type="number" id="i(P)" placeholder="Initial Value [$]"> |
@@ -47,6 +53,8 @@ F = P(1+(i/f))^(nf)
 | Interest Rate `%` | <p id="i()">N/A</p> |
 
 ## Duration
+
+> How long do I need to wait to have ${X} in my account?
 
 | Label | Input |
 | ----- | ----- |
