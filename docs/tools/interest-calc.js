@@ -9,6 +9,10 @@ window.addEventListener('load', () => {
     document.getElementById('F(i)').addEventListener('input', calc_F);
     document.getElementById('F(n)').addEventListener('input', calc_F);
     document.getElementById('F(f)').addEventListener('input', calc_F);
+    document.getElementById('P(F)').addEventListener('input', calc_P);
+    document.getElementById('P(i)').addEventListener('input', calc_P);
+    document.getElementById('P(n)').addEventListener('input', calc_P);
+    document.getElementById('P(f)').addEventListener('input', calc_P);
     document.getElementById('i(F)').addEventListener('input', calc_i);
     document.getElementById('i(P)').addEventListener('input', calc_i);
     document.getElementById('i(n)').addEventListener('input', calc_i);
@@ -27,6 +31,14 @@ function calc_F() {
     const P = getNum('F(P)'), i = getNum('F(i)'), n = getNum('F(n)'), f = getNum('F(f)'),
         F = P * (1 + i / 100 / f) ** (n * f);
     document.getElementById('F()').textContent = '$' + F.toFixed(2);
+}
+/**
+ * Calculate and output the initial value.
+ */
+function calc_P() {
+    const F = getNum('P(F)'), i = getNum('P(i)'), n = getNum('P(n)'), f = getNum('P(f)'),
+        P = F * (1 + i / 100 / f) ** (-n * f);
+    document.getElementById('P()').textContent = '$' + P.toFixed(2);
 }
 /**
  * Calculate and output the annual interest rate.

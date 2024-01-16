@@ -8,7 +8,7 @@ This is a simple calculator to calculate annual interest rate based on the initi
 F = P(1+(i/f))^(nf)
 ```
 
-### Definitions
+#### Definitions
 
 | Variable | Definition | Unit |
 | -------- | ---------- | ---- |
@@ -27,6 +27,16 @@ F = P(1+(i/f))^(nf)
 | Duration `yr` | <input type="number" id="F(n)" placeholder="Duration [yr]"> |
 | Frequency `/yr` | <input type="number" id="F(f)" placeholder="Frequency [/yr]"> |
 | Final Value `$` | <p id="F()">NaN%</p> |
+
+## Initial Value
+
+| Label | Input |
+| ----- | ----- |
+| Final Value `$` | <input type="number" id="P(F)" placeholder="Final Value [$]"> |
+| Interest Rate `%` | <input type="number" id="P(i)" placeholder="Interest Rate [%]"> |
+| Duration `yr` | <input type="number" id="P(n)" placeholder="Duration [yr]"> |
+| Frequency `/yr` | <input type="number" id="P(f)" placeholder="Frequency [/yr]"> |
+| Final Value `$` | <p id="P()">NaN%</p> |
 
 ## Annual Interest Rate
 
