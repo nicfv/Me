@@ -55,3 +55,7 @@ Here is an album of some of my favorite photos I've taken.
 <blockquote class="instagram-media" data-instgrm-captioned
     data-instgrm-permalink="https://www.instagram.com/p/C1yNy7yrr84/">
 </blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C2JNLbuRXu2/">
+</blockquote>
