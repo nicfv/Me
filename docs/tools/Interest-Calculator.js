@@ -53,7 +53,7 @@ function calc_i() {
     document.getElementById('i()').textContent = i.toFixed(2) + '%';
 }
 /**
- * Calculate and output the annual interest rate.
+ * Calculate and output the duration.
  */
 function calc_n() {
     const F = getNum('n(F)'), P = getNum('n(P)'), i = getNum('n(i)'), f = getNum('n(f)'),
