@@ -39,7 +39,6 @@ theme:
   logo: icon.svg
   favicon: icon.svg
 plugins:
-  - search
   - blog:
       blog_toc: true
   - tags:
