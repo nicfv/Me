@@ -12,6 +12,8 @@ tags:
 
 I was lucky to be able to visit the [ASHRAE](https://www.ashrae.org/) Winter conference in Chicago. ASHRAE is the American Society of Heating, Refrigeration, and Air Conditioning Engineers. I went with my coworker and mentor, Norm, and met many people and learned a lot there.
 
+<!-- more -->
+
 ## Sat, Jan 20, 2024
 
 I started the day off by getting a ride to SFO. Ever since COVID began, I've been wearing face masks on all flights, but of course I forgot to bring one! Luckily, a United concierge gave one to me at the airport. While waiting for the flight, I ate a $10 overpriced (but good) egg & cheese bagel. Then it was time to board the flight to Chicago, with me in the window seat. There was quite a bit of turbulence, but thankfully no delays. I was super bored in the plane because I didn't bring enough things to do. The free wifi worked for texting and basic Google searches, so I spent most of the time on my work computer looking over pump rebuild project drawings, taking some notes, and listening to *3rd Eye Blind* and *Those Who Ride With Giants*. We finally landed in Chicago O'Hare airport and there was snow everywhere (but not the runway luckily) and warm inside. I was hungry so I paid for the stupidest bagel with jelly. It definitely came from Safeway and was over-toasted. The jelly was a little continer you'd get at a continental breakfast. Luckily it was only $5. I went to Norm's terminal to wait for him there and filtered through the massive list of ASHRAE seminars. While waiting, according to my dad, our neighbors now own a Tesla truck, making that bagel the second stupidest thing of the day!
