@@ -12,6 +12,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - content.code.copy
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
