@@ -3,10 +3,9 @@ date:
   created: 2024-01-24
   updated: 2024-01-30
 categories:
-  - Shower Thought
+  - Journal
 tags:
-  - math
-  - vote
+  - travel
 ---
 # ASHRAE Winter Conference, Chicago
 
