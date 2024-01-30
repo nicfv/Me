@@ -71,7 +71,7 @@ After my files were backed up on a flash drive, I installed Kubuntu. It destroye
 
 Up until now, the hardware and software installs have been relatively straightforward, with no major hitches. From the first power-on with the new Kubuntu OS, it was stuck in the boot loader, which displays a low-resolution terminal called Grub. To actually complete the boot, I ran the following commands I found in [this StackOverflow post](https://askubuntu.com/questions/883992/stuck-at-grub-command-line).
 
-```
+```shell
 set prefix=(hd0,gpt3)/boot/grub
 set root=(hd0,gpt3)
 insmod linux

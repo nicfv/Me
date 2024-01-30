@@ -49,15 +49,15 @@ Most passwords are case sensitive - raising the amount of one-character password
 
 A simple formula to calculate the number of combinations for a set of characters is this, where `alphabet` is the set of available characters, and `word` is either the username, password, or domain name.
 
-```
-combos = length(alphabet) ^ length(word)
-```
+$$
+combos = length(alphabet) ^ { length(word) }
+$$
 
 For example, `length(alphabet)` would be 26 for lowercase letters, 52 for lowercase or uppercase letters, and so on. It also includes the amount of special character types that can appear. This formula does not account for special cases such as "cannot begin or end with a special character." You could define a slightly more complicated formula to achieve this:
 
-```
-combos = length(alphabet) ^ 2 * [ length(alphabet) - length(special) ] ^ [ length(word) - 2 ]
-```
+$$
+combos = length(alphabet) ^ 2 * [ length(alphabet) - length(special) ] ^ { length(word) - 2 }
+$$
 
 For simplicity, I'll just use the first formula.
 
@@ -65,9 +65,9 @@ For simplicity, I'll just use the first formula.
 
 For example, the length of the word is 1, and assuming lowercase letters and numbers, the length of the alphabet is 36.
 
-```
+$$
 combos = 36 ^ 1 = 36
-```
+$$
 
 Not super interesting, since I already explained this in [Name Analysis](#name-analysis).
 
@@ -75,9 +75,9 @@ Not super interesting, since I already explained this in [Name Analysis](#name-a
 
 Here, the length of the word is 2, and assume the length of the alphabet is 36 again.
 
-```
+$$
 combos = 36 ^ 2 = 1296
-```
+$$
 
 With only 2 characters, using only lowercase and numbers, there are already 1,296 combinations! Still an awful password, but if you're looking for a 2-character username on a not-well-known site, maybe you'll find some luck here. I mentioned in [Domain](#domain) that any unregistered (.com) domains in this range are still reserved by registrars, so keep looking.
 
@@ -85,57 +85,61 @@ With only 2 characters, using only lowercase and numbers, there are already 1,29
 
 This is where things start to ramp up quickly. There would be over 46 thousand combinations of usernames (assuming no special characters.)
 
-```
+$$
 combos = 36 ^ 3 = 46656
-```
+$$
 
 Things get a little more interesting with registering domains too - starting with 3 characters and above, you can introduce... the hyphen! It cannot be the first or last character, only in the middle. So there are actually almost 48 thousand possible 3C (.com) domain names!
 
-```
+$$
 combos = 36 ^ 2 * (36 + 1) = 47952
-```
+$$
 
 If you wanted something "pronounceable", like a consonant-vowel-consonant (CVC), that would greatly limit your supply to around 2,000, or under 5% of the total supply at this point.
 
-```
+$$
 combos = 21 * 5 * 21 = 2205
-```
+$$
 
 As for passwords, 3C is still not enough - even with the introduction of 10 special characters. Modern computers are simply too fast and would crack 3C passwords in an instant.
 
-```
-length(alphabet) = 2 * 26 + 10 + 10 = 72
-combos = 72 ^ 3 = 373248
-```
+$$
+\begin{aligned}
+length(alphabet) &= 2 * 26 + 10 + 10 = 72\\
+combos &= 72 ^ 3 = 373248
+\end{aligned}
+$$
 
 ### Four-Character
 
 With 4 characters or more, you're cooking. Maybe with a bit of luck, your username can even have 4 letters!
 
-```
-combos = 36 ^ 4 = 1679616   # 1.7M letters + numbers
-combos = 26 ^ 4 =  456976   # 0.5M letters
-```
+$$
+\begin{aligned}
+combos = 36 ^ 4 &= 1679616 \approx 1.7 \times 10^6 \text{ letters + numbers }\\
+combos = 26 ^ 4 &=  456976 \approx 0.5 \times 10^6 \text{ letters }
+\end{aligned}
+$$
 
 On major sites with millions of users, like Instagram, you'd have better luck with finding a longer username.
 
 With domains, you can include the hyphen as either the 2nd or 3rd character, which increases the options a little bit.
 
-```
-combos = 36 ^ 2 * 37 ^ 2 = 1774224  # 1.77M 4C.com
-```
+$$
+combos = 36 ^ 2 * 37 ^ 2 = 1774224 \approx 1.77 \times 10^6
+$$
 
-Again, if you wanted something more pronounceable, like CVVC, CVCV, VCVC, or VCCV, that would limit your options a significant amount to around 44 thousand, or under 3% of the original supply!
+Again, if you wanted something more pronounceable, like CVVC, CVCV, VCVC, or VCCV, that would limit your options a significant amount to around 44 thousand, or under 3% of the original supply! (The times 4 represents the 4 "allowed" combinations of consonants/vowels.)
 
-```
-combos = ( 21 ^ 2 * 5 ^ 2 ) * 4 = 44100   # the "4" represents the 4 "allowed" combinations
-```
+$$
+combos = ( 21 ^ 2 * 5 ^ 2 ) * 4 = 44100
+$$
 
 What about passwords? With a alphabet of 72 characters, we're looking at almost 27 million possible passwords! Better, but still easily crackable by a hacker. More on that later.
 
-```
-combos = 72 ^ 4 = 26873856
-```
+$$
+combos = 72 ^ 4 = 26873856 \approx 27 \times 10^6
+$$
 
 ## Compiled Data
 
@@ -193,9 +197,9 @@ I ran the same code in C, a compiled language, to see if there would be any perf
 
 Assuming that someone with similar hardware of mine and running a password guesser consistently would crack passwords in about this length of time. The extra factor of 2 is an average, representing that passwords can be cracked any time from the beginning of guesswork all the way until the final guess.
 
-```
-time[s] = combos / (checks per second * 2)
-```
+$$
+time[\text{sec}] = \frac{ combos }{ \text{checks per second} * 2 }
+$$
 
 Here is the same table from [Compiled Data](#compiled-data) recalculated with time ranges to crack the password, assuming 4.3 billion guesses per second.
 
