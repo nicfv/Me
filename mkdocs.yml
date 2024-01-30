@@ -45,6 +45,13 @@ plugins:
   - tags:
       tags_file: blog/tags.md
 markdown_extensions:
+  - pymdownx.highlight:
+      auto_title: true
+      linenums: true
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.superfences
   - attr_list
 extra_css:
   - extra.css
