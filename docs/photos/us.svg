@@ -14,7 +14,8 @@
     #CO,
     #OR,
     #WA,
-    #TN
+    #TN,
+    #IL
     {
       fill: gold;
     }
