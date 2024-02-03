@@ -43,7 +43,7 @@ With our current setup of how phone numbers work, there is a limited supply. In 
 +1(XXX)-XXX-XXXX
 ```
 
-There are 10 variable digits, each with 10 possibilities (0-9) so that means the total supply of phone numbers is `10^10` or about 10 billion, in the United States, right? <!-- Surely that is enough phone numbers to go around. --> **Wrong!**
+There are 10 variable digits, each with 10 possibilities (0-9) so that means the total supply of phone numbers is $10^{10}$ or about 10 billion, in the United States, right? <!-- Surely that is enough phone numbers to go around. --> **Wrong!**
 
 \*The NANP assigns special rules for area and office codes which further limit the supply:
 
