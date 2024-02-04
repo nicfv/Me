@@ -19,17 +19,17 @@ Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogethe
 
 | Base Unit | Symbol |
 | --------- | ------ |
-| Mass | M |
-| Length | L |
-| Time | T |
-| Temperature | K |
+| Mass | $M$ |
+| Length | $L$ |
+| Time | $T$ |
+| Temperature | $K$ |
 
 | Constant | Symbol |
 | -------- | ------ |
-| [Speed of Light](#speed-of-light) | C |
-| [Gravitational Constant](#gravitational-constant) | G |
-| [Boltzmann Constant](#boltzmann-constant) | B |
-| [Planck Constant](#planck-constant) | h |
+| [Speed of Light](#speed-of-light) | $C$ |
+| [Gravitational Constant](#gravitational-constant) | $G$ |
+| [Boltzmann Constant](#boltzmann-constant) | $B$ |
+| [Planck Constant](#planck-constant) | $h$ |
 
 Let's create Planck Units using these fundamental physical constants. For example, if you are driving at 60 miles per hour, or about 100 kilometers per hour, (miles, kilometers, and hours are totally arbitrary units), you are actually driving at 0.1 micro-speed of lights (0.1 uC). This is a much more pure way to measure speed, and more on this example at [the end](#conclusion). But how do we measure length, time, or other dimensions? First, we need to define the constants in terms of their base units. For this, we can break down each constant into it's base units and combine them by adding or subtracting their exponents. Units of length, for example, are expressed in $L$ or $L^1$. Area, which is length squared, is expressed in $L*L = L^1 * L^1 = L^{1+1} = L^2$. Inverted units are subtracted instead of added, because they have negative exponents.
 
@@ -146,7 +146,7 @@ b =
 \end{matrix}
 $$
 
-For this value of `b` we should expect to get a value output of just `C` since the speed of light already matches these units exactly and can describe our quantity.
+For this value of $b$ we should expect to get a value output of just $C$ since the speed of light already matches these units exactly and can describe our quantity.
 
 $$
 \begin{bmatrix}
