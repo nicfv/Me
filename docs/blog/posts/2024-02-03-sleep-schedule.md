@@ -5,6 +5,9 @@ categories:
   - Journal
 tags:
   - sleep
+  - time
+  - travel
+  - France
 ---
 # Tryout New Sleep Schedule
 
