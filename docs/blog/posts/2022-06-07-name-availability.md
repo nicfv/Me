@@ -8,6 +8,7 @@ tags:
   - tech
   - website
   - domain
+  - password
 ---
 # Letter Combinations
 
