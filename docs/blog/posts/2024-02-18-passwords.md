@@ -14,9 +14,8 @@ Here is the second story in my series on getting digital things organized... alt
 
 <!-- more -->
 
-###### [Organization Story #1](./2024-02-11-backup.md)
-
-###### Organization Story #2 \*
+- [Organization Story #1](./2024-02-11-backup.md)
+- Organization Story #2 \*
 
 ## My Naive Approach
 
