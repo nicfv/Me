@@ -9,7 +9,7 @@ tags:
 ---
 # Winning at Solitaire
 
-I've been playing a lot of solitaire on my phone recently. My app has a timer, for some reason. It made me come up with some funny ideas like doing a solitaire speedrun. To my delight, it [already exists](https://www.speedrun.com/solitaire)! It's become a mild addiction, but this game has made me come up with an interesting question. How likely are you to win a game of solitaire? What is the maximum possible win rate that the best solitaire player can have?
+I've been playing a lot of solitaire (Klondike 3) on my phone recently. My app has a timer, for some reason. It made me come up with some funny ideas like doing a solitaire speedrun. To my delight, it [already exists](https://www.speedrun.com/solitaire)! It's become a mild addiction, but this game has made me come up with an interesting question. How likely are you to win a game of solitaire? What is the maximum possible win rate that the best solitaire player can have?
 
 <!-- more -->
 
@@ -74,3 +74,7 @@ W = (1-L_{1})(1-L_{2}) = (1-0.18)(1-0.37) = 52\%
 $$
 
 Poetically, a perfect win rate under these assumptions is 52%! My exclamation mark is of pure excitement - not a factorial this time.
+
+---
+
+How does that check out? According to [this source](https://solitaired.com/odds-of-winning-solitaire), their players win Klondike 3 about 11% of the time. I don't know how these statistics are measured, but at least I am in the general ballpark. Their reported win rate might also be pessimistic, since many players may start a game and not finish it, clicked on the wrong game, or simply not know how to play. Also, my number is a "theoretical maximum." Whatever it is, it doesn't matter anymore because this is the end of the story.
