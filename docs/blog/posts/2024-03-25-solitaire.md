@@ -5,6 +5,7 @@ categories:
   - Shower Thought
 tags:
   - math
+  - game theory
 ---
 # Winning at Solitaire
 
@@ -55,7 +56,7 @@ In order to win the game of solitaire, your deck needs to be shuffled in a parti
 
 We're going to have to make some assumptions to determine what the odds are of this not happening. First, we'll forget the fact that there are 4 suits and just focus on two of them. The order of the card colors and values has a much higher importance than the suit itself. So there are now only 26 cards to worry about - 13 red, and 13 black.
 
-It's good to have about an even distribution of red and black cards throughout the deck. If red and black cards are split into clumps at the beginning and end, it makes the game much more difficult. To avoid doing the math, I ended up writing a simple script to shuffle a stack of 26 cards and process through each result. I applied these rules to determine if the game would not be winnable:
+It's good to have about an even distribution of red and black cards throughout the deck. If red and black cards are split into clumps at the beginning and end, it makes the game much more difficult. To avoid doing the math, I ended up writing a simple script to shuffle a stack of 26 cards and process through each result. I applied these rules to determine if the game is lost:
 
 - At least 6 (23%) consecutive cards of the same color
 - At least 13 (50%) "order resets" (the next card has a lower value than the previous card)
