@@ -37,8 +37,8 @@ theme:
       toggle:
         icon: material/brightness-3
         name: Switch to system preference
-  logo: icon.svg
-  favicon: icon.svg
+  logo: icon.png
+  favicon: icon.png
 plugins:
   - search
   - blog:
