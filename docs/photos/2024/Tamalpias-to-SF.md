@@ -1,4 +1,4 @@
-I took these photos on a hike I did going to the peak of Mt. Tamalpias, and afterwards I crossed the Golden Gate Bridge on foot and went exploring in the city.
+I took these photos on a hike I did going to the peak of Mt. Tamalpias, and afterwards I crossed the Golden Gate Bridge on foot and went exploring in the city. Want to read more about it? I wrote a [journal article](../../blog/posts/2024-04-06-GGB.md) about this exploration!
 
 <script async src="//www.instagram.com/embed.js"></script>
 
