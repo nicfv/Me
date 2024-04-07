@@ -2,7 +2,7 @@
 date:
   created: 2024-03-25
 categories:
-  - Shower Thought
+  - Random
 tags:
   - math
   - game theory

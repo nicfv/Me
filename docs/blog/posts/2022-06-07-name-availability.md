@@ -3,7 +3,7 @@ date:
   created: 2022-06-07
   updated: 2024-01-07
 categories:
-  - Shower Thought
+  - Random
 tags:
   - tech
   - website

@@ -3,7 +3,7 @@ date:
   created: 2023-10-08
   updated: 2024-01-07
 categories:
-  - Shower Thought
+  - Random
 tags:
   - physics
   - dimensional analysis

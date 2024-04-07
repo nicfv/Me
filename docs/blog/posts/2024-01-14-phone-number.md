@@ -2,7 +2,7 @@
 date:
   created: 2024-01-14
 categories:
-  - Shower Thought
+  - Random
 tags:
   - tech
   - website
