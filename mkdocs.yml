@@ -78,7 +78,7 @@ extra:
     - icon: material/linkedin
       link: https://www.linkedin.com/in/nfv/
     - icon: material/youtube
-      link: https://www.youtube.com/@nciv
+      link: https://www.youtube.com/@n1cfv
     - icon: material/instagram
       link: https://www.instagram.com/n1cfv/
     - icon: material/github
@@ -88,13 +88,15 @@ extra:
     - icon: material/microsoft-visual-studio
       link: https://marketplace.visualstudio.com/publishers/ventura
     - icon: material/npm
-      link: https://www.npmjs.com/~nfv
+      link: https://www.npmjs.com/~nicfv
     - icon: material/language-python
       link: https://pypi.org/user/nfv/
     - icon: simple/strava
       link: https://www.strava.com/athletes/nicfv
     - icon: material/hexagon
       link: https://hexles.com/
+    - icon: simple/duolingo
+      link: https://www.duolingo.com/profile/nicfv
     - icon: material/chess-pawn
       link: https://www.chess.com/member/nicfv
   generator: false
