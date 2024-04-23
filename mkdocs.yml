@@ -90,7 +90,7 @@ extra:
     - icon: material/npm
       link: https://www.npmjs.com/~nicfv
     - icon: material/language-python
-      link: https://pypi.org/user/nfv/
+      link: https://pypi.org/user/nicfv/
     - icon: simple/strava
       link: https://www.strava.com/athletes/nicfv
     - icon: material/hexagon
