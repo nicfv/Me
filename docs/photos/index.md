@@ -3,9 +3,9 @@ icon: material/camera
 ---
 # Photos
 
-This is a space for photos I took of my travels, just for fun. I'm organizing this in pages I'm calling "albums" based on the format `YYYY/Location`. Use the navigation menu on the left, or the search bar at the top to explore different albums through some of my adventures. Don't know where to start? Check out my [favorite](./favorites.md) photos! Additionally, you may follow [@n1cfv](https://www.instagram.com/n1cfv/) on Instagram for even more photos.
+This is a space for photos I took of my travels, just for fun. I'm organizing this in pages I'm calling "albums" based on the format `YYYY/Location`. Use the navigation menu on the left, or the search bar at the top to explore different albums through some of my adventures. Don't know where to start? Check out my [favorite](./favorites.md) photos! Additionally, you may follow [@nykfv](https://www.instagram.com/nykfv/) on Instagram for even more photos.
 
-[![qr](./n1cfv_qr.png){ style="display:block;margin:auto;max-width:50%;height:auto;" }](https://www.instagram.com/n1cfv/)
+[![qr](./nykfv_qr.png){ style="display:block;margin:auto;max-width:50%;height:auto;" }](https://www.instagram.com/nykfv/)
 
 I live in Northern California and many of these locations are local parks and preserves. As of %TODAY%, I have visited [13/50 US states](./map.md).
 
