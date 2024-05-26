@@ -1,4 +1,4 @@
-I took these pictures during a trip to Barcelona for a conference and had some time for myself to explore. Want to read the travel story? Go to the journal article [here](../../blog/posts/2024-05-24-spain.md)!
+I took these pictures during a trip to Barcelona for a conference and had some time for myself to explore. Want to read the travel story? Go to the journal article [here](../../blog/posts/2024-05-19-spain.md)!
 
 <script async src="//www.instagram.com/embed.js"></script>
 
