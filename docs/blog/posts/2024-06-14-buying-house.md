@@ -20,7 +20,7 @@ After graduating college, I got a job offer at Lawrence Berkeley National Labora
 
 ## Looking for a Home
 
-I started working in August 2022, and began my house search in October. At the time, I thought buying was still a fever dream, so I actually started by touring a few rentals in the east bay. After a short time, I applied *and got pre-qualified* for a home loan, so I could see what my limit was. I met my first agent who took me on tours of condos in the Walnut Creek area. They weren't too bad, just a bit pricey for their size. I remember one of them was completely lined with mirrors on the walls, which I though was kind of creepy. I couldn't see myself living in any one of those places.
+I started working in August 2022, and began my house search in October. At the time, I thought buying was still a fever dream, so I actually started by touring a few rentals in the east bay. After a short time, I applied *and got pre-qualified* for a home loan, so I could see what my limit was. I met my first agent who took me on tours of condos in the Walnut Creek area. They weren't too bad, just a bit pricey for their size. I remember one of them was completely lined with mirrors on the walls, which I though was kind of creepy. I couldn't see myself living there. (At least, figuratively speaking.)
 
 After a while, I gave up with that agent and met up with my second agent who worked in the Oakland area. I really did not want to move to Oakland, but figured I'd give it a try anyway. This agent was kind of pushy and stressed me out a bit. We saw several places in Oakland and surrounding areas, including a converted 200 sq.ft. garage in Berkeley for a quarter million dollars. What a steal! We also saw some *definitely* haunted houses in Vallejo. Nope.
 
