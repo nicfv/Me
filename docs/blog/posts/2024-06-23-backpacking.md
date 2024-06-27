@@ -6,6 +6,7 @@ categories:
   - Journal
 tags:
   - short story
+  - exercise
 ---
 # Backpacking
 
