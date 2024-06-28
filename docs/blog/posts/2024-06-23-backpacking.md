@@ -1,7 +1,7 @@
 ---
 date:
   created: 2024-06-23
-  updated: 2024-06-26
+  updated: 2024-06-27
 categories:
   - Journal
 tags:
@@ -20,4 +20,4 @@ I guess Point Reyes is a super popular backpacking spot in the Bay Area, so ever
 
 Remy came over after noon and we drove over to Olema, where there is the visitor center and trailhead. The trail was super nice, shaded, and well maintained, although I'm pretty sure we brushed past a lot of poison oak. Luckily both of us wore pants. We saw a bunch of deer and banana slugs, and some birds, lizards, and other critters. Not too many people were on the trail that day so it was quiet and peaceful, except for Remy and I just being loud and stupid.
 
-After about 3.5 miles-ish of hiking, we made it to the campsite and unloaded our gear. The sun was still high up so we didn't get much shade for a while. We set up our tent and made some fancy frozen dinner cooked by pouring hot water in the bag of food. We got some awesome views of the sunset over the Pacific Ocean and it was super comfortable at night, not cold at all. The only problem was that the mosquitos were hungry!
+After about 3.5 miles-ish of hiking, we made it to the campsite and unloaded our gear. The sun was still high up so we didn't get much shade for a while. We set up our tent and made some fancy frozen dinner cooked by pouring hot water in the bag of food. We got some awesome views of the sunset over the Pacific Ocean and it was super comfortable at night, not cold at all. The only problem was that the mosquitos were hungry! It was a beautiful trip, and I took several [photos](../../photos/2024/Sky-Camp.md).
