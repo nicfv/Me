@@ -34,7 +34,7 @@ As you can see, I'm actually a little bit ahead of my goal for this resolution, 
 
 ### Reading
 
-I've started and finished one book since the beginning of this year; *Lexicon* by Max Barry, with 390 pages. This meets my criteria of a book over 100 pages. I did most of my reading while travelling, for example the flights or bullet train in Japan. It was a dark fantasy novel with the theme of words having more power than just their meaning. It was an excellent book, although a bit confusing at times, but was super interesting. Unfortunately, while I have read bits of other books, but have not started my "second book" that I plan to finish by the end of the year. That puts me at only one book out of my goal of 2. At this point in the year, I should have about 1.33 books completed to be on track.
+I've started and finished one book since the beginning of this year; *Lexicon* by Max Barry, with 390 pages. This meets my criteria of a book over 100 pages. I did most of my reading while travelling, for example the flights or bullet train in Japan. It was a dark fantasy novel with the theme of words having more power than just their meaning. It was an excellent book, although a bit confusing at times, but was super interesting. Unfortunately, while I have read bits of other books, I have not started my "second book" that I plan to finish by the end of the year. That puts me at only one book out of my goal of 2. At this point in the year, I should have about 1.33 books completed to be on track.
 
 $$\frac{1.00}{1.33} \approx 75\% \text{ of my goal}$$
 
@@ -42,6 +42,6 @@ I'm quite a bit behind on this one, but not terribly so. I still have 4 months t
 
 ## Next Year
 
-I'm already formulating my plans for next year, in 2025. I'd very much like to continue my reading and writing. As for my reading, I want to *slowly* ramp back up my reading, so I'd like to read 3 books next year. *Three whole books!* I know, it's gonna be a toughie for me. But I think I can do it.
+I'm already formulating my plans for next year, in 2025. I'd very much like to continue my reading and writing. As for my reading, I want to *slowly* ramp it back up, so I'd like to read 3 books next year. *Three whole books!* I know, it's gonna be a toughie for me. But I think I can do it. Young me could easily do this.
 
-For my writing, I want to continue writing articles for my website, but I think I'll take that off as an official resolution. My real goal is to publish some sort of work of writing. I have not completely fleshed this out, so I'm not sure what route I want to take. Some of my ideas are self-publishing an academic paper, or writing a short sci-fi novel and publish through Amazon. Either way, I think 2025 will be an exciting year for me, as long as I stay motivated.
+For my writing, I want to continue writing articles for my website, but I think I'll take that off as an official resolution. My real goal is to publish some sort of work of writing. I have not completely fleshed this out, so I'm not sure what route I want to take. Some of my ideas include self-publishing an academic paper, or writing a short sci-fi novel and publish through Amazon. Either way, I think 2025 will be an exciting year for me, as long as I stay motivated.
