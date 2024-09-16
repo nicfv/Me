@@ -56,3 +56,11 @@ After lunch, we had discussions on power usage effectiveness (PUE) and IT usage 
 The three of us and someone from LLNL went to the National Museum of Nuclear Science and History on our way out, since it was so close. We saw several fighter jets, missiles, histories of Oppenheimer and Ernest O. Lawrence (who founded LBNL) and replicas of the Fat Man and Little Boy, which were the two bombs dropped on Japan in WWII. It was extremely frustrating to read their histories since they did not do Japan any justice.
 
 The museum closed pretty early so we headed back for the hotel to have a short but much needed break. I took a quick shower and then the three of us left to drive over to Santa Fe for dinner and sightseeing. I loved Santa Fe as it was an extremely iconic and well-decorated town with all its native architecture, turquoise trim, and art stores. For dinner we went to La Fonda, a fancy restaurant where I ordered enchiladas. One of the cooks made guacamole table-side, which was really cool to watch, and was incredibly tasty.
+
+## Thu, Sep 12, 2024
+
+There wasn't much time for anything this morning because Norm had an early flight back, so we left for the tiny airport early in the morning. The entire airport was about the size of one gate in SFO. Ben and I decided to stay there and work there until boarding our flight. I planned to buy some souvenirs, but ended up completely forgetting. Then I realized, there were about 3 places to buy food from, and no gift shops. Makes sense now why I forgot.
+
+I ate a breakfast burrito and Ben and I worked on decyphering air handler logic. I also took a short break to walk up and down the length of the airport, which took about 2 minutes.
+
+Finally, it was time to board. I sat down and wouldn't you believe my luck, I had all 3 seats in the row to myself. The flight itself was smooth and landed early which was awesome. I got a bunch more reading done on *Blink* and saw some canyons from the window in the plane. Not sure if any of them were the Grand Canyon, but it was still really cool to see.
