@@ -5,8 +5,9 @@ date:
 categories:
   - Journal
 tags:
-  - short story
-  - exercise
+  - travel
+  - job
+  - tech
 ---
 # HPC Operator's Review, Sandia Labs, Albuquerque, New Mexico
 
