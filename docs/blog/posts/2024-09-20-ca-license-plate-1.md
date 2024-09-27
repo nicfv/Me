@@ -3,6 +3,8 @@ date:
   created: 2024-09-20
 categories:
   - Random
+tags:
+  - math
 ---
 # California License Plates Part 1
 
