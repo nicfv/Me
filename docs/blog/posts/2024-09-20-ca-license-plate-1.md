@@ -9,6 +9,10 @@ tags:
 ---
 # California License Plates Part 1
 
+Go to
+| \#1
+| [\#2](./2024-09-26-ca-license-plate-2.md)
+
 License plates in the state of California follow an interesting pattern with 7 letters and numbers, and we're going to run out soon! Everyone panic!! However, this journal isn't about that just yet, but we're building up to it.
 
 <!-- more -->
