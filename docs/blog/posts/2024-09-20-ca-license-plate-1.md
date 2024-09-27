@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-09-20
+  updated: 2024-09-26
 categories:
   - Random
 tags:
@@ -47,7 +48,7 @@ There are 1,000 3-digit combinations for license plates with only numbers, which
 
 ## Letter Sequence
 
-Assume you have a 2-letter license plate, things get a little more complicated since we are no longer dealing with base-10.
+Assume you have a 2-letter license plate in the pattern `LL`, things get a little more complicated since we are no longer dealing with base-10.
 
 ```
 AA, AB, ... AZ, BA, BB, ... ZZ
@@ -57,12 +58,43 @@ How many possible plates are there?
 
 $$C = 26*26 = 676$$
 
-The formula to go from the license plate to the sequence number would be as follows:
+This is an easy one, just 26 squared, or 676. The formula to go from the license plate to the sequence number $N$ would be as follows:
 
 $$N = 26^{1}L_{1} + 26^{0}L_{2}\\
 N = 26L_{1} + L_{2}$$
 
-So, if you had license plate `NV`, that would be this number in the sequence (`A` is zero):
+Each letter would correspond to a number with `A` starting at zero:
+
+| Letter | Value |
+| ------ | ----- |
+| A |  0 |
+| B |  1 |
+| C |  2 |
+| D |  3 |
+| E |  4 |
+| F |  5 |
+| G |  6 |
+| H |  7 |
+| I |  8 |
+| J |  9 |
+| K | 10 |
+| L | 11 |
+| M | 12 |
+| N | 13 |
+| O | 14 |
+| P | 15 |
+| Q | 16 |
+| R | 17 |
+| S | 18 |
+| T | 19 |
+| U | 20 |
+| V | 21 |
+| W | 22 |
+| X | 23 |
+| Y | 24 |
+| Z | 25 |
+
+So, if you had license plate `NV`, that would be this number in the sequence:
 
 $$N = 26*13 + 21 = 359$$
 
@@ -74,4 +106,4 @@ $$L_{2} = N - 26L_{1} = 359 - 26*13 = 21$$
 
 That translates back to `NV`!
 
-Now what about letter-number combinations? That's where things get dicey. Tune in next time!
+Really, all we needed to do here was change our 10's to 26's, so this was actually pretty simple. Now what about letter-number combinations? That's where things get dicey. Tune in next time!
