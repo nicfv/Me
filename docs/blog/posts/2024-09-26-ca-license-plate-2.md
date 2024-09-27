@@ -11,6 +11,7 @@ tags:
 Go to
 | [\#1](./2024-09-20-ca-license-plate-1.md)
 | \#2
+| [\#3](./2024-09-27-ca-license-plate-3.md)
 
 Here we will figure out how many license plates have been issued in California and how many are left! Haven't yet read part one? Read it [here](./2024-09-20-ca-license-plate-1.md)!
 
