@@ -39,7 +39,7 @@ Similarly to what we did for the letter sequence in [part 1](./2024-09-20-ca-lic
 | `Y`       |  $13$ |
 | `Z`       |  $14$ |
 
-Notice that characters can be anything, including punctuation. Some license plates might not allow this, but this is for example's sake. As another example, let's define a shorter alphabet with only 5 characters, and call it "alphabet \#2", or $A_{2}$:
+Notice that characters can be anything, including punctuation. Some license plates might not allow this, but a guy can dream. As another example, let's define a shorter alphabet with only 5 characters, and call it "alphabet \#2", or $A_{2}$:
 
 | Character | Value |
 | --------- | ----- |
