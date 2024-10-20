@@ -13,6 +13,8 @@ I'm fortunate not to need it, but I tried taking public transit to work today! S
 
 <!-- more -->
 
+## Captain's Log
+
 - 5:50 AM: Woke up
 - 6:20 AM: Leave home
     - Walk over to Novato transit hub on Redwood & Grant
