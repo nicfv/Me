@@ -15,25 +15,25 @@ I'm fortunate not to need it, but I tried taking public transit to work today! S
 
 - 5:50 AM: Woke up
 - 6:20 AM: Leave home
-  - Walk over to Novato transit hub on Redwood & Grant
+    - Walk over to Novato transit hub on Redwood & Grant
 - 6:27 AM: Get on 154 commuter bus (Golden Gate Transit)
-  - The bus was really nice, clean, and really empty. Only 3 or 4 other people on board.
-  - The Clipper card reader was broken, so I didn't pay for the ride. From an online search, my ride would have normally cost $7.80.
-  - It made several stops in Novato before actually getting on the highway.
+    - The bus was really nice, clean, and really empty. Only 3 or 4 other people on board.
+    - The Clipper card reader was broken, so I didn't pay for the ride. From an online search, my ride would have normally cost $7.80.
+    - It made several stops in Novato before actually getting on the highway.
 - 6:39 AM: Bus enters the on-ramp for highway 101 South.
 - 7:05 AM: Bus arrives at Golden Gate toll plaza
-  - It was awesome being a passenger while someone else was driving across the bridge. I got to take some cool pictures.
-  - During this time, I also started my work day and got some work done on the bus.
+    - It was awesome being a passenger while someone else was driving across the bridge. I got to take some cool pictures.
+    - During this time, I also started my work day and got some work done on the bus.
 - 7:27 AM: Bus arrives at my stop (Battery & Pine)
-  - It's cold out in San Francisco, so I'm glad I brought a jacket.
-  - Walk over to Embarcadero BART station
+    - It's cold out in San Francisco, so I'm glad I brought a jacket.
+    - Walk over to Embarcadero BART station
 - 7:32 AM: Arrive at BART station platform
 - 7:35 AM: The Red line to Richmond arrives at the platform
 - 8:00 AM: BART arrives at the Downtown Berkeley station
-  - Walk over to the lab shuttle stop
+    - Walk over to the lab shuttle stop
 - 8:05 AM: Board the blue shuttle to Berkeley Lab
 - 8:14 AM: The blue shuttle arrives at Blackberry gate
-  - Walk over to NERSC
+    - Walk over to NERSC
 - 8:16 AM: Arrive at NERSC
 
 ## Summary
