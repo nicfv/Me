@@ -89,4 +89,6 @@ Because of my home's geography within the Bay Area, I am able to take advantage 
 | North Bay (B/M) East Bay -> Valley -> North Bay | 1 | $0 | 135 | CCW | Stockton, Benicia, Martinez |
 | North Bay (Carq.) East Bay -> Valley -> North Bay | 1 | $0 | 139 | CCW | Stockton, Vallejo, Crockett |
 
+\**Assuming travel to city centers between cities listed under "Major Cities".*
+
 Some of these commutes are completely unreasonable, and there are more here that I did not include. However, these are just a few examples of going for a roll, without paying the toll.
