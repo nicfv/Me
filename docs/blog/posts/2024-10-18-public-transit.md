@@ -44,7 +44,7 @@ I'm fortunate not to need it, but I tried taking public transit to work today! S
 | Total commute time | 1:34 |
 | Total walk time | 0:19 |
 | Total wait time | 0:03 |
-| Bus fare | $7.80 ($0) |
-| BART fare | $4.75 |
-| Shuttle fare | $0 |
-| Total cost | $12.55 |
+| Bus fare | \$7.80 (\$0) |
+| BART fare | \$4.75 |
+| Shuttle fare | \$0 |
+| Total cost | \$12.55 |
