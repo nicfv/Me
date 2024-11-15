@@ -31,7 +31,7 @@ $$\$_{T} = \frac{\$_{yr}}{2000} \times \frac{f_{w}}{5} \times \frac{T_{1}}{60} \
 
 ## Gas Cost
 
-To determine the time cost of gas, you need to determine the actual monetary cost first. That depends on gas prices $\$_{gal}$ (dollars per gallon) and your vehicle mileage $m$ (miles per gallon), assuming you have a standard combustion engine. If you own an electric car, the "gas price" would be the price to charge your vehicle, and your mileage would be your range. This formula calculates the cost per mile to drive your vehicle.
+To determine the cost of gas, we can determine the cost per mile first. That depends on gas prices $\$_{gal}$ (dollars per gallon) and your vehicle mileage $m$ (miles per gallon), assuming you have a standard combustion engine. If you own an electric car, the "gas price" would be the price to charge your vehicle, and your mileage would be your range. This formula calculates the cost per mile to drive your vehicle.
 
 $$\$_{mi,gas} = \frac{\$_{gal}}{m}$$
 
