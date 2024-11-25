@@ -10,6 +10,8 @@ tags:
 ---
 # Bay Front Run 2024
 
+**Results:** [All](https://runsignup.com/Race/Results/67243#resultSetId-496988;perpage:5000) | [Individual](https://runsignup.com/Race/Results/67243/IndividualResult/cdBR?resultSetId=496988#U93168241) | [Certificate](https://runsignup.com/Race/Results/67243/FinishersCert?resultSetId=496988&resultId=153740067#certificate)
+
 On October 6, I raced in the [Bay Front Run](https://www.bayfrontrun.com/)! This is an annual 5K along the Bay Front Trail in Hercules, CA, which benefits the Hercules Education Foundation. I forgot to write about this achievement, so here it is, well over a month later.
 
 <!-- more -->
@@ -26,16 +28,18 @@ The race started, and I was in the middle of the pack, but slowly inching my way
 
 Since we were so far away from everyone, it was really confusing where to turn around. Ayden and I kept pushing ourselves until we saw two guys zoom by us going back to the starting line. That confirmed we were heading in the right direction, but a little disheartening to know that we weren't in front. Finally, we found the turnaround point, with only one volunteer showing us the direction.
 
-As we ran back, we passed all the racers behind us, which was a bit awkward, especially on the portion with a narrow bridge. Ayden and I split up and I kicked it into high gear. I don't normally feel this way running but I definitely felt like throwing up. I held myself back and sprinted back through the rows of vendors at the Bay Front Festival. (Again, weird path design!) I finished the 5K with the time 21:30, or an average pace of 6:56/mi! One of the volunteers rushed over to give me water and congratulating me on finishing first! Between heavy breaths, I explained that there were 2 others in front of me. Turns out, one of them was racing the 10K, but she simply missed the other runner as he finished. His name was Connor. He walked over and she congratulated him. Soon after, Ayden came through the finish line, completing the 3 podium spots.
-
-Out of the 139 runners that raced, I came in 2nd overall! Results: [All](https://runsignup.com/Race/Results/67243#resultSetId-496988;perpage:5000) | [Individual](https://runsignup.com/Race/Results/67243/IndividualResult/cdBR?resultSetId=496988#U93168241)
+As we ran back, we passed all the racers behind us, which was a bit awkward, especially on the portion with a narrow bridge. Ayden and I split up and I kicked it into high gear. I don't normally feel this way running but I definitely felt like throwing up. I held myself back and sprinted back through the rows of vendors at the Bay Front Festival. (Again, weird path design!) I finished the 5K with the time 21:30, or an average pace of 6:56/mi! One of the volunteers rushed over to give me water and congratulating me on finishing first! Between heavy breaths, I explained that there were 2 others in front of me. Turns out, one of them was racing the 10K, but she simply missed the other runner as he finished. His name was Connor. He walked over and she congratulated him. Soon after, Ayden came through the finish line, completing the 3 podium spots. Out of the 139 runners that raced, I came in 2nd overall and in my age group!
 
 After the race, my parents and I went to Powder Keg for a brunch where I got eggs and impossible sausage (tasted like the real thing!) Then, we got some snacks and freebies at the Bay Front Festival. We left just as it was starting to get hot.
+
+## Strava
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12591793279" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
+## Instagram
 
 <script async src="//www.instagram.com/embed.js"></script>
 
 <blockquote class="instagram-media" data-instgrm-captioned
     data-instgrm-permalink="https://www.instagram.com/p/DA8veHgSr5w/">
 </blockquote>
-
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12591793279" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
