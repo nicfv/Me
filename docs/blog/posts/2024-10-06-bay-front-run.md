@@ -37,3 +37,5 @@ After the race, my parents and I went to Powder Keg for a brunch where I got egg
 <blockquote class="instagram-media" data-instgrm-captioned
     data-instgrm-permalink="https://www.instagram.com/p/DA8veHgSr5w/">
 </blockquote>
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="12591793279" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
