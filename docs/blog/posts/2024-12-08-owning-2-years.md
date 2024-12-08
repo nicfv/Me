@@ -42,11 +42,11 @@ Something I hadn't considered at all were alternatives to driving everywhere I n
 
 There also turned out to be two well-established transit organizations in my town. The incredibly cheap [Marin Transit](https://marintransit.org/) with 3 bus lines in my town to different destinations within the county, and [Golden Gate](https://www.goldengate.org/) transit, with 2 bus lines in my town, going either to San Francisco or Santa Rosa. A few towns over, Golden Gate offers two ferry routes to San Francisco. Technically, I don't need a car at all to get anywhere in the bay area. I could take the bus to SF and then BART for example.
 
-If/when I move, this will definitely be taken into consideration. I think living a walkable area is the most important, with transit options coming second.
+The next time I relocate, this will definitely be a primary consideration. I think living a walkable area is the most important, with transit options coming second.
 
 ## The House Itself
 
-I want to make sure I live in a place that has the amenities I need above things I want. For that, I would need to create a list of things I am looking for in a place to live and then sort them into two categories.
+I wanted to make sure I live in a place that has the amenities I need above things I want. For that, I needed to create a list of things I am looking for in a place to live and then sort them into two categories.
 
 ### Things I Need
 
@@ -67,7 +67,7 @@ I want to make sure I live in a place that has the amenities I need above things
 
 ## Hidden Costs
 
-Something I knew before purchasing was that there were hidden costs on top of your mortgage, but you don't realize how much they hurt until you're paying them. I am a planner, and factored in all the costs ahead of time, but it still doesn't make things any easier. I live in a condo which has a monthly HOA fee. Luckily, this covers things like garbage and water, so I don't have an additional bill for those. However, I still have to pay property tax, which is about 1.5% of my assessed value, anually. Do the math yourself but you'll see this comes out to an average of several hundred dollars per month. For a million dollar home (not mine), that's \$1,250 *per month*! I also have to pay for home insurance, another new cost that I didn't have while renting. This is a bit cheaper for a condo. Since I now own, I have to pay out of pocket to maintain my house. And of course, I have all the usual bills, like electricity and internet.
+Something I knew before purchasing was that there were hidden costs on top of the mortgage payment. But you don't realize how much they hurt until you're paying them. I am a planner, and factored in all the costs ahead of time, but it still doesn't make things any easier. I live in a condo which has a monthly HOA fee. Luckily, this covers things like garbage and water, so I don't have an additional bill for those. However, I still have to pay property tax, which is about 1.5% of my assessed value, anually. Do the math yourself but you'll see this comes out to an average of several hundred dollars per month. For a million dollar home (not mine), that's \$1,250 *per month*! I also have to pay for home insurance, another new cost that I didn't have while renting. This is a bit cheaper for a condo. Since I now own, I have to pay out of pocket to maintain my house. And of course, I have all the usual bills, like electricity and internet.
 
 In total, the "hidden costs" add over 50% to my mortgage payments!
 
@@ -76,10 +76,10 @@ In total, the "hidden costs" add over 50% to my mortgage payments!
 If I could go back and have a conversation with myself 2 years ago, I would highlight some things and recommend a few different options.
 
 1. **Spend more time looking around in San Rafael and Larkspur**, or even further south in Marin. I know I would have a much higher monthly payment, and higher cost of living, but I would also save myself money and *time* when commuting. I think those cities also hit more of my [requirements](#your-city) than Novato does. The cost-of-living margin is getting narrower too, as a sales tax measure just passed in Novato.
-1. **Consider roommates.** For this, I would need to make sure I get at least a 2-bed, 2-bath situation. This is someting I *could* consider now in my 2-bed, 1.5-bath, but no way am I going to share a bathroom with a stranger. A situation like this would heavily cut my housing costs and allow me to live in a higher cost-of-living area.
+1. **Consider roommates.** For this, I would need to make sure I get at least a 2-bed, 2-bath situation. This is someting I *could* consider for my 2-bed, 1.5-bath, but realistically, there's no way am I going to share a bathroom with a stranger. A situation like this would heavily cut my housing costs and allow me to live in a higher cost-of-living area.
 1. **Beware the bridge.** Like I mentioned earlier, tolls are increasing in 2025 for all of the bay area bridges. That's just going to add more financial stress.
 1. **Consider the cheapest available option**, and put the highest down payment, or cash offer if possible. One reason I wanted to own instead of rent is to build equity. 100% of your rental payments is "thrown away," but some of your mortgage payment builds equity. Right now, about 80% of my mortgage payment is "thrown away" as interest, which is still less than 100%, but even in this situation I feel like I might as well just set my money on fire. If I was able to buy a cheaper place with a 10-year mortgage or even submit a full cash offer, I would throw away *significantly* less money every month.
 1. **Watch for hazard zones.** I live in a flood zone which requires me to pay for flood insurance, indirectly through HOA fees. Also, it's just a little stressful knowing that there is a real risk of flooding. Other common hazard types to watch out for include wildfires and earthquakes.
 1. **Stress the importance of a walkable area.** I got lucky finding myself in an area with a walk score of 84/100, but I could have just as easily found myself in another condo in the *same* city with a walk score of 13/100.
 1. **Stress the importance of alternate transportation.** I own a car and plan to use it to the ground, but what if it breaks down, and I *need* to go to work or even to the hospital? My location has a transit score of 38/100, but feels much higher.
-1. **Stress the importance of activities within the city.** Novato has some museums, theaters, a weekly farmer's market, and its fair share of outdoor-focused activities, but it's a very sleepy town and things close early. I frequently need to go out of town to do other activities. Also, the median age is almost 50 years. It's about as far as you can get from a college town.
+1. **Stress the importance of activities within the city.** Novato has some museums, theaters, a weekly farmer's market, and its fair share of outdoor-focused activities, but it's a very sleepy town and things close early. I frequently need to go out of town to do other activities. Also, the median age is almost 50 years. Culturally, it's about as far as you can get from a college town.
