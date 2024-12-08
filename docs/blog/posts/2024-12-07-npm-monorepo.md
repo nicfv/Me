@@ -91,9 +91,9 @@ This would actually be a downgrade than what I have before, because not only I l
 > For example, this workflow would take 3 separate pull requests:
 >
 > Initial assumptions; currently published:
-> - `t6@1.0.2` (with no dependencies)
-> - `smath@1.0.1` (dependent on `t6@1.0.1`)
-> - `viridis@1.0.0` (dependent on `smath@1.0.0`, which is dependent on `t6@1.0.0`)
+> * `t6@1.0.2` (with no dependencies)
+> * `smath@1.0.1` (dependent on `t6@1.0.1`)
+> * `viridis@1.0.0` (dependent on `smath@1.0.0`, which is dependent on `t6@1.0.0`)
 >
 > Package update procedure:
 >
@@ -102,9 +102,9 @@ This would actually be a downgrade than what I have before, because not only I l
 > 1. Update and publish `viridis@1.0.1` to use `smath@1.0.1` dependency
 >
 > Final assumptions; currently published:
-> - `t6@1.0.3` (with no dependencies)
-> - `smath@1.0.2` (dependent on `t6@1.0.2`)
-> - `viridis@1.0.1` (dependent on `smath@1.0.1`, which is dependent on `t6@1.0.1`)
+> * `t6@1.0.3` (with no dependencies)
+> * `smath@1.0.2` (dependent on `t6@1.0.2`)
+> * `viridis@1.0.1` (dependent on `smath@1.0.1`, which is dependent on `t6@1.0.1`)
 >
 > Notice how the latest version of `viridis` has a dependency of `t6` that is 2 versions behind the latest!
 
@@ -142,7 +142,7 @@ If you look closely, you'll notice something very wrong with this script. `prein
 
 ### Megapackage Solution
 
-Another idea I had was to ditch the idea of publishing several different packages, in favor of one giant, single package. I wouldn't need workspaces at all (there would be no point to that anymore) and would significantly simplify my workflow.
+Another idea I had was to ditch the idea of publishing several different packages, in favor of one giant, single package. I wouldn't need workspaces at all (there would be no point to that anymore) and would drastically simplify my workflow.
 
 This would miss the point, though. I wanted to publish small-scale packages that build off of each other, so I could install only the ones I needed for my personal projects. With this method, I would only need one dependency for my projects, but it would be a massive dependency with all my code, and way more functionality and complexity than I would need in most cases.
 
