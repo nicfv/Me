@@ -18,7 +18,7 @@ Location is often said to be the most important factor in choosing a place to li
 
 ### Proximity to Work
 
-This is something I thought of extensively before buying a house. My requirement was to have a commute time less than my current living situation, at my parents' house. I was able to find that, but I wish I pushed this further. My commute time is around 45 minutes on average, and sometimes up to an hour when traffic gets really bad. I could have spent 10% more to live about 30% closer to work in a different city. There were other reasons why I didn't do that, but I definitely should have weighed this a bit more.
+This is something I thought of extensively before buying a house. You should see the maps I drew! My requirement was to have a commute time less than my current living situation, at my parents' house. I was able to find that, but I wish I pushed this further. My commute time is around 45 minutes on average, and sometimes up to an hour when traffic gets really bad. I could have spent 10% more to live about 30% closer to work in a different city. There were other reasons why I didn't do that, but I definitely should have weighed this a bit more.
 
 I need to cross the Richmond-San Rafael bridge to get to work. This is a toll bridge, which I factored in. A new development is that the toll rates are undergoing a significant increase in 2025.
 
@@ -31,7 +31,7 @@ Unless you move to a rural area, you likely live in a town or city of some sort.
 - Proximity to national/state/regional parks
 - Ways to reduce traffic, for example keeping a walkable and bikeable area
 - Having all essential amentities within the city, like medical, dental, shopping, gas, and several food options
-    - Not needing to leave town for groceries for example
+    - For example, I do not want to leave town for groceries
 - Entertainment options, like movies, bowling, museums, possibly more exotic activities like escape rooms or axe throwing
 - Lower cost of living, going out to eat will not make you poor for the next month
 - Large population of people in their 20s and 30s
@@ -52,7 +52,7 @@ I wanted to make sure I live in a place that has the amenities I need above thin
 
 - **Washer/Dryer**: An absolute must for me. I've lived in apartments with and without a washer/dryer in-unit, and it was very annoying to go down to the laundry room to discover that half the laundry machines are broken and the other half still have an hour left on the timer. Paying to do your laundry is also just a slap in the face. Why would I pay for something I don't want to do in the first place?
 - **Dishwasher**: Luckily, I've never lived in a place without one, but I already can tell you that it would get old, *fast*, if I didn't have a dishwasher.
-- **Central A/C**: California gets *HOT* in the summer. In the east bay, it can easily get over 100s and stay there for weeks at a time, and in the central valley, we're talking 110s. I think we even had heat waves where it peaked over 120 degrees F. It also cools down much more slowly, the further you are away from the San Francisco Bay.
+- **Central A/C**: California gets *HOT* in the summer. In the east bay, it can easily get over 100s and sit there for weeks at a time, and where I used to live in the central valley, we're talking 110s. I think we even had heat waves where it peaked over 120 degrees F. It also cools down much more slowly, the further you are away from the San Francisco Bay.
 - **Reserved Parking**: I own a car, which means I need a place to put it. Simple as that.
 
 ### Things I Want
