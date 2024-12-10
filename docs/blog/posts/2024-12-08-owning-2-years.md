@@ -29,22 +29,29 @@ A minor factor of consideration is living east or west of work. I live west of w
 
 Unless you move to a rural area, you likely live in a town or city of some sort. What is the community like? What is the cost of living in that area? I wished I determined my priorities first and then chose a city with those same priorities.
 
-- Maintaining local parks, clean and **free** public areas and facilities, and well maintained roads
 - Quiet and safe environment, with a lot of green space
-- Proximity to national/state/regional parks
-- Ways to reduce traffic, for example keeping a walkable and bikeable area
-- Having all essential amentities within the city, like medical, dental, shopping, gas, and several food options
-    - For example, I do not want to leave town for groceries
-- Entertainment options, like movies, bowling, museums, possibly more exotic activities like escape rooms or axe throwing
-- Lower cost of living, going out to eat will not make you poor for the next month
-- Population with like-minded political views
-- Large population of people in their 20s and 30s
+    - Maintaining local parks, with clean and **free** public facilities
+    - Proximity to national/state/regional parks
+- Traffic safety and alternatives to driving
+    - Well maintained roads, few or no potholes
+    - Friendly area for walking or biking, e.g. abundant sidewalks and bike lanes
+- Having all essential amentities within the city
+    - Medical, dental, shopping, gas, and several food options
+    - I do not want to leave town for groceries, for example
+- Entertainment options
+    - Movies, bowling, museums, arcade or games store
+    - Possibly more exotic activities, like escape rooms, axe throwing, etc.
+- Lower cost of living
+    - Going out to eat should not make you poor for the rest of the month
+- Population and neighbors
+    - Like-minded political views
+    - Large group of people in their 20s and 30s
 
 ### Transportation Alternatives
 
 Something I hadn't considered at all were alternatives to driving everywhere I needed to go. I got lucky in this regard. I ended up in a condo where I could walk almost everywhere. Two grocery stores, a postal office, my barber, several food options, a hardware store, pharmacy, pet store, and the dollar store were just a short walk away. Downtown, with even more options, was a slightly longer walk away but I could still get there in under 20 minutes on foot.
 
-There also turned out to be two well-established transit organizations in my town. The incredibly cheap [Marin Transit](https://marintransit.org/) with 3 bus lines in my town to different destinations within the county, and [Golden Gate](https://www.goldengate.org/) transit, with 2 bus lines in my town, going either to San Francisco or Santa Rosa. A few towns over, Golden Gate offers two ferry routes to San Francisco. Also, the [SMART train](https://www.sonomamarintrain.org/) as 3 stops in my town. Technically, I don't need a car at all to get anywhere in the bay area. I could take the bus to SF and then BART for example.
+There also turned out to be three well-established transit organizations in my town. The incredibly cheap [Marin Transit](https://marintransit.org/) with 3 bus lines in my town to different destinations within the county, and [Golden Gate](https://www.goldengate.org/) transit, with 2 bus lines in my town, going either to San Francisco or Santa Rosa. A few towns over, Golden Gate offers two ferry routes to San Francisco. Also, the [SMART train](https://www.sonomamarintrain.org/) has 3 stations in my town. Technically, I don't need a car at all to get anywhere in the bay area. I could take the bus to SF and then BART for example.
 
 The next time I relocate, this will definitely be a primary consideration. I think living a walkable area is the most important, with transit options coming in close second.
 
@@ -66,7 +73,7 @@ I wanted to make sure I live in a place that has the amenities I need above thin
 - **New appliances**: This is definitely nice to have, as it will save me a great deal of money after move-in if I don't need to replace anything.
 - **Private outdoor space**: At the other places I've lived, I enjoy working from home outdoors, or just sitting outdoors reading or on my computer. This would also open the option of ever getting a dog in the future.
 - **Fiber internet**: I plan to work from home sometimes and a fast internet would be helpful for this. Fiber is a relatively new technology in this area, and most houses or apartments don't have the infrastructure yet, so it's not something I can realistically expect to find in affordable homes.
-- **No upstairs/downstairs neighbors**: The last thing I want is to put a several-thousand-dollar down payment on an apartment and discover that the upstairs neighbors run an at-home jackhammer-testing service. I'm putting this on the "want" list since it may not be realistic to expect to find an affordable place with this requirement.
+- **No upstairs/downstairs neighbors**: The last thing I want is to put a several-thousand-dollar down payment on an apartment and discover that the upstairs neighbors run an at-home jackhammer-testing service. Instead, having the upstairs unit would also be a pain. Moving in or having to walk up the stairs coming home every day, especially when carrying large items like grocery bags, would not be fun for long. I'm putting this on the "want" list since it may not be realistic to expect to find an affordable place with this requirement.
 - **A nice view, with southeast-facing windows**: Let's face it. I got a bit screwed with this one. I'm one of the ~10 units in my ~100-unit complex that faces directly into another building. I can see some trees and the pool from my windows, but the view doesn't pull me out of bed in the morning.
 
 ## Hidden Costs
