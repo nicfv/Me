@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-12-08
+  updated: 2024-12-09
 categories:
   - Journal
 tags:
@@ -22,6 +23,8 @@ This is something I thought of extensively before buying a house. You should see
 
 I need to cross the Richmond-San Rafael bridge to get to work. This is a toll bridge, which I factored in. A new development is that the toll rates are undergoing a significant increase in 2025.
 
+A minor factor of consideration is living east or west of work. I live west of work, so I commute east in the morning and west in the evening. That means I have the sun in my face in both directions.
+
 ### City Culture
 
 Unless you move to a rural area, you likely live in a town or city of some sort. What is the community like? What is the cost of living in that area? I wished I determined my priorities first and then chose a city with those same priorities.
@@ -34,13 +37,14 @@ Unless you move to a rural area, you likely live in a town or city of some sort.
     - For example, I do not want to leave town for groceries
 - Entertainment options, like movies, bowling, museums, possibly more exotic activities like escape rooms or axe throwing
 - Lower cost of living, going out to eat will not make you poor for the next month
+- Population with like-minded political views
 - Large population of people in their 20s and 30s
 
 ### Transportation Alternatives
 
 Something I hadn't considered at all were alternatives to driving everywhere I needed to go. I got lucky in this regard. I ended up in a condo where I could walk almost everywhere. Two grocery stores, a postal office, my barber, several food options, a hardware store, pharmacy, pet store, and the dollar store were just a short walk away. Downtown, with even more options, was a slightly longer walk away but I could still get there in under 20 minutes on foot.
 
-There also turned out to be two well-established transit organizations in my town. The incredibly cheap [Marin Transit](https://marintransit.org/) with 3 bus lines in my town to different destinations within the county, and [Golden Gate](https://www.goldengate.org/) transit, with 2 bus lines in my town, going either to San Francisco or Santa Rosa. A few towns over, Golden Gate offers two ferry routes to San Francisco. Technically, I don't need a car at all to get anywhere in the bay area. I could take the bus to SF and then BART for example.
+There also turned out to be two well-established transit organizations in my town. The incredibly cheap [Marin Transit](https://marintransit.org/) with 3 bus lines in my town to different destinations within the county, and [Golden Gate](https://www.goldengate.org/) transit, with 2 bus lines in my town, going either to San Francisco or Santa Rosa. A few towns over, Golden Gate offers two ferry routes to San Francisco. Also, the [SMART train](https://www.sonomamarintrain.org/) as 3 stops in my town. Technically, I don't need a car at all to get anywhere in the bay area. I could take the bus to SF and then BART for example.
 
 The next time I relocate, this will definitely be a primary consideration. I think living a walkable area is the most important, with transit options coming in close second.
 
