@@ -20,7 +20,7 @@ Go to
 | [\#6](./2024-04-28-gatekeep.md)
 | \#7
 
-I'm reviving an old series here. This one branches off of story [\#5](./2024-03-11-mail-plus.md), where I split uo my Gmail account to use a custom email for each online account. But now, instead of exposing my Gmail account, I can use one of the custom domains I own to send *and* receive emails, directly in my Gmail mail client, for free! For example, I can now send and receive emails from an address like <example@nicfv.com>. It was an adventure to figure out this project and quite a lengthy headache at times.
+I'm reviving an old series here. This one branches off of story [\#5](./2024-03-11-mail-plus.md), where I split up my Gmail account to use a custom email for each online account. But now, instead of exposing my Gmail account, I can use one of the custom domains I own to send *and* receive emails, directly in my Gmail mail client, for free! For example, I can now send and receive emails from an address like <example@nicfv.com>. It was an adventure to figure out this project and quite a lengthy headache at times.
 
 <!-- more -->
 
@@ -103,4 +103,4 @@ Compare this to what we saw when I was using [web hosting](#web-hosting). There'
 
 You'll notice a few things when you download the email's source. You'll see that the `Return-Path` header contains your personal Gmail address. I'm not sure how to remove this, and I'm not sure it's possible. I'm assuming that behind the scenes, Google is basically routing all mail (incoming and outgoing) through your personal Gmail account. It's definitely more than a little annoying, since it does essentially expose your private email address to someone tech-savvy enough. But I suppose someone tech-savvy enough wouldn't even need you to send them an email to figure that out.
 
-To be honest, even with these drawbacks, it's quite an amazing and simple result. No need for web hosting, business email, or anything else. Simply a domain registration and a Google account. And most importantly, it's **free**. (Well, you do need to pay to register a domain.)
+To be honest, even with these drawbacks, it's quite an amazing and simple result. No need for web hosting, business email, or anything else. Simply a domain registration and a Google account. It even still supports the "plus" notation! (I could receive emails sent to <example+test@nicfv.com>.) And most importantly, it's **free**. (Well, you do need to pay to register a domain.) Forget that part, though!
