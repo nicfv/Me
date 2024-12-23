@@ -33,7 +33,7 @@ I liked this method because everything was handled by Hostinger's services, and 
 ```
      from:  Nicolas Ventura <example@nicfv.com>
        to:  "recipient@gmail.com" <recipient@gmail.com>
-     date:  Dec 23, 2024, 11:22 AM
+     date:  Dec 23, 2024, 11:22 AM
   subject:  Test Email
 mailed-by:  nicfv.com
 signed-by:  nicfv.com
@@ -89,7 +89,7 @@ If you send a test email to another Gmail account, you'll see these headers.
 ```
      from:  Nicolas Ventura <example@nicfv.com> via gmail.com 
        to:  "recipient@gmail.com" <recipient@gmail.com>
-     date:  Dec 23, 2024, 12:59 PM
+     date:  Dec 23, 2024, 12:59 PM
   subject:  Test Email
 mailed-by:  gmail.com
  security:  Standard encryption (TLS)
@@ -101,6 +101,6 @@ Compare this to what we saw when I was using [web hosting](#web-hosting). There'
 1. The `mailed-by` header is now `gmail.com`.
 1. There is no `signed-by` header. (This doesn't mean that the email is insecure. I think it's signed by Google, but simply not shown because it would be redundant.)
 
-You'll notice a few things when you download the email's source. You'll see that the `Return-Path` header contains your personal Gmail address. I'm not sure how to remove this, and I'm not sure it's possible. I'm assuming that behind the scenes, Google is basically routing all mail (incoming and outgoing) through your personal Gmail account. It's definitely more than a little annoying, since it does essentially expose your private email address to someone tech-savvy enough. But I suppose someone tech-savvy enough wouldn't even need you to send them an email to figure that out.
+You'll notice a few things when you download the email's source. You'll see that the `Return-Path` header contains your personal Gmail address. I'm not sure how to remove this, and I'm not sure it's possible. I tried changing the SPF record to `v=spf1 include:_spf.google.com ~all`, but it didn't have any impact at all. I'm assuming that behind the scenes, Google is basically routing all mail (incoming and outgoing) through your personal Gmail account. It's definitely more than a little annoying, since it does essentially expose your private email address to someone tech-savvy enough. But I suppose someone tech-savvy enough wouldn't even need you to send them an email to figure that out.
 
 To be honest, even with these drawbacks, it's quite an amazing and simple result. No need for web hosting, business email, or anything else. Simply a domain registration and a Google account. It even still supports the "plus" notation! (I could receive emails sent to <example+test@nicfv.com>.) And most importantly, it's **free**. (Well, you do need to pay to register a domain.) Forget that part, though!
