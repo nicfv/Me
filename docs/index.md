@@ -3,6 +3,7 @@ icon: fontawesome/solid/user
 hide:
   - navigation
   - toc
+  - footer
 ---
 
 ![Me](me.jpg){ style="float:right;width:200px;height:200px;object-fit:cover;border-radius:100%;margin:0 0 1rem 1rem;" }
