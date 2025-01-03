@@ -75,9 +75,9 @@ extra:
     description: This website uses cookies, including those from Google Analytics, to enhance your browsing experience and analyze site usage. By continuing to use this site, you consent to the use of cookies. Google Analytics employs cookies to assess website activity and provide insights for website optimization. The information generated, including your IP address, is transmitted to and stored by Google. You can opt-out by disabling cookies or using Google's opt-out service. You have the ability to control and delete cookies through your browser settings. Any changes to this notice will be posted on this page. If you have questions, please email me using the contact link at the bottom of this page. Thank you for your understanding and cooperation.
   social:
     - icon: material/web
-      link: https://nicolasventura.com/
+      link: https://nicfv.com/
     - icon: material/email
-      link: mailto:www@nicolasventura.com
+      link: mailto:nicolas@ventura.im
       name: Send Email
     - icon: material/linkedin
       link: https://www.linkedin.com/in/nfv/
@@ -104,4 +104,4 @@ extra:
     - icon: material/chess-pawn
       link: https://www.chess.com/member/nicfv
   generator: false
-copyright: Copyright &copy; 2024 Nicolas Ventura
+copyright: Copyright &copy; 2025 Nicolas Ventura
