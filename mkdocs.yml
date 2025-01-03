@@ -41,6 +41,7 @@ theme:
   favicon: icon.png
 plugins:
   - search
+  - privacy
   - blog:
       blog_toc: true
   - tags:
@@ -104,4 +105,4 @@ extra:
     - icon: material/chess-pawn
       link: https://www.chess.com/member/nicfv
   generator: false
-copyright: Copyright &copy; 2025 Nicolas Ventura
+copyright: Copyright &copy; 2025 Nicolas Ventura | <a href="#__consent">Cookie Settings</a>
