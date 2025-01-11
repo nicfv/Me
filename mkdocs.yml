@@ -42,7 +42,6 @@ theme:
   favicon: icon.png
 plugins:
   - search
-  - privacy
   - blog:
       blog_toc: true
   - tags:
