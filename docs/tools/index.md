@@ -9,3 +9,4 @@ Occasionally I need a specialized calculator or other piece of software, where t
 - [Wordle Helper](https://tools.nicfv.com/wordle/) - *Filters the wordle dictionary based on your previous guesses to help you make an informed next guess.*
 - [Time Value of Money](https://tools.nicfv.com/tvm/) - *Calculate the time value of money using various equations.*
 - [Interest Calculator](https://tools.nicfv.com/interest/) - *A collection of formulas that calculate parameters for an environment with an interest rate.*
+- [Pokemon Go Catch Rate](https://tools.nicfv.com/pokemon-go-catch-rate/) - *A catch rate calculator for the mobile game, Pokemon Go.*
