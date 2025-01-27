@@ -16,7 +16,8 @@
     #WA,
     #TN,
     #IL,
-    #GA
+    #GA,
+    #HI
     {
       fill: gold;
     }
