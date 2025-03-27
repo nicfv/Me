@@ -7,7 +7,7 @@ tags:
   - hobby
 ---
 
-## Fake Grass
+# Fake Grass
 
 I highly despise fake grass, which is also known as artificial turf.
 
