@@ -10,3 +10,4 @@ Occasionally I need a specialized calculator or other piece of software, where t
 - [Time Value of Money](https://tools.nicfv.com/tvm/) - *Calculate the time value of money using various equations.*
 - [Interest Calculator](https://tools.nicfv.com/interest/) - *A collection of formulas that calculate parameters for an environment with an interest rate.*
 - [Pokemon Go Catch Rate](https://tools.nicfv.com/pokemon-go/) - *A catch rate calculator for the mobile game, Pokemon Go.*
+- [Hearts Helper](https://tools.nicfv.com/hearts/) - *Help counts cards specifically for the game, Hearts.*
