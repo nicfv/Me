@@ -2,19 +2,16 @@
 date:
   created: 2025-03-27
 categories:
-  - Journal
+  - Random
 tags:
   - hobby
 ---
-# Composting & Plant Health
-
-I've been practicing trench composting for over a year now in my small garden. It's been a good way to eliminate waste and improving soil health. By putting food scraps back in the ground, it adds nutrients to the soil, sparking life and feeding my plants. It also gets me going outside and a good discipline to hold myself to - not to mention the more time I spend at my garden, the more I'll inadvertently care for it. However there's some plant-related topics I want to get off my chest.
-
-<!-- more -->
 
 ## Fake Grass
 
 I highly despise fake grass, which is also known as artificial turf.
+
+<!-- more -->
 
 **Prevents Plant Growth.** This is probably the main reason why someone would get fake grass in the first place, which to me is a poor reason by itself. Let's assume someone had a really good reason why they didn't want plants growing in their yard. It's still an active choice to have fake grass installed versus other options - like covering your yard with river rocks. From a quick search on Home Depot, in 2025, a middle ground for the cost of materials and labor to install artificial turf is about \$20 per square foot. Alternatively, I found a 10 cu.ft. pallette of river rocks, also from Home Depot, for about \$360. This could cover about 30 sq.ft., which comes to about **\$12** per sq.ft. With installation, it could come to about the same, also I would argue that this is something that you could do yourself. Additionally, it would be much easier to maintain.
 
@@ -24,8 +21,4 @@ I highly despise fake grass, which is also known as artificial turf.
 
 **Aesthetic.** Opinion: Fake grass is an ugly eyesore that stands out in a bad way. However, I'll leave this excercise up to you, the reader. Let's assume you are extremely lazy but would like some greenery. Your options are to pay for a blazing green, plain, fake lawn or just do *nothing*. By doing nothing, you are passively helping the environment by allowing the natural plants of the region a chance to grow. They will look prettier, be easier to maintain, and may attract pollinators and other positive environmental influences. Not to mention it will look a lot prettier, even if it takes a while at first.
 
-## Fruit Stickers
-
-It has recently come to my attention that
-
-## Conclusion
+Fake grass os a scourge on society. What are your thoughts?
