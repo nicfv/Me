@@ -7,7 +7,7 @@ This is a space for photos I took of my travels, just for fun. I'm organizing th
 
 [![qr](./nykfv_qr.png){ style="display:block;margin:auto;max-width:50%;height:auto;" }](https://www.instagram.com/nykfv/)
 
-I live in Northern California and many of these locations are local parks and preserves. As of %TODAY%, I have visited [16/50 US states](./map.md).
+I live in Northern California and many of these locations are local parks and preserves. As of %TODAY%, I have visited [19/50 US states](./map.md).
 
 ## Camera
 I currently am using a Canon PowerShot A3500 IS, with mainly stock settings. This is my first camera. A few of the earlier photos on this website are also taken with my phone (Samsung Galaxy A10e) camera.
