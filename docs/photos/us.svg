@@ -18,7 +18,10 @@
     #IL,
     #GA,
     #HI,
-    #FL
+    #FL,
+    #MA,
+    #NH,
+    #ME
     {
       fill: gold;
     }
