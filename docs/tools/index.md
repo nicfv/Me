@@ -11,3 +11,5 @@ Occasionally I need a specialized calculator or other piece of software, where t
 - [Interest Calculator](https://tools.nicfv.com/interest/) - *A collection of formulas that calculate parameters for an environment with an interest rate.*
 - [Pokemon Go Catch Rate](https://tools.nicfv.com/pokemon-go/) - *A catch rate calculator for the mobile game, Pokemon Go.*
 - [Hearts Helper](https://tools.nicfv.com/hearts/) - *Help counts cards specifically for the game, Hearts.*
+- [Dimensional Analysis](https://tools.nicfv.com/dimensional/) - *Convert anything to anything! Build complex units and analyze dimensions.*
+- [Dimensional Playground](https://tools.nicfv.com/dimensional-playground/) - *Presents a live editor with the `dimensional` package ready to use.*
