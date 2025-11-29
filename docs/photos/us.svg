@@ -21,7 +21,8 @@
     #FL,
     #MA,
     #NH,
-    #ME
+    #ME,
+    #MO
     {
       fill: gold;
     }
