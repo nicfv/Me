@@ -15,6 +15,7 @@ Occasionally I need a specialized calculator or other piece of software, where t
 - [Psychart](https://psychart.nicfv.com/) - *Plot thermodynamic conditions of air on a psychrometric chart, optionally displaying comfort zones.*
 - [Dimensional Analysis](https://tools.nicfv.com/dimensional/) - *Convert anything to anything! Build complex units and analyze dimensions.*
 - [Dimensional Playground](https://tools.nicfv.com/dimensional-playground/) - *Presents a live editor with the `dimensional` package ready to use.*
+- [File to Data URL](https://tools.nicfv.com/data-url/) - *Encode any file as a data URL to insert into a source code file.*
 
 ## Gaming
 
