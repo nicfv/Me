@@ -1,24 +1,7 @@
 {
-  "name": "me",
-  "version": "1.0.0",
-  "description": "Visit the links below:",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nicfv/Me.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/nicfv/Me/issues"
-  },
-  "homepage": "https://github.com/nicfv/Me#readme"
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "clean": "rm -rf _site"
+  }
 }
