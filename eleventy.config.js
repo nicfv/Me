@@ -6,6 +6,8 @@ export default function (eleventyConfig) {
         const firstPara = post.match(/<p[^>]*>(.+)<\/p>/);
         if (firstPara) {
             return firstPara[1].replaceAll(/<[^>]+>/g, ''); // Strip HTML tags
+        } else {
+            return '';
         }
     });
 }
