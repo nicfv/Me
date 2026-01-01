@@ -1,6 +1,6 @@
 ---
 layout: base.html
-title: All Posts
+title: Nicolas Ventura
 pagination:
   data: collections.post
   size: 10
@@ -17,5 +17,6 @@ Page {{ current_page }} of {{ pagination.pages.length }}
 {% if current_page < pagination.pages.length %}[&rightarrow;](/p{{ current_page | plus:1 }}){% else %}&rightarrow;{% endif %}
 
 {% for post in posts %}
-{% include 'post.md' post:post %}
+### [{{ post.data.title }}]({{ post.url }})
+**{{ post.date | date_to_long_string }}** {{ post.templateContent | excerpt }} [Read more]({{ post.url }})
 {% endfor %}
