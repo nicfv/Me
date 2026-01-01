@@ -12,9 +12,12 @@
 <body>
     <header>
         <h1>{{ title }}</h1>
-        {% if date %}
+        {%- if date -%}
         <h3>{{ date | date_to_long_string }}</h3>
-        {% endif %}
+        {%- endif -%}
+        {%- if tags contains 'post' -%}
+        <p><a href="/">All Posts</a></p> <!-- TODO -->
+        {%- endif -%}
     </header>
     <main>{{ content }}</main>
     <footer>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</footer>
