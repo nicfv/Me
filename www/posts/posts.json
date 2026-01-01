@@ -1,0 +1,7 @@
+{
+    "layout": "base.html",
+    "title": "Untitled",
+    "date": "2000-01-01",
+    "tags": "post",
+    "permalink": "{{ date | date:'%Y/%m/%d' }}/{{ title | slugify }}"
+}
