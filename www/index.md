@@ -1,5 +1,4 @@
 ---
-layout: base.html
 title: Nicolas Ventura
 pagination:
   data: collections.post
