@@ -7,8 +7,6 @@ pagination:
   reverse: true
 permalink: "{% if pagination.pageNumber < 1 %}/{% else %}p{{ pagination.pageNumber | plus:1 }}/{% endif %}"
 ---
-There are currently {{ collections.post.size }} posts.
-
 {% assign current_page = pagination.pageNumber | plus:1 %}
 
 {% if current_page == 2 %}[&leftarrow;](/){% elsif current_page > 1 %}[&leftarrow;](/p{{ current_page | minus:1 }}){% else %}&leftarrow;{% endif %}
@@ -19,3 +17,5 @@ Page {{ current_page }} of {{ pagination.pages.length }}
 ### [{{ post.data.title }}]({{ post.url }})
 **{{ post.date | date_to_long_string }}** {{ post.templateContent | excerpt }} [Read more]({{ post.url }})
 {% endfor %}
+
+As of {{ 'now' | date_to_long_string }}, there are {{ collections.post.size }} posts.
