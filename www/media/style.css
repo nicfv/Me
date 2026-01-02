@@ -17,8 +17,13 @@ body {
 }
 
 header {
-    padding: 1rem;
     background: #eee;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header>a {
+    padding: 1rem;
 }
 
 main {
