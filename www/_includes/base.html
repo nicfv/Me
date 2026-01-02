@@ -26,7 +26,7 @@
     </header>
     <main>
         {%- if tags contains 'post' -%}
-        <p>Go back to <a href="/">all posts</a>.</p>
+        <p style="color: gray;">Go back to <a href="/">all posts</a>.</p>
         {%- endif -%}
         <h1>{{ title }}</h1>
         <div>{{ content }}</div>
@@ -38,7 +38,7 @@
         <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
         <div>
             {% for link in links %}
-            <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank"><i class="bi bi-{{ link[0] | downcase }}"></i></a>
+            <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank"><i class="bi bi-{{ link[0] | downcase | replace: ' ','-' }}"></i></a>
             {% endfor %}
         </div>
     </footer>
