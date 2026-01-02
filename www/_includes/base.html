@@ -19,10 +19,9 @@
 
 <body>
     <header>
-        {%- for item in collections.all -%}
-        {%- unless item.data.tags contains 'post' -%}
-        <a href="{{ item.url }}">{{ item.data.title }}</a>
-        {%- endunless -%}
+        <a href="/"><strong>Nicolas Ventura</strong></a>
+        {%- for link in header -%}
+        <a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a>
         {%- endfor -%}
     </header>
     <main>
@@ -37,10 +36,10 @@
     <footer>
         <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
         <div>
-            {% for link in links %}
+            {%- for link in footer -%}
             <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank">
                 <i class="bi bi-{{ link[0] | downcase | replace: ' ','-' }}"></i></a>
-            {% endfor %}
+            {%- endfor -%}
         </div>
     </footer>
 </body>
