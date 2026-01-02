@@ -1,27 +1,27 @@
 [
   {
     "name": "Linkedin",
-    "icon": "assignment_ind",
+    "icon": "linkedin",
     "href": "https://www.linkedin.com/in/nicfv/"
   },
   {
     "name": "GitHub",
-    "icon": "code",
+    "icon": "github",
     "href": "https://github.com/nicfv"
   },
   {
     "name": "YouTube",
-    "icon": "video_library",
+    "icon": "youtube",
     "href": "https://www.youtube.com/@nicfv"
   },
   {
     "name": "Instagram",
-    "icon": "photo_camera",
+    "icon": "instagram",
     "href": "https://www.instagram.com/nykfv/"
   },
   {
     "name": "Strava",
-    "icon": "directions_run",
+    "icon": "strava",
     "href": "https://www.strava.com/athletes/nicfv"
   }
 ]

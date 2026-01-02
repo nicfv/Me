@@ -62,7 +62,12 @@ img {
     width: 100%;
 }
 
-.material-icons.footer {
-    font-size: 18px;
+footer a .bi,
+footer a .bi:active {
     margin: 0 0.5rem;
+    color: black;
+}
+
+footer a .bi:hover {
+    color: dimgray;
 }
