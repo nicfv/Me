@@ -11,7 +11,7 @@ body {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     display: flex;
     flex-direction: column;
 }
@@ -40,6 +40,10 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+p {
+    text-align: justify;
 }
 
 a:link,
