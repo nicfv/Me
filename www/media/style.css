@@ -38,6 +38,9 @@ main {
 footer {
     padding: 1rem;
     background: #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 a:link,
@@ -57,4 +60,8 @@ a:active {
 table,
 img {
     width: 100%;
+}
+
+.material-icons.md-18 {
+    font-size: 18px;
 }
