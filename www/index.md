@@ -1,7 +1,7 @@
 ---
 pagination:
   data: collections.post
-  size: 2
+  size: 10
   alias: posts
   reverse: true
 permalink: "{% if pagination.pageNumber < 1 %}/{% else %}p{{ pagination.pageNumber | plus:1 }}/{% endif %}"
