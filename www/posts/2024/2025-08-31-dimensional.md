@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2025-08-31
+date: 2025-08-31
 categories:
   - Project
 ---

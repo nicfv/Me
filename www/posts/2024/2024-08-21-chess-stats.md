@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2024-08-21
+date: 2024-08-21
 categories:
   - Random
 tags:

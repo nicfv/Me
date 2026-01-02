@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2025-03-27
+date: 2025-03-27
 categories:
   - Random
 tags:

@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2025-09-28
+date: 2025-09-28
 categories:
   - Journal
 ---

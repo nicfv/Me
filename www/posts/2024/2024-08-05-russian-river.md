@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2024-08-05
+date: 2024-08-05
 categories:
   - Journal
 tags:

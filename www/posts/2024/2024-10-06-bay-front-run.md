@@ -1,7 +1,6 @@
 ---
-date:
-  created: 2024-10-06
-  updated: 2024-11-25
+date: 2024-10-06
+updated: 2024-11-25
 categories:
   - Journal
 tags:

@@ -1,7 +1,6 @@
 ---
-date:
-  created: 2024-09-20
-  updated: 2024-09-26
+date: 2024-09-20
+updated: 2024-09-26
 categories:
   - Random
 tags:

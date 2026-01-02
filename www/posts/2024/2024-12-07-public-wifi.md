@@ -1,6 +1,5 @@
 ---
-date:
-  created: 2024-12-07
+date: 2024-12-07
 categories:
   - Project
 tags:
