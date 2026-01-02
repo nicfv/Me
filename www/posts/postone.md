@@ -324,11 +324,13 @@ Some inline math, like \\\(y=mx+b\\\) which is a linear equation.
 
 ![image](https://imgs.search.brave.com/XBnInwnt8zGwFgk4gv8SVrUd0AGQVGJwxdnzRSZ1yP4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvcHJv/ZmVzc2lvbmFscy9p/bWctYXJ0LndlYnA_/dz02MDA "hello")
 
+![img2](https://imgs.search.brave.com/Zh7bVZ8Dnb9a2MaNvCZZuINGZfzlpknpMX39ypEUl5w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zaG9w/aGFydC5jb20vY2Ru/L3Nob3AvZmlsZXMv/TEdfTGV0dGVyX2xp/ZmVzdHlsZV9pbWFn/ZV8xMzI0NWY1Zi02/MWZjLTQ5Y2ItYmQ0/Mi1mMTkwYTRkMWJm/YTJfODAweC5wbmc_/dj0xNzYzMTQwOTU1 "small")
+
 ### Tables
 
 | Color | Number | Letter |
 |:----- |:------:| ------:|
-| Red | 1 | A |
-| Blue | 2 | B |
-| Green | 3 | C |
-| Yellow | 4 | D |
+| Red | 1 | `A` |
+| Blue | 2 | `B` |
+| Green | 3 | `C` |
+| Yellow | 4 | `D` |
