@@ -37,8 +37,9 @@
     <footer>
         <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
         <div>
-            <a href="" title="Linkedin">&#128188;</a>
-            <a href="" title="Instagram">&#128247;</a>
+            {% for link in links %}
+            <a href="{{ link.href }}" title="{{ link.name }}" target="_blank"><span class="material-icons md-18">{{ link.icon }}</span></a>
+            {% endfor %}
         </div>
     </footer>
 </body>
