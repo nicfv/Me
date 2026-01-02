@@ -2,7 +2,7 @@
 title: Nicolas Ventura
 pagination:
   data: collections.post
-  size: 2
+  size: 10
   alias: posts
   reverse: true
 permalink: "{% if pagination.pageNumber < 1 %}/{% else %}p{{ pagination.pageNumber | plus:1 }}/{% endif %}"
@@ -18,4 +18,4 @@ Page {{ current_page }} of {{ pagination.pages.length }}
 **{{ post.date | date_to_long_string }}** {{ post.templateContent | excerpt }} [Read more]({{ post.url }})
 {% endfor %}
 
-As of {{ 'now' | date_to_long_string }}, there are {{ collections.post.size }} posts.
+*As of {{ 'now' | date_to_long_string }}, there have been {{ collections.post.size }} posts published.*
