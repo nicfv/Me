@@ -20,14 +20,14 @@
         {%- endfor -%}
     </header>
     <main>
-        <h1>{{ title }}</h1>
-        {%- if date -%}
-        <p style="color: gray;">Written on {{ date | date_to_long_string }}.</p>
-        {%- endif -%}
         {%- if tags contains 'post' -%}
         <p>Go back to <a href="/">all posts</a>.</p>
         {%- endif -%}
+        <h1>{{ title }}</h1>
         <div>{{ content }}</div>
+        {%- if date -%}
+        <p style="color: gray;"><em>{{ title }}</em> was published on {{ date | date_to_long_string }}.</p>
+        {%- endif -%}
     </main>
     <footer>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</footer>
 </body>
