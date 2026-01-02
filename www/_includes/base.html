@@ -35,7 +35,7 @@
         <div>
             {%- for link in footer -%}
             <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank">
-                <i class="bi bi-{{ link[0] | downcase | replace: ' ','-' }}"></i></a>
+                <i class="bi bi-{{ link[0] | slugify }}"></i></a>
             {%- endfor -%}
         </div>
     </footer>
