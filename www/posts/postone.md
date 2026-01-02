@@ -318,7 +318,7 @@ Use the `printf()` function.
 
 $$E=mc^2;\sqrt{\pi}$$
 
-Some inline math, like $y=mx+b$ which is a linear equation.
+Some inline math, like \\\(y=mx+b\\\) which is a linear equation.
 
 ### Images
 
