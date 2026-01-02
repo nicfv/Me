@@ -16,17 +16,21 @@ body {
     flex-direction: column;
 }
 
+header {
+    padding: 1rem;
+    background: #eee;
+}
+
 main {
     flex: 1;
     /* allows <main> to grow to the viewport size */
     width: 40rem;
     max-width: 100%;
-    padding: 0 1rem;
-    margin: 0 auto;
+    padding: 1rem;
+    margin: auto;
 }
 
 footer {
-    margin-top: 1rem;
     padding: 1rem;
     background: #eee;
 }
