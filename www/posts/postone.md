@@ -311,3 +311,10 @@ Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
 Use the `printf()` function.
+
+| Color | Number | Letter |
+|:----- |:------:| ------:|
+| Red | 1 | A |
+| Blue | 2 | B |
+| Green | 3 | C |
+| Yellow | 4 | D |
