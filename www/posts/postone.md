@@ -314,6 +314,12 @@ Use the `printf()` function.
 
 ## Other
 
+### Math
+
+$$E=mc^2;\sqrt{\pi}$$
+
+Some inline math, like $y=mx+b$ which is a linear equation.
+
 ### Images
 
 ![image](https://imgs.search.brave.com/XBnInwnt8zGwFgk4gv8SVrUd0AGQVGJwxdnzRSZ1yP4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/ZnJvbnQuZnJlZXBp/ay5jb20vaG9tZS9h/bm9uLXJ2bXAvcHJv/ZmVzc2lvbmFscy9p/bWctYXJ0LndlYnA_/dz02MDA "hello")
