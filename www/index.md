@@ -4,6 +4,7 @@ pagination:
   size: 10
   alias: posts
   reverse: true
+  generatePageOnEmptyData: true
 permalink: "{% if pagination.pageNumber < 1 %}/{% else %}p{{ pagination.pageNumber | plus:1 }}/{% endif %}"
 ---
 # Nicolas Ventura
