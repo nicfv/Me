@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/default.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
     <script defer>hljs.highlightAll();</script>
+    <script type="text/javascript" src="/media/script.js" defer></script>
 </head>
 
 <body>
@@ -25,20 +26,20 @@
         {%- endfor -%}
     </header>
     <main>
-        {%- if tags contains 'post' -%}
-        <p style="color: gray;">Go back to <a href="/">all posts</a>.</p>
-        {%- endif -%}
         <h1>{{ title }}</h1>
         <div>{{ content }}</div>
-        {%- if date -%}
-        <p style="color: gray;"><em>{{ title }}</em> was published on {{ date | date_to_long_string }}.</p>
+        {%- if tags contains 'post' -%}
+        <p style="color: gray;">
+            <em>{{ title }}</em> was published on {{ date | date_to_long_string }}.<a href="/">Go back</a> to all posts.
+        </p>
         {%- endif -%}
     </main>
     <footer>
         <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
         <div>
             {% for link in links %}
-            <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank"><i class="bi bi-{{ link[0] | downcase | replace: ' ','-' }}"></i></a>
+            <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank">
+                <i class="bi bi-{{ link[0] | downcase | replace: ' ','-' }}"></i></a>
             {% endfor %}
         </div>
     </footer>
