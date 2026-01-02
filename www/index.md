@@ -1,5 +1,4 @@
 ---
-title: Nicolas Ventura
 pagination:
   data: collections.post
   size: 2
@@ -7,6 +6,7 @@ pagination:
   reverse: true
 permalink: "{% if pagination.pageNumber < 1 %}/{% else %}p{{ pagination.pageNumber | plus:1 }}/{% endif %}"
 ---
+# Nicolas Ventura
 {% if pagination.previousPageHref %}
 [&leftarrow;]({{ pagination.previousPageHref }})
 {% else %}
