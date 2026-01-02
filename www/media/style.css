@@ -54,3 +54,8 @@ a:hover {
 a:active {
     color: red;
 }
+
+table,
+img {
+    width: 100%;
+}
