@@ -36,7 +36,8 @@ main {
 
 footer {
     padding: 1rem;
-    background: #eee;
+    color: white;
+    background: #222;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -68,9 +69,14 @@ img {
 footer a .bi,
 footer a .bi:active {
     padding: 0 0.5rem;
-    color: black;
+    color: lightgray;
+    text-decoration: none;
 }
 
 footer a .bi:hover {
-    color: dimgray;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: none;
 }
