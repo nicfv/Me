@@ -9,7 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" href="/media/icon.png" />
     <link rel="stylesheet" type="text/css" href="/media/style.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+    <script defer>hljs.highlightAll();</script>
 </head>
 
 <body>
@@ -30,7 +34,13 @@
         <p style="color: gray;"><em>{{ title }}</em> was published on {{ date | date_to_long_string }}.</p>
         {%- endif -%}
     </main>
-    <footer>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</footer>
+    <footer>
+        <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
+        <div>
+            <a href="" title="Linkedin">&#128188;</a>
+            <a href="" title="Instagram">&#128247;</a>
+        </div>
+    </footer>
 </body>
 
 </html>
