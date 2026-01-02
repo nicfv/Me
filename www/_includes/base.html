@@ -12,22 +12,22 @@
 
 <body>
     <header>
-        <nav>
-            {%- for item in collections.all -%}
-            {%- unless item.data.tags contains 'post' -%}
-            <a href="{{ item.url }}">{{ item.data.title }}</a>
-            {%- endunless -%}
-            {%- endfor -%}
-        </nav>
+        {%- for item in collections.all -%}
+        {%- unless item.data.tags contains 'post' -%}
+        <a href="{{ item.url }}">{{ item.data.title }}</a>
+        {%- endunless -%}
+        {%- endfor -%}
+    </header>
+    <main>
         <h1>{{ title }}</h1>
         {%- if date -%}
-        <h3>{{ date | date_to_long_string }}</h3>
+        <p style="color: gray;">Written on {{ date | date_to_long_string }}.</p>
         {%- endif -%}
         {%- if tags contains 'post' -%}
-        <p><a href="/">All Posts</a></p> <!-- TODO -->
+        <p>Go back to <a href="/">all posts</a>.</p>
         {%- endif -%}
-    </header>
-    <main>{{ content }}</main>
+        <div>{{ content }}</div>
+    </main>
     <footer>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</footer>
 </body>
 
