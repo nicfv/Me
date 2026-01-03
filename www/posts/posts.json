@@ -1,5 +1,4 @@
 {
-    "date": "2000-01-01",
     "tags": "post",
-    "permalink": "{{ date | date:'%Y/%m/%d' }}/{{ page.fileSlug | slugify }}/"
+    "permalink": "{{ page.date | date:'%Y/%m/%d/' }}{{ page.fileSlug | slugify }}/"
 }
