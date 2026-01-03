@@ -2,7 +2,7 @@
 
 I've visited the states in yellow and currently live in Northern California.
 
-![us](./us.svg)
+![us](/media/us.svg)
 
 ## Next Destination
 
