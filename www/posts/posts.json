@@ -1,4 +1,4 @@
 {
     "tags": "post",
-    "permalink": "{{ page.date | date:'%Y/%m/%d/' }}{{ page.fileSlug | slugify }}/"
+    "permalink": "{{ page.date | date:'%Y-%m-%d-' }}{{ page.fileSlug | slugify }}/"
 }
