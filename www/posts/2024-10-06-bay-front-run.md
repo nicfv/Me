@@ -1,11 +1,3 @@
----
-updated: 2024-11-25
-categories:
-  - Journal
-tags:
-  - exercise
-  - short story
----
 # Bay Front Run 2024
 
 **Results:** [All](https://runsignup.com/Race/Results/67243#resultSetId-496988;perpage:5000) | [Individual](https://runsignup.com/Race/Results/67243/IndividualResult/cdBR?resultSetId=496988#U93168241) | [Certificate](https://runsignup.com/Race/Results/67243/FinishersCert?resultSetId=496988&resultId=153740067#certificate)

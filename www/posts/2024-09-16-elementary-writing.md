@@ -1,7 +1,3 @@
----
-categories:
-  - Random
----
 # How To Write Like a 5th Grader
 
 Here's a handy guide on how to write a killer 5-paragraph essay, just like a 5th grader would.

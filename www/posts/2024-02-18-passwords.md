@@ -1,11 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
-  - organization
-  - password
----
 # Managing Passwords
 
 Go to

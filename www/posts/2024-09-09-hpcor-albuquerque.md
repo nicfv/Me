@@ -1,12 +1,3 @@
----
-updated: 2024-09-12
-categories:
-  - Journal
-tags:
-  - travel
-  - job
-  - tech
----
 # HPC Operator's Review, Sandia Labs, Albuquerque, New Mexico
 
 It's that time of year again for HPCOR; the high performance computing operator's review! This time, my colleagues and I went to Sandia Labs in Albuquerque, New Mexico.

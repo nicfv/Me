@@ -1,10 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - travel
-  - short story
----
 # Public Transit to Work
 
 I'm fortunate not to need it, but I tried taking public transit to work today! Simply as an experiment. I had mapped out a few different routes and decided on one that would have the fewest transfers, even if it took a bit longer. This will read a bit less like a story and more like a bulleted list of chronological events. So, if that's not your cup of tea, you might want to skip this one.

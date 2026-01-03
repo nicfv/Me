@@ -1,7 +1,3 @@
----
-categories:
-  - Journal
----
 # Red Light Ticket
 
 *The setting*: June 2025, a clear day. I'm in my convertible but with the roof up, driving through the confusing streets of San Francisco, just minding my own business and trying not to die. I turned right at an intersection and next thing I know **BAM!** A flash of light! What was that? A traffic camera? Was I speeding? Was it someone else? After I got my bearings, I realized I was doing nothing unsafe. A little shaken, I continued on with my day and forgot about it.

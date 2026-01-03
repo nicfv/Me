@@ -1,9 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
----
 # Working with an NPM Monorepo
 
 It's no secret that I'm developing a series of [npm packages](https://www.npmjs.com/~nicfv). The primary reason I'm doing this is for code reuse. I want to build up more complex programs using as much of my own software as possible. Second, the packages I'm developing might also benefit other developers. Also, the secret third reason I'm doing this is just for fun. Although there have been times where I really questioned my secret third reason. One of those recent times was when I changed my development strategy from maintaining several independent repositories to maintaining just one [monorepo](https://github.com/nicfv/npm) containing all my packages.

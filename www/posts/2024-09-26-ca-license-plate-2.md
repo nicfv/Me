@@ -1,9 +1,3 @@
----
-categories:
-  - Random
-tags:
-  - math
----
 # California License Plates Part 2
 
 Go to

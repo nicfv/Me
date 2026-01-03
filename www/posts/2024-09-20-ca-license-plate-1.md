@@ -1,10 +1,3 @@
----
-updated: 2024-09-26
-categories:
-  - Random
-tags:
-  - math
----
 # California License Plates Part 1
 
 Go to

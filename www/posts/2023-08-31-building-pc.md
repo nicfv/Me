@@ -1,10 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
-  - computer
----
 # Building My PC
 
 Want to learn about my frustrating journey to building my second PC? Read on!

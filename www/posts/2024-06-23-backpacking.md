@@ -1,11 +1,3 @@
----
-updated: 2024-06-27
-categories:
-  - Journal
-tags:
-  - short story
-  - exercise
----
 # Backpacking
 
 I like camping. And hiking. And backpacks. Turns out, there's just the activity for me! My friend Remy (yes, the same from my [crossing-the-Golden-Gate-bridge-story](./2024-04-06-GGB.md)) and I planned a one-night backpacking trip at Point Reyes. It was awesome.

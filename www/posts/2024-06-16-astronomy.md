@@ -1,9 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - short story
----
 # Astronomy
 
 Here's another short story! I got to see 2 unique astronomical phenomena in the short span of a few weeks! On August 8, 2023, there was the rare occurrence of the moon passing directly between Earth and the Sun, causing a solar eclipse. And on May 10, 2024 there was something normally you can only see in the arctic. Aurora borealis, at this time of year, in this part of the country, localized entirely within my apartment! Well, that last part is false. But I still got to see it.

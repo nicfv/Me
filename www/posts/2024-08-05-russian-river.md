@@ -1,10 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - exercise
-  - short story
----
 # Paddleboarding at Russian River
 
 I'm getting behind on my writing! This is my 30th journal entry for 2024, and it is week #32! So in order to catch up, I'll need to write 2 more this week, or 1 more this week and 2 next week, or 3 next week. So, buckle up for some more stories coming up soon! My New Year's resolution didn't specify how *long* each story needed to be, so this will be a short one, probably. Yesterday, my family and I went to Russian River and I got to try paddleboarding for the first time.

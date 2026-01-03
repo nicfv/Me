@@ -1,12 +1,3 @@
----
-updated: 2024-01-07
-categories:
-  - Random
-tags:
-  - physics
-  - dimensional analysis
-  - time
----
 # Pure Unit System of Measurement
 
 Let's get rid of pounds, kilograms, feet, meters, seconds, and degrees altogether and come up with a new, pure unit system based on limits of our universe, to describe our world. Believe it or not, this actually exists! It's called [Planck Units](https://en.wikipedia.org/wiki/Planck_units), and it's a completely ideal system of measurement based on our universe's fundamental constants. For example, "speed of light"s describe quantities of velocity. Here's a really neat way to create Planck units using linear algebra and *math*. Since this is a blog post and not a scientific research paper, let's keep this simple, assuming there are only 4 (out of the [seven](https://en.wikipedia.org/wiki/SI_base_unit)) physical base units in our universe. Let's also assume our universe has 4 [fundamental constants](https://en.wikipedia.org/wiki/Physical_constant). See the tables below for the list of each and symbols.

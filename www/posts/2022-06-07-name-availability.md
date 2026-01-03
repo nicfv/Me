@@ -1,13 +1,3 @@
----
-updated: 2024-01-07
-categories:
-  - Random
-tags:
-  - tech
-  - website
-  - domain
-  - password
----
 # Letter Combinations
 
 Have you ever tried to sign up for something, and you get this frustrating message?

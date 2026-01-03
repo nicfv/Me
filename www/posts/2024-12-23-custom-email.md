@@ -1,12 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - domain
-  - email
-  - organization
-  - tech
----
 # Custom Domains in Gmail
 
 Go to

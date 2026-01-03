@@ -1,11 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
-  - organization
-  - email
----
 # UC Davis Atrocities
 
 My university and graduate school, the University of California at Davis, has made possibly one of the worst decisions imaginable regarding their email service. You can read all about it here!

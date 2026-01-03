@@ -1,11 +1,3 @@
----
-updated: 2024-10-20
-categories:
-  - Journal
-tags:
-  - travel
-  - short story
----
 # Bay Area Bridge Travel
 
 This weekend, I traveled far and wide within and around the San Francisco Bay Area, locally known as the Bay Area. On Friday through Monday, I traveled over 200 miles, and crossed 6 bridges to visit 5 cities, including my hometown. Despite all this commute, I only ended up paying $14 total in bridge tolls! Let this story be your guide on how to effectively navigate the complex and expensive web of Bay Area *FasTrak*.

@@ -1,10 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - travel
-  - math
----
 # Japan Trip Expenditures
 
 Here is a brief analysis of costs from my recent 2-week (12-day) [trip to Japan](./2024-07-01-japan.md).

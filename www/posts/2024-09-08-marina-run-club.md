@@ -1,10 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - short story
-  - exercise
----
 # Marina Run Club
 
 I am now part of two different running clubs, both with the same acronym! "MRC," for "Marin Running Club" and "Marina Run Club." I've been going to the Marin Running Club for several months now, but this week was my second week attending the Marina Run Club in San Francisco.

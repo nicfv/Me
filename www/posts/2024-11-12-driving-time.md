@@ -1,10 +1,3 @@
----
-categories:
-  - Random
-tags:
-  - time
-  - travel
----
 # Cost of Driving to Work
 
 I don't think many people *like* driving to work. Some might - I personally *love* driving, but not when I have to. It makes me wonder, how much does it cost to drive for work-related purposes? I've developed a formula that takes into account not only the cost for gas, but also the cost of overhead services and opportunity cost associated with the time spent commuting to and from work.

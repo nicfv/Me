@@ -1,9 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - short story
----
 # Buying a Condo
 
 I'm slacking on my journal writing! I realize that I never wrote about buying my house (really a condo)... so here goes!

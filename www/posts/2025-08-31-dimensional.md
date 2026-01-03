@@ -1,7 +1,3 @@
----
-categories:
-  - Project
----
 # Publishing Dimensional on NPM
 
 One of my passion projects that's long-due completion was a dimensional analysis tool for computer programming. Programming has been a long-time hobby of mine and ever since I took physics and fluid mechanics in college, I wondered how to incorporate units into programming languages. Thus, [`Dimensional`](https://www.npmjs.com/package/dimensional) was born. It may not be the *most* elegant solution, but I believe I've come up with a solution that works pretty well regardless, and is fully customizable.

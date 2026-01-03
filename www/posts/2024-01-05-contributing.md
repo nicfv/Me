@@ -1,12 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
-  - mkdocs
-  - website
-  - date
----
 # Contributing to my Favorite Open-Source Project
 
 **(And how I almost contributed to my least favorite!)**

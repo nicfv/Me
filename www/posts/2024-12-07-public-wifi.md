@@ -1,9 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
----
 # Connecting to Public Wifi
 
 I'm currently writing this from my laptop running Kubuntu 24.04 in a public space; Peet's Coffee. (The matcha latte here is good.) I had some difficulty connecting to the public wifi. Luckily, I had my smartphone with me, which gave me options.

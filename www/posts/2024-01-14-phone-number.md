@@ -1,12 +1,3 @@
----
-categories:
-  - Random
-tags:
-  - tech
-  - website
-  - math
-  - password
----
 # Phone Number Verification
 
 Something that always irks me is when a website or app requires phone number verification, often called SMS authentication. Usually, that means whenever you want to log in to, let's call it BookFace, it will text you an automated code that you enter, or a link to click, to verify that the number is really yours and it is really you trying to log in. Many websites are now beginning to enforce this policy. In my opinion, this is a terrible system for several reasons.

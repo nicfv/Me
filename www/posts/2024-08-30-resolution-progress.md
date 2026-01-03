@@ -1,9 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - short story
----
 # Resolution Progress
 
 We're nearing the end of August already. At the beginning of 2024, I had 2 simple New Year's resolutions. How am I doing? Did I keep them, or stop after a week, like most people?

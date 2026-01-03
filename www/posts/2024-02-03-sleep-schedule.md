@@ -1,12 +1,3 @@
----
-categories:
-  - Journal
-tags:
-  - sleep
-  - time
-  - travel
-  - France
----
 # Tryout New Sleep Schedule
 
 After returning from Europe, or any other continent, for that matter, the following few days are always goofy because of the extreme jet lag. For example, the time zone in France is GMT+1 and California is GMT-8, making a total time change of 9 hours. Ever since returning from the [trip to France](./2023-12-16-france.md), I've *tried* to follow a new sleep schedule. The word *tried* is highly emphasized, because I am by no means strictly following this.

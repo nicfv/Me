@@ -1,10 +1,3 @@
----
-updated: 2024-12-09
-categories:
-  - Journal
-tags:
-  - short story
----
 # Owning Property, (Almost) Two Years Later
 
 It's crazy to think, but coming up on two years now, I [purchased my condo](./2024-06-14-buying-house.md). I absolutely love it and have no regrets, but there are some things I wish I had considered. Here's a short story of what I wished I could tell myself those 2 years ago, and things (specific to me) that are really important in finding a place to live.

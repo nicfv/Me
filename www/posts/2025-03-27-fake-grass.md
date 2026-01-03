@@ -1,9 +1,3 @@
----
-categories:
-  - Random
-tags:
-  - hobby
----
 
 # Fake Grass
 

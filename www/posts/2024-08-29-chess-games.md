@@ -1,10 +1,3 @@
----
-categories:
-  - Random
-tags:
-  - math
-  - game theory
----
 # Possible Chess Games
 
 Without looking up the answer, how many possible games of Chess are there? Find out here in this excruciatingly long story! Do you think there are more games of Chess or atoms in the universe?

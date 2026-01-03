@@ -1,11 +1,3 @@
----
-categories:
-  - Project
-tags:
-  - tech
-  - website
-  - mkdocs
----
 # Website Updates
 
 Over the last week or so, I've been working on updating my website to make it look prettier, easier for a visitor to navigate, and easier for me to maintain. One major (but surprisingly simple!) project was to redirect my "permanent" domain to my "common" domain. Another major update was consolidating all my ["main" websites](./2023-08-12-mkdocs.md) as subdirectories under my common domain instead of using subdomains, which helps greatly for maintainability and uniformity. Lastly, the idea of setting up an Instagram account came about when encountering file size issues in my photography website.

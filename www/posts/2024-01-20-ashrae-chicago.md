@@ -1,10 +1,3 @@
----
-updated: 2024-01-30
-categories:
-  - Journal
-tags:
-  - travel
----
 # ASHRAE Winter Conference, Chicago
 
 I was lucky to be able to visit the [ASHRAE](https://www.ashrae.org/) Winter conference in Chicago. ASHRAE is the American Society of Heating, Refrigeration, and Air Conditioning Engineers. I went with my coworker and mentor, Norm, and met many people and learned a lot there. There was actually 2 parts to this conference - the main ASHRAE talks and technical committee meetings, and the AHR Expo, where many vendors come to show off their products.
