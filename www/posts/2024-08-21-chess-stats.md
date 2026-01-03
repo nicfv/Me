@@ -1,5 +1,4 @@
 ---
-date: 2024-08-21
 categories:
   - Random
 tags:

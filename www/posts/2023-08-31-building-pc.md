@@ -1,5 +1,4 @@
 ---
-date: 2023-08-31
 categories:
   - Project
 tags:

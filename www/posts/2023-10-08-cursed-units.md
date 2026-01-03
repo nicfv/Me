@@ -1,5 +1,4 @@
 ---
-date: 2023-10-08
 updated: 2024-01-07
 categories:
   - Random

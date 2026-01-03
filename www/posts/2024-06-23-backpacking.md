@@ -1,5 +1,4 @@
 ---
-date: 2024-06-23
 updated: 2024-06-27
 categories:
   - Journal

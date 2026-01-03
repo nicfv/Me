@@ -1,5 +1,4 @@
 ---
-date: 2024-12-07
 categories:
   - Project
 tags:

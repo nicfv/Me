@@ -1,5 +1,4 @@
 ---
-date: 2024-11-03
 categories:
   - Journal
 tags:
