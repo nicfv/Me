@@ -2,8 +2,6 @@
 
 Here's a handy guide on how to write a killer 5-paragraph essay, just like a 5th grader would.
 
-<!-- more -->
-
 ## Recipe
 
 Here's the recipe for disaster:

@@ -4,8 +4,6 @@
 
 > Let me preface this by saying I've never had a moving violation before in my life. Of course, I will follow the flow of traffic on highways, but I will *always* stop at stop signs, use my turn signals, give other drivers and pedestrians plenty of space, constantly be aware of my surroundings, buckle up, and *never* go on my phone while driving.
 
-<!-- more -->
-
 ## Receiving a Ticket
 
 Weeks later, I got a mysterious letter in the mail. What could it be? It was addressed by the Superior Court of San Francisco. My heart sank a bit. Whatever it was, it wouldn't be good. I opened the letter and realized I got captured doing a right turn on red. Remembering back to that day, I was a bit confused since there was no indication that right turns on red were illegal. I even checked on Google Maps street view in that location and could not find a *no right turn on red* sign.

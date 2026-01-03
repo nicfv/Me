@@ -2,8 +2,6 @@
 
 Over the last week or so, I've been working on updating my website to make it look prettier, easier for a visitor to navigate, and easier for me to maintain. One major (but surprisingly simple!) project was to redirect my "permanent" domain to my "common" domain. Another major update was consolidating all my ["main" websites](./2023-08-12-mkdocs.md) as subdirectories under my common domain instead of using subdomains, which helps greatly for maintainability and uniformity. Lastly, the idea of setting up an Instagram account came about when encountering file size issues in my photography website.
 
-<!-- more -->
-
 I call [nicolasventura.com](https://nicolasventura.com/) my "permanent" domain because I intend to always keep it, since it is my full name after all! I doubt I will ever change my name. (Although... what would I change it to?) I call [nicfv.com](https://nicfv.com/) my "common" domain since that is the apex domain I'm using for all my websites, as well as my username for many of my accounts. My "common" domain is something that I might change in the future. I have no plans to change nicfv.com to anything else, **BUT** it's happened in the past... many times! I've owned all these domains sometime in the past:
 
 > **WARNING**: I no longer own these domains. Navigate to them at your own risk!!

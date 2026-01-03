@@ -2,8 +2,6 @@
 
 Here's another short story! I got to see 2 unique astronomical phenomena in the short span of a few weeks! On August 8, 2023, there was the rare occurrence of the moon passing directly between Earth and the Sun, causing a solar eclipse. And on May 10, 2024 there was something normally you can only see in the arctic. Aurora borealis, at this time of year, in this part of the country, localized entirely within my apartment! Well, that last part is false. But I still got to see it.
 
-<!-- more -->
-
 ## Solar Eclipse
 
 I was in Berkeley that day, so I could go to the eclipse watch party at the Lawrence Hall of Science. Sometime in the morning, a coworker and I headed up the hill and caught a ride from yet another coworker, which was awesome, so we didn't have to walk the whole way. When we got to the museum, we found out that it was free for lab employees that day. You could purchase a pair of eclipse glasses if you didn't have one, but luckily I had a pair from the prior eclipse in October, 2023.

@@ -2,8 +2,6 @@
 
 This weekend, I traveled far and wide within and around the San Francisco Bay Area, locally known as the Bay Area. On Friday through Monday, I traveled over 200 miles, and crossed 6 bridges to visit 5 cities, including my hometown. Despite all this commute, I only ended up paying $14 total in bridge tolls! Let this story be your guide on how to effectively navigate the complex and expensive web of Bay Area *FasTrak*.
 
-<!-- more -->
-
 ## What is FasTrak?
 
 Because many major cities are separated by water, the Bay Area has 8 major toll bridges to connect these populated areas. At the time of writing this, all of the bridge tolls are $7 to cross, except the Golden Gate Bridge, which depends on the number of axles and carpool status. For me, the Golden Gate (GG) Bridge costs $9.50 to cross. These fees are all paid to *FasTrak*. From Wikipedia:

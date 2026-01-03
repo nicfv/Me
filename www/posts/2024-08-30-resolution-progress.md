@@ -2,8 +2,6 @@
 
 We're nearing the end of August already. At the beginning of 2024, I had 2 simple New Year's resolutions. How am I doing? Did I keep them, or stop after a week, like most people?
 
-<!-- more -->
-
 ## Resolutions
 
 Well first of all, what were my New Year's resolutions for 2024? They were based on reading and writing, something I used to love doing (for fun!) but hard-stopped after going off to college. I remember reading a book per week (or in a few weeks) back in middle school. And I'm talking thick books too, like several hundred pages each. It's really sad that I stopped, and ever since then, I couldn't manage to get myself to pick up a book for fun.

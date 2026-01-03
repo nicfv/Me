@@ -2,8 +2,6 @@
 
 Anything can be a lot like the game of [rock, paper, scissors](./2021-01-05-rps.md), if you try hard enough. At least, it ought to be. I'll use this analogy for my proposed rules for crossing the road. It's a dangerous game, and maybe this idea could make it a bit safer.
 
-<!-- more -->
-
 ## Modes of Transportation
 
 We'll consider 3 modes of transportation and each of their interactions:

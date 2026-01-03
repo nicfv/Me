@@ -2,8 +2,6 @@
 
 I've been playing a lot of chess lately, mainly on Chess.com. It provides some great statistics and analyses of your games, but the features are limited unless you pay them money. I'd love to see the extended statistics, but I'm not interested right now in a subscription. In fact, I hate all subscription models, and avoid them like the plague. (But, I do understand that the developers need to eat.) Anyway, that's a different story. Here, I'm talking about the game of Chess.
 
-<!-- more -->
-
 ## Game Speeds
 
 An entire game of chess is played on the duration of your chess clock plus your opponent's chess clock. Chess.com offers 4 different "game speeds" as follows.

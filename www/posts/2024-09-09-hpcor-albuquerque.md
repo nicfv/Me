@@ -2,8 +2,6 @@
 
 It's that time of year again for HPCOR; the high performance computing operator's review! This time, my colleagues and I went to Sandia Labs in Albuquerque, New Mexico.
 
-<!-- more -->
-
 ## Mon, Sep 9, 2024
 
 This morning I drove to SFO's long-term parking and took the air train to my terminal. It wasn't super crowded, and I got through TSA pretty quickly, although I think the worker using the X-ray had never worked that machine in his life. Our bags were going through it so slowly and at one point there was a logjam of several bags at once coming out of the machine. After I finally retrieved my bags, I headed for the gate, where Norm already was. I had an hour to kill so I played a bit of Pokemon Go, and soon later, Ben showed up.

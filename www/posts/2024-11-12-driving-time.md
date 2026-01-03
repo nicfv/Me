@@ -2,8 +2,6 @@
 
 I don't think many people *like* driving to work. Some might - I personally *love* driving, but not when I have to. It makes me wonder, how much does it cost to drive for work-related purposes? I've developed a formula that takes into account not only the cost for gas, but also the cost of overhead services and opportunity cost associated with the time spent commuting to and from work.
 
-<!-- more -->
-
 ## Time Cost
 
 This one is easy and represents the direct time spent traveling on average per day. It takes the average one-way commute time $T_{1}$ and turns it into an average daily commute time based on frequency traveled to work per week $f_{w}$, assuming a 5-day work week.

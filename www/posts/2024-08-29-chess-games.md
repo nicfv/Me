@@ -2,8 +2,6 @@
 
 Without looking up the answer, how many possible games of Chess are there? Find out here in this excruciatingly long story! Do you think there are more games of Chess or atoms in the universe?
 
-<!-- more -->
-
 ## One-Turn Games
 
 It's easy to determine how many games of Chess there are, if only 1 move is allowed on each side. Unfortunately, the game is often played until one person gives or receives checkmate, which can be much greater than 1 turn. But for fun, how many possible games are there with only 1 move on each side?

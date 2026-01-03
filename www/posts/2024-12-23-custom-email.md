@@ -11,8 +11,6 @@ Go to
 
 I'm reviving an old series here. This one branches off of story [\#5](./2024-03-11-mail-plus.md), where I split up my Gmail account to use a custom email for each online account. But now, instead of exposing my Gmail account, I can use one of the custom domains I own to send *and* receive emails, directly in my Gmail mail client, for free! For example, I can now send and receive emails from an address like <example@nicfv.com>. It was an adventure to figure out this project and quite a lengthy headache at times.
 
-<!-- more -->
-
 ## Web Hosting
 
 Originally, I had achived this behavior using my web hosting provider. Before I learned about GitHub pages, I used **Hostinger** for all my web hosting needs. With the plan I paid for, I had more storage space than I ever needed, and it also came with a business email package. With that, I could use the domains I parked at Hostinger's nameservers to send and receive email. Hostinger has their own mail client, but they also provide [easy instructions](https://support.hostinger.com/en/articles/4305847-set-up-hostinger-email-on-your-applications-and-devices) on how to connect the business email to your personal Gmail account, to send and receive mail there.

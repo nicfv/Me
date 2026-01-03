@@ -2,8 +2,6 @@
 
 I'm currently writing this from my laptop running Kubuntu 24.04 in a public space; Peet's Coffee. (The matcha latte here is good.) I had some difficulty connecting to the public wifi. Luckily, I had my smartphone with me, which gave me options.
 
-<!-- more -->
-
 Normally, when you connect to these public free wifi networks, you'll get a popup on your phone or laptop asking to agree to some terms and conditions. The issue was that it was not popping up on my computer at all, meaning that even though I was technically online, I couldn't access anything on the internet.
 
 For one, I could have simply enabled wifi hotspot and connected my laptop to that. But since I was in a place with free wifi, I wanted to use that. The fact that I had my smartphone though was lucky, since I could look up potential solutions to my problem.

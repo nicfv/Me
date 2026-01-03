@@ -2,8 +2,6 @@
 
 I've been playing a lot of solitaire (Klondike 3) on my phone recently. My app has a timer, for some reason. It made me come up with some funny ideas like doing a solitaire speedrun. To my delight, it [already exists](https://www.speedrun.com/solitaire)! It's become a mild addiction, but this game has made me come up with an interesting question. How likely are you to win a game of solitaire? What is the maximum possible win rate that the best solitaire player can have?
 
-<!-- more -->
-
 ## Intro
 
 Everyone knows the game solitaire. It's a card game for 1 person to play with relatively simple rules, that was probably pre-installed on your old Windows PC. But surprisingly, it can be a very difficult game, because it's highly luck-based. In fact, beyond just spotting the valid moves, there is little skill involved. The main user input comes from:

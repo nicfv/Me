@@ -7,8 +7,6 @@ Go to
 
 Here we will figure out how many license plates have been issued in California and how many are left! Haven't yet read part one? Read it [here](./2024-09-20-ca-license-plate-1.md)!
 
-<!-- more -->
-
 ## Simple Alphanumeric Sequence
 
 Like we did in the first part of the story, let's start with a simple example. Let's say we have a 2-character license plate with a number-letter:

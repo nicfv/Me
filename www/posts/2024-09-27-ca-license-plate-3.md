@@ -7,8 +7,6 @@ Go to
 
 This story is totally unnecessary, but I will show the general form of a formula going from sequence number to license plate and vice-versa.
 
-<!-- more -->
-
 ## Defining the Alphabet
 
 Similarly to what we did for the letter sequence in [part 1](./2024-09-20-ca-license-plate-1.md), we need to correspond each character with a zero-indexed numeric value. For each character in the license plate, there is a corresponding "alphabet." This may not necessarily be "A-Z" or "0-9". In fact, it could contain a subset of letters and numbers, not even in order! This is a very weird, but valid alphabet containing 15 possible characters, let's call it "alphabet \#1", or $A_{1}$:

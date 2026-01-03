@@ -2,8 +2,6 @@
 
 One of my passion projects that's long-due completion was a dimensional analysis tool for computer programming. Programming has been a long-time hobby of mine and ever since I took physics and fluid mechanics in college, I wondered how to incorporate units into programming languages. Thus, [`Dimensional`](https://www.npmjs.com/package/dimensional) was born. It may not be the *most* elegant solution, but I believe I've come up with a solution that works pretty well regardless, and is fully customizable.
 
-<!-- more -->
-
 My goal was to create a tool that allowed users to add units and dimensions alongside their numerical components. I had a few sub-goals in mind that I wanted to achieve before releasing this package to the public.
 
 1. Allow combinations "compounds" of dimensions and units independently from quantities

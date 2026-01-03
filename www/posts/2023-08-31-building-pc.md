@@ -2,8 +2,6 @@
 
 Want to learn about my frustrating journey to building my second PC? Read on!
 
-<!-- more -->
-
 ## Part I: Diagnosis
 
 Sometime in August 2023, my power shut off for a few hours when I wasn't home. I'm not sure if this was the reason, but when I returned home, my computer would no longer turn on. To be more precise, it was getting power, the fans were spinning, but none of the LEDs would light up, and of course, no signal to the monitor. I tried everything I could find online to fix my PC, including but not limited to...

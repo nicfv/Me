@@ -11,8 +11,6 @@ Go to
 
 Here is the second story in my series on getting digital things organized... although, I have been working on this project for the past year. That means, this series is not in chronological order. Oh, well! So here goes the evolution of my passwords. If you're a wannabe hacker trying to crack open my accounts, don't waste your time here. No passwords are revealed in the making of this story. ;)
 
-<!-- more -->
-
 ## My Naive Approach
 
 I have hundreds of online accounts. Not intentionally, sometimes you just need to create an account to make a post, play a game, or share some content. Things like that. So they quickly accumulate. I'm sure many people have hundreds of accounts, or maybe even much more, without realizing it. I used to do the one worst thing possible - having the same password for everything. If this is you, *please* change your passwords! RIGHT NOW! I was lucky and never got hacked, but consider this. If passwords got leaked from some stupid flash game I played back in the 2010s, someone would guess that for my email password and boom, I'm done for. If someone gets your email password, even if you don't have the same password for *everything*, a hacker can easily do a "forgot password" and gain access to your other accounts.

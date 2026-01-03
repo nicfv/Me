@@ -2,8 +2,6 @@
 
 It's no secret that I'm developing a series of [npm packages](https://www.npmjs.com/~nicfv). The primary reason I'm doing this is for code reuse. I want to build up more complex programs using as much of my own software as possible. Second, the packages I'm developing might also benefit other developers. Also, the secret third reason I'm doing this is just for fun. Although there have been times where I really questioned my secret third reason. One of those recent times was when I changed my development strategy from maintaining several independent repositories to maintaining just one [monorepo](https://github.com/nicfv/npm) containing all my packages.
 
-<!-- more -->
-
 ## The Naive Approach
 
 Originally, I did this a very naive way, by simply merging all the packages into one repository, but keeping each workspace separated from one another.

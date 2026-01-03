@@ -2,8 +2,6 @@
 
 Here is a brief analysis of costs from my recent 2-week (12-day) [trip to Japan](./2024-07-01-japan.md).
 
-<!-- more -->
-
 ## Spending During the Trip
 
 As there were 4 of us on the trip, all staying at the same hotel, taking the same trains, and often eating together, we didn't split every single cost. Often times, one person would just front the cash and expect to balance out the costs after the trip.

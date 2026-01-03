@@ -4,8 +4,6 @@
 
 On October 6, I raced in the [Bay Front Run](https://www.bayfrontrun.com/)! This is an annual 5K along the Bay Front Trail in Hercules, CA, which benefits the Hercules Education Foundation. I forgot to write about this achievement, so here it is, well over a month later.
 
-<!-- more -->
-
 I originally heard about this race through my dad, since his work is one of the main sponsors of this event. There were options to sign up for a 1-mile, 5K, or 10K. I decided to do the 5K, since the course for the 10K was just the 5K course repeated twice, so it wouldn't be that interesting for me. The 5K was already an out-and-back course, which was an interesting design for a race, to say the least.
 
 I planned to take this race seriously, but I definitely did not train as hard as I should have. I averaged a bit under 20 miles per week for the few weeks leading up to the race. I benchmarked myself a few times, and some of my better runs were a 5:48 mile, and a 2-miler with the average pace of 6:43/mi. I continued running with both of my [running clubs](./2024-09-08-marina-run-club.md) for additional training.

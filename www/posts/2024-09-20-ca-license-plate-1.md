@@ -7,8 +7,6 @@ Go to
 
 License plates in the state of California follow an interesting pattern with 7 letters and numbers, and we're going to run out soon! Everyone panic!! However, this journal isn't about that just yet, but we're building up to it.
 
-<!-- more -->
-
 ## Simple Numeric Sequence
 
 First things first, if we have let's say a simple 3-digit license plate of all numbers, going sequentially up, like this:

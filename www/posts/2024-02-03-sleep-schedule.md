@@ -2,8 +2,6 @@
 
 After returning from Europe, or any other continent, for that matter, the following few days are always goofy because of the extreme jet lag. For example, the time zone in France is GMT+1 and California is GMT-8, making a total time change of 9 hours. Ever since returning from the [trip to France](./2023-12-16-france.md), I've *tried* to follow a new sleep schedule. The word *tried* is highly emphasized, because I am by no means strictly following this.
 
-<!-- more -->
-
 Pre-France-trip, I was on (what I call) the "college cycle." I ate dinner around 7-8 PM, started getting ready for bed at 10, in bed at 11, and went on my phone for about an hour before trying to sleep around midnight or later. Then I would wake up at 8 AM and rush to hop on the morning Zoom work call. I'd wait to get ready and eat breakfast until afterwards. It definitely wasn't the best idea for my schedule and caused me a bit of stress.
 
 Then, my family and I went to [France for Noel/Christmas](./2023-12-16-france.md). I definitely had my issues with sleep there, partially due to being sick for so long. However, I think this was a good "reset" for my circadian rhythm. Throughout the trip, I did eventually get acustomed to the French time zone.

@@ -6,8 +6,6 @@ Have you ever tried to sign up for something, and you get this frustrating messa
 
 If you have an idea of how many accounts are signed up on that website, you can use some math tricks to find out how to find a good username without being forced to guess over and over.
 
-<!-- more -->
-
 ## Intro
 
 One of the first things you need in order to set up an account on any website is a unique username and a good password. One of the first things you need in order to set up a website is a unique domain name. Ideally, good usernames and domain names are easy to spell and remember.

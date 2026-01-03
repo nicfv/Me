@@ -2,8 +2,6 @@
 
 I'm slacking on my journal writing! I realize that I never wrote about buying my house (really a condo)... so here goes!
 
-<!-- more -->
-
 ## Origin Story
 
 I realized I hated landlords ever since I started renting in college. I'll write another story about that, but let's just say that landlords stink. There might be a few good ones out there, but I think "ethical" and "landlord" is mutually exclusive. I really wanted to own my own property, even if I had to pay more than I would renting. I remember going to open houses from Davis through Fairfield during college. These were typically legit houses, (or "hice", as I would say) and of course I would not be able to afford any of them. I remember asking about one of the agents in an open house about the competitiveness, she told me "this house for under a million is going to be gone in a week." Geez! I never followed up with it to see how much it sold for, but I'm sure buyers were outbidding each other. What a great outlook so far.

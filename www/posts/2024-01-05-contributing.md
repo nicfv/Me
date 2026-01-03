@@ -6,8 +6,6 @@ I've made my first\* contribution into a major open-source project!
 
 \* Well, actually, I did make a [minor contribution](https://github.com/psychrometrics/psychrolib/pull/82) into an open-source project called [Psychrolib](https://github.com/psychrometrics/psychrolib) - which my [Psychart](https://psychart.nicfv.com/) application is dependent upon, but that could be its own story. Based on the number of watchers, forks, and stars, this next project dwarfs poor Psychrolib in comparison, despite how important Psychrolib is for my work.
 
-<!-- more -->
-
 ## Material
 
 As I've written in several of my articles before, I'm using a software called `mkdocs` to generate my website. It takes in a configuration file and markdown files to generate a beautiful and interactive HTML5 website. As part of the configuration file you need to define a theme, in which case I am using by far the most popular theme called `material`. Honestly, it's a lot more than a theme and brings about some very integrated functionality into the built website, and even has its own plugins! At the time of writing this, `material` has nearly 17k GitHub stars (almost as much as `mkdocs` itself!) and it actually has **more** forks (3.2k) and **more** individual contributors (266) than `mkdocs` (2.4k and 234)!
