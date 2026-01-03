@@ -29,23 +29,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Install Packages
-        run: pip install mkdocs mkdocs-material
+      - name: Setup Node
+        uses: actions/setup-node@v6
       - name: Checkout
-        uses: actions/checkout@v4
-      - name: Verify Blog Dates
-        run: ./.github/workflows/run -bv
-      - name: Write Date
-        run: ./.github/workflows/run -dv
+        uses: actions/checkout@v6
       - name: Build Website
-        run: mkdocs build
+        run: npm run build
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
-          # Upload site/ directory
-          path: 'site'
+          # Upload _site/ directory
+          path: '_site'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

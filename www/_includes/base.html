@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>{{ title }}</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Nicolas Ventura">
+    <meta name="description" content="{{ content | excerpt }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/media/icon.png" />
+    <link rel="stylesheet" type="text/css" href="/media/style.css" />
+    <script type="text/javascript" src="/media/script.js" defer></script>
+    <!-- https://icons.getbootstrap.com/ -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css" />
+    <!-- https://www.mathjax.org/ -->
+    <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js" defer></script>
+    <!-- https://highlightjs.org/ -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <a href="/" title="Go to the homepage"><strong>Nicolas Ventura</strong></a>
+        {%- for item in collections.all -%}
+        {%- unless item.url == '/' or item.data.tags contains 'post' -%}
+        <a href="{{ item.url }}">{{ item.templateContent | title }}</a>
+        {%- endunless -%}
+        {%- endfor -%}
+        {%- for link in header -%}
+        <a href="{{ link[1] }}" target="_blank">{{ link[0] }} &nearr;</a>
+        {%- endfor -%}
+    </header>
+    <main>
+        <div>{{ content }}</div>
+        {%- if tags contains 'post' -%}
+        <p style="color: gray;">Published on {{ page.date | date_to_long_string }}. <a href="/">Go back</a> to all posts.</p>
+        {%- endif -%}
+    </main>
+    <footer>
+        <div>&copy; {{ 'now' | date:'%Y' }} Nicolas Ventura</div>
+        <div>
+            {%- for link in footer -%}
+            <a href="{{ link[1] }}" title="{{ link[0] }}" target="_blank">
+                <i class="bi bi-{{ link[0] | slugify }}"></i></a>
+            {%- endfor -%}
+        </div>
+    </footer>
+</body>
+
+</html>
