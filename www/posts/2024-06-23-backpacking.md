@@ -10,4 +10,50 @@ I guess Point Reyes is a super popular backpacking spot in the Bay Area, so ever
 
 Remy came over after noon and we drove over to Olema, where there is the visitor center and trailhead. The trail was super nice, shaded, and well maintained, although I'm pretty sure we brushed past a lot of poison oak. Luckily both of us wore pants. We saw a bunch of deer and banana slugs, and some birds, lizards, and other critters. Not too many people were on the trail that day so it was quiet and peaceful, except for Remy and I just being loud and stupid.
 
-After about 3.5 miles-ish of hiking, we made it to the campsite and unloaded our gear. The sun was still high up so we didn't get much shade for a while. We set up our tent and made some fancy frozen dinner cooked by pouring hot water in the bag of food. We got some awesome views of the sunset over the Pacific Ocean and it was super comfortable at night, not cold at all. The only problem was that the mosquitos were hungry! It was a beautiful trip, and I took several [photos](../../photos/2024/Sky-Camp.md).
+After about 3.5 miles-ish of hiking, we made it to the campsite and unloaded our gear. The sun was still high up so we didn't get much shade for a while. We set up our tent and made some fancy frozen dinner cooked by pouring hot water in the bag of food. We got some awesome views of the sunset over the Pacific Ocean and it was super comfortable at night, not cold at all. The only problem was that the mosquitos were hungry! It was a beautiful trip, and I took several photos.
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRC4Yvv9g/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRL1HPbF6/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRRsBPm7F/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRV50vwRP/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRYqWPN2U/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRg1LPY0E/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRl1gvvBq/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRpsjPymQ/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRuLAPSaO/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRzv3viyR/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vR-DlvO7C/">
+</blockquote>
