@@ -69,7 +69,8 @@ a:active {
 }
 
 table,
-img {
+img,
+.instagram-media {
     width: 100%;
 }
 
