@@ -34,7 +34,7 @@
     <main>
         <div>{{ content }}</div>
         {%- if tags contains 'post' -%}
-        <p style="color: gray;">Published on {{ date | date_to_long_string }}. <a href="/">Go back</a> to all posts.</p>
+        <p style="color: gray;">Published on {{ page.date | date_to_long_string }}. <a href="/">Go back</a> to all posts.</p>
         {%- endif -%}
     </main>
     <footer>
