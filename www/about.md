@@ -1,0 +1,5 @@
+# About
+
+Hi! My name is Nicolas (he/him), pronounced "Nikola" or just Nic. I'm currently a data center engineer at the [NERSC](https://www.nersc.gov/) scientific supercomputer facility, and am a [licensed PE](https://search.dca.ca.gov/?BD=31) (professional engineer) in the state of California in the field of control systems. My resume is available for download via the link in the footer.
+
+I am also an avid long-distance runner, completing the Napa Valley Marathon in [04:14:52](https://results.svetiming.com/napa-valley-marathon/events/2023/kaiser-permanente-napa-valley-marathon/1311/entrant?share=1) in 2023, and I frequently post my runs on [Strava](https://www.strava.com/athletes/nicfv) so I can track my progress. Feel free to drop a follow!
