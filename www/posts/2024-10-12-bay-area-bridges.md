@@ -72,7 +72,7 @@ Because of my home's geography within the Bay Area, I am able to take advantage 
 | Marin (R/SR) East Bay -> South Bay -> Peninsula (GG) Marin | 2 | $0 | 133 | CW | San Rafael, Richmond, San Jose, San Francisco |
 | Peninsula (Dum.) East Bay -> South Bay -> Peninsula | 1 | $0 | 53 | CW | Palo Alto, Fremont, San Jose |
 | Peninsula (SM/H) East Bay -> South Bay -> Peninsula | 1 | $0 | 76 | CW | San Mateo, Hayward, San Jose |
-| Peninsula (Bay) East Bay -> South Bay -> Peninsula | 1 | $0 | 101 | CW | San Francisco, Oakland, Jan Jose |
+| Peninsula (Bay) East Bay -> South Bay -> Peninsula | 1 | $0 | 101 | CW | San Francisco, Oakland, San Jose |
 | North Bay (Antioch) East Bay -> Valley -> North Bay | 1 | $0 | 85 | CCW | Stockton, Rio Vista, Antioch |
 | North Bay (B/M) East Bay -> Valley -> North Bay | 1 | $0 | 135 | CCW | Stockton, Benicia, Martinez |
 | North Bay (Carq.) East Bay -> Valley -> North Bay | 1 | $0 | 139 | CCW | Stockton, Vallejo, Crockett |
