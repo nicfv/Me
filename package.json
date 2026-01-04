@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "TZ=UTC npx @11ty/eleventy",
+    "build": "npx esbuild www/media/script.js --minify --format=iife --outfile=www/media/script.js --allow-overwrite && TZ=UTC npx @11ty/eleventy",
     "serve": "TZ=UTC npx @11ty/eleventy --serve",
     "clean": "rm -rf _site"
   },
