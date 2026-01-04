@@ -44,6 +44,11 @@ footer {
     align-items: center;
 }
 
+nav {
+    display: flex;
+    flex-direction: column;
+}
+
 p {
     text-align: justify;
 }
