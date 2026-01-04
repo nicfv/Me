@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
+    "build": "TZ=UTC npx @11ty/eleventy",
+    "serve": "TZ=UTC npx @11ty/eleventy --serve",
     "clean": "rm -rf _site"
   },
   "type": "module"
