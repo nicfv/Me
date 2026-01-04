@@ -20,4 +20,16 @@ function slugify(str = '') {
 }
 
 // Add slugs to all header elements
-document.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(element => element.setAttribute('id', slugify(element.textContent)));
+const toc = document.getElementById('toc');
+document.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(element => {
+    const slug = slugify(element.textContent);
+    const depth = +(element.tagName.match(/\d/)[0]);
+    element.setAttribute('id', slug);
+    if (toc) {
+        const tocLink = document.createElement('a');
+        toc.appendChild(tocLink);
+        tocLink.textContent = element.textContent;
+        tocLink.style.marginLeft = `${depth}rem`;
+        tocLink.setAttribute('href', `#${slug}`);
+    }
+});
