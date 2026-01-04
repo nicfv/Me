@@ -65,3 +65,67 @@ I enjoy taking photos on my adventures. Here is an album of some of my favorite 
 <blockquote class="instagram-media" data-instgrm-captioned
     data-instgrm-permalink="https://www.instagram.com/p/C61kAgEReiN/">
 </blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C7bxe9DxqLy/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C7rYGsNRvxc/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C8vRg1LPY0E/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C9tkl3ERV7I/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C9tpAjOxf_X/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C9trgNNRqj-/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/C_rS3-xSLYZ/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DDoM9nkxUlP/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DDoNamfx2xh/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DQNl33sj1ax/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DQNoz9NDz9N/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DSyKtT4Euyf/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DSyQHdPkr26/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DSyQ6akktx1/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DSyRk8EktSQ/">
+</blockquote>
+
+<blockquote class="instagram-media" data-instgrm-captioned
+    data-instgrm-permalink="https://www.instagram.com/p/DSySKm1Ehqa/">
+</blockquote>
