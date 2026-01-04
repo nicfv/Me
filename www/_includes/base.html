@@ -32,6 +32,11 @@
         {%- endfor -%}
     </header>
     <main>
+        {%- if tags contains 'post' -%}
+        <nav id="toc">
+            <p><strong>Table of Contents</strong></p>
+        </nav>
+        {%- endif -%}
         <div>{{ content }}</div>
         {%- if tags contains 'post' -%}
         <p style="color: gray;">Published on {{ page.date | date_to_long_string }}. <a href="/">Go back</a> to all posts.</p>
