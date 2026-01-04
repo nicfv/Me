@@ -4,7 +4,7 @@ This weekend, I traveled far and wide within and around the San Francisco Bay Ar
 
 ## What is FasTrak?
 
-Because many major cities are separated by water, the Bay Area has 8 major toll bridges to connect these populated areas. At the time of writing this, all of the bridge tolls are $7 to cross, except the Golden Gate Bridge, which depends on the number of axles and carpool status. For me, the Golden Gate (GG) Bridge costs $9.50 to cross. These fees are all paid to *FasTrak*. From Wikipedia:
+Because many major cities are separated by water, the Bay Area has 8 major toll bridges to connect these populated areas. At the time of writing this, all of the bridge tolls are \\$7 to cross, except the Golden Gate Bridge, which depends on the number of axles and carpool status. For me, the Golden Gate (GG) Bridge costs \\$9.50 to cross. These fees are all paid to *FasTrak*. From Wikipedia:
 
 > The Bay Area Fastrak is a toll collection system operated by the Bay Area Toll Authority (BATA) for the nine-county San Francisco Bay Area. It provides a convenient, cash-free way to pay tolls on bridges and Express Lanes.
 
