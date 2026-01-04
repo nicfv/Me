@@ -19,7 +19,7 @@ function slugify(str = '') {
         .replaceAll(/-+/g, '-');
 }
 
-// Add slugs to all header elements
+// Add slugs to all header elements and generate the table of contents
 const toc = document.getElementById('toc');
 document.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(element => {
     const slug = slugify(element.textContent);
@@ -31,5 +31,15 @@ document.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(element => {
         tocLink.textContent = element.textContent;
         tocLink.style.marginLeft = `${depth}rem`;
         tocLink.setAttribute('href', `#${slug}`);
+    }
+});
+
+// Post-process all hyperlinks to other markdown files
+document.querySelectorAll('a[href]').forEach(a => {
+    const currentHref = a.getAttribute('href');
+    const regex = /^\.\/(.+)\.md$/;
+    const match = currentHref.match(regex);
+    if (match) {
+        a.setAttribute('href', `/${slugify(match[1])}/`);
     }
 });
