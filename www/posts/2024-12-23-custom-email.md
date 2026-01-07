@@ -1,5 +1,3 @@
-# Custom Domains in Gmail
-
 Go to
 | [\#1](./2024-02-11-backup.md)
 | [\#2](./2024-02-18-passwords.md)
@@ -8,6 +6,8 @@ Go to
 | [\#5](./2024-03-11-mail-plus.md)
 | [\#6](./2024-04-28-gatekeep.md)
 | \#7
+
+# Custom Domains in Gmail
 
 I'm reviving an old series here. This one branches off of story [\#5](./2024-03-11-mail-plus.md), where I split up my Gmail account to use a custom email for each online account. But now, instead of exposing my Gmail account, I can use one of the custom domains I own to send *and* receive emails, directly in my Gmail mail client, for free! For example, I can now send and receive emails from an address like <example@nicfv.com>. It was an adventure to figure out this project and quite a lengthy headache at times.
 
