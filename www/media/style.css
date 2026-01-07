@@ -3,6 +3,7 @@
 * {
     box-sizing: border-box;
     outline: none;
+    border-collapse: collapse;
 }
 
 html,
@@ -77,6 +78,19 @@ table,
 img,
 .instagram-media {
     width: 100%;
+}
+
+table th,
+table td {
+    padding: 0.25rem;
+}
+
+table thead {
+    background: lavender;
+}
+
+tbody tr:nth-child(2n) {
+    background: ghostwhite;
 }
 
 footer a .bi,
