@@ -37,9 +37,9 @@ document.querySelectorAll('h1,h2,h3,h4,h5,h6').forEach(element => {
 // Post-process all hyperlinks to other markdown files
 document.querySelectorAll('a[href]').forEach(a => {
     const currentHref = a.getAttribute('href');
-    const regex = /^\.\/(.+)\.md$/;
+    const regex = /^\.\/(.+)\.md(#[a-z0-9-]+)?$/;
     const match = currentHref.match(regex);
     if (match) {
-        a.setAttribute('href', `/${slugify(match[1])}/`);
+        a.setAttribute('href', `/${slugify(match[1])}/${match[2] ?? ''}`);
     }
 });
