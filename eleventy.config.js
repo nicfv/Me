@@ -19,4 +19,10 @@ export default function (eleventyConfig) {
             return '';
         }
     });
+    eleventyConfig.addCollection('nav', api => {
+        return api.getAll()
+            .filter(page => page.url !== '/')
+            .filter(page => !(page.data.tags ?? []).includes('post'))
+            .sort((a, b) => a.fileSlug.localeCompare(b.fileSlug));
+    });
 }
