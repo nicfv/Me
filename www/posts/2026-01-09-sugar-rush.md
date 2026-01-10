@@ -1,6 +1,6 @@
 # Sugar Rush
 
-For Christmas, my girlfriend and I received a lot of gifts, most of them containing chocolate. Enough to give a man diabeetus or make your dentist cry.
+For Christmas, my girlfriend and I received a lot of gifts, most of them containing chocolate. Enough to give a man diabeetus or make your dentist cry. But just how much chocolate was it?
 
 ## The Haul
 
@@ -8,11 +8,11 @@ For Christmas, my girlfriend and I received a lot of gifts, most of them contain
 - 1 **chocolate orange**, cut into chocolate orange slices.
 - 4 sticks of chocolate from *Goumas*, a candy store in Ohio.
 - 1 box of **buckeyes** from an Amish grocery store in Ohio.
-- 2 **Dubai chololates**. Everyone loves 'em, just gotta find out how well chocolate and pistachios go together!
+- 2 **Dubai chololates**. Everyone loves 'em, chocolate and pistachios go well together!
 - 21 triangular prisms of **Toblerone**. That's right, count 'em. **21**.
 - And a partridge in a pear tree?
 
-## Totals
+## Nutrition
 
 | Type | Quantity | Chocolate [g] | Sugar [g] | Calories | g Sugar/g Choc | Cal/g Choc |
 | ---- | --------:| -------------:| ---------:| --------:| --------------:| ----------:|
@@ -26,13 +26,13 @@ For Christmas, my girlfriend and I received a lot of gifts, most of them contain
 
 ## Conclusion
 
-Look at all that! In total, we had 3.6kg of chocolate, 2kg of *just* sugar, containing 19,000 Calories! It seems like the mass of sugar is around 40% to 60% of the total mass of the chocolate. Also, each piece of chocolate contained anywhere from 4.8 to 5.5 Calories per gram of chocolate.
+Look at all that! In total, we had 3.6kg of chocolate, 2kg of *pure* sugar, all containing 19,000 Calories! It seems like the mass of sugar is around 40% to 60% of the total mass of the chocolate. Also, each piece of chocolate contained anywhere from 4.8 to 5.5 Calories per gram of chocolate.
 
 Unfortunately, I didn't have nutrition facts for the *Goumas* chocolates nor the buckeyes, but I estimated that they contained 50% sugar and about 5 Calories per gram to stay about in line with the other chocolates.
 
 ## Comparisons
 
-3600 grams of chocolate is 3.6 kilograms. 3.6 kilograms is nearly 8 pounds! That's about the weight of a domestic cat, or about 32 bananas. Assuming that one serving of chocolate is around 30 grams (close to 1 oz), we received 120 servings of chocolate! If you ate 3 servings per day, that would feed you for 40 days.
+3600 grams of chocolate is 3.6 kilograms, and 3.6 kilograms is nearly 8 pounds! That's about the weight of a domestic cat, or about 32 bananas. Assuming that one serving of chocolate is around 30 grams (close to 1 oz), we received 120 servings of chocolate! If you ate 3 servings per day, that would feed you for 40 days.
 
 2000 grams of sugar is 2 kilograms, which is about 4.4 pounds! Thats about the weight of a full 2-liter bottle of water, or about 18 bananas. The daily value of sugar is about 50 grams per day. That chocolate contained enough sugar for 40 days, or if consumed in one day, the worst cavities in your life.
 
