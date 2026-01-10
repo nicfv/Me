@@ -14,11 +14,12 @@ For Christmas, my girlfriend and I received a lot of gifts, most of them contain
 
 ## Totals
 
-| Type | Quantity | Chocolate [g] | Sugar [g] | Calories |
-| ---- | -------- | ------------- | --------- | -------- |
-| Ghirardelli | 1 | 224 | 114 | 1200 |
-| Orange | 1 |  |  |  |
-| Goumas | 4 |  |  |  |
-| Buckeyes | 1 | 9 |  |  |
-| Dubai | 2 |  |  |  |
-| Toblerone | 21 |  |  |  |
+| Type | Quantity | Chocolate [g] | Sugar [g] | Calories | g Sugar/g Choc | Cal/g Choc |
+| ---- | -------- | ------------- | --------- | -------- | -------------- | ---------- |
+| Ghirardelli | 1 | 224 | 114 | 1200 | 51% | 5.4 |
+| Orange | 1 | 157 | 95 | 750 | 61% | 4.8 |
+| Goumas | 4 | 200? | 100? | 1000? | 50%? | 5.0? |
+| Buckeyes | 1 | 255 | 128? | 1275 | 50%? | 5.0? |
+| Dubai | 2 | 30 | 13 | 164 | 43% | 5.5 |
+| Toblerone | 21 | 100 | 60 | 540 | 60% | 5.4 |
+| **Total** |  | 3600 | 2000 | 19000 |  |  |
