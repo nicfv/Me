@@ -8,7 +8,7 @@ For Christmas, my girlfriend and I received a lot of gifts, most of them contain
 - 1 **chocolate orange**, cut into chocolate orange slices.
 - 4 sticks of chocolate from *Goumas*, a candy store in Ohio.
 - 1 box of **buckeyes** from an Amish grocery store in Ohio.
-- 2 **Dubai chololates**. Everyone loves 'em, chocolate and pistachios go well together!
+- 2 **Dubai chocolates**. Everyone loves 'em, chocolate and pistachios go well together!
 - 21 triangular prisms of **Toblerone**. That's right, count 'em. **21**.
 - And a partridge in a pear tree?
 
