@@ -27,9 +27,6 @@
         <a href="{{ item.url }}">{{ item.templateContent | title }}</a>
         {%- endunless -%}
         {%- endfor -%}
-        {%- for link in header -%}
-        <a href="{{ link[1] }}" target="_blank">{{ link[0] }} &nearr;</a>
-        {%- endfor -%}
     </header>
     <main>
         {%- if tags contains 'post' -%}
