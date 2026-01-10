@@ -1,0 +1,50 @@
+[
+    {
+        "head": "Finance",
+        "name": "Time Value of Money",
+        "url": "https://tools.nicfv.com/tvm/",
+        "about": "Calculate the time value of money using various equations."
+    },
+    {
+        "name": "Interest Calculator",
+        "url": "https://tools.nicfv.com/interest/",
+        "about": "A collection of formulas that calculate parameters for an environment with an interest rate."
+    },
+    {
+        "head": "Science",
+        "name": "Psychart",
+        "url": "https://psychart.nicfv.com/",
+        "about": "Plot thermodynamic conditions of air on a psychrometric chart, optionally displaying comfort zones."
+    },
+    {
+        "name": "Unit Converter",
+        "url": "https://tools.nicfv.com/dimensional/",
+        "about": "Convert anything to anything! Build complex units and analyze dimensions."
+    },
+    {
+        "name": "Dimensional Playground",
+        "url": "https://tools.nicfv.com/dimensional-playground/",
+        "about": "Presents a live editor with the `dimensional` package ready to use."
+    },
+    {
+        "name": "File to Data URL",
+        "url": "https://tools.nicfv.com/data-url/",
+        "about": "Encode any file as a data URL that can be directly embedded into a source code file."
+    },
+    {
+        "head": "Gaming",
+        "name": "Wordle Helper",
+        "url": "https://tools.nicfv.com/wordle/",
+        "about": "Filters the wordle dictionary based on your previous guesses to help you make an informed next guess."
+    },
+    {
+        "name": "Hearts Helper",
+        "url": "https://tools.nicfv.com/hearts/",
+        "about": "Help counts cards specifically for the game, Hearts."
+    },
+    {
+        "name": "Pokemon Go Catch Rate",
+        "url": "https://tools.nicfv.com/pokemon-go/",
+        "about": "A catch rate calculator for the mobile game, Pokemon Go."
+    }
+]
