@@ -3,5 +3,10 @@
         "name": "Hexles",
         "url": "https://hexles.nicfv.com/",
         "about": "Capture as many tiles as you can on a hexagonal board."
+    },
+    {
+        "name": "Cave Explorer",
+        "url": "http://games.nicfv.com/cave-explorer/",
+        "about": "Explore the map and collect items."
     }
 ]
