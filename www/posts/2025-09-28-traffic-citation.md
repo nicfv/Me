@@ -23,7 +23,7 @@ Really.
 
 ## Fight or Pay
 
-This citation came with a steep fine: \$500 and one point on my driving record. I could waive the point by taking an online course and paying an additional administrative fee of \$50, bringing the grand total to over \$550.
+This citation came with a steep fine: \\$500 and one point on my driving record. I could waive the point by taking an online course and paying an additional administrative fee of \\$50, bringing the grand total to over \\$550.
 
 > For reference, this is the same [fine amount](https://www.sfmta.com/projects/speed-safety-cameras) for someone speeding over 100mph in city streets!
 
@@ -44,11 +44,11 @@ A few weeks later, I headed over to the Superior Court (by bus - no way am I goi
 
 Most people went with the no contest plea for the reduced fine, but a large handful of people opted for the trial date. One person in particular surprised me who asked for the trial date, but didn't want to see the evidence against him.
 
-I was the very last person in the room to be called up. I asked for the no contest plea and was finally free from that courtroom. This dropped my fine from \$550 to about \$350 with traffic school. Not bad. I did waste about 3 or 4 hours of my day, but I say the savings were worth it.
+I was the very last person in the room to be called up. I asked for the no contest plea and was finally free from that courtroom. This dropped my fine from \\$550 to about \\$350 with traffic school. Not bad. I did waste about 3 or 4 hours of my day, but I say the savings were worth it.
 
 ## The Aftermath
 
-The following week, I signed up for online traffic school (only \$5) and was able to complete it within a few hours. I promptly paid my citation balance to finally get this mess behind me.
+The following week, I signed up for online traffic school (only \\$5) and was able to complete it within a few hours. I promptly paid my citation balance to finally get this mess behind me.
 
 After this experience, I've decided to minimize or completely stop driving into San Francisco. I've always had frustrations driving through those city streets, and this was the final push for me. San Francisco is a great city but it is not driver-friendly at all. Thankfully, it's relatively easy to get into the city without a car if need be.
 

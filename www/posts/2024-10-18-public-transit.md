@@ -35,10 +35,10 @@ I'm fortunate not to need it, but I tried taking public transit to work today! S
 | Total commute time | 1:34 |
 | Total walk time | 0:19 |
 | Total wait time | 0:03 |
-| Bus fare | \$7.80 (\$0) |
-| BART fare | \$4.75 |
-| Shuttle fare | \$0 |
-| Total cost | \$12.55 |
+| Bus fare | \\$7.80 (\\$0) |
+| BART fare | \\$4.75 |
+| Shuttle fare | \\$0 |
+| Total cost | \\$12.55 |
 
 ## Comparison to Driving
 
@@ -50,7 +50,7 @@ On highways, my mileage can be about 30 mpg, which makes the math easy. It takes
 
 Parking is free.
 
-Therefore, the total cost of driving is 1 gallon of gas plus $3.50 toll. If gas is around $5/gal, then it costs me $8.50 to get to work. This does not include other costs such as maintenance, insurance, and registration that is required to own and operate the vehicle in the first place. Assuming an arbitrarily-chosen "wear-and-tear" cost of $0.05/mi, that would bump up my cost to $10 for a one-way trip to or from work.
+Therefore, the total cost of driving is 1 gallon of gas plus \\$3.50 toll. If gas is around \\$5/gal, then it costs me \\$8.50 to get to work. This does not include other costs such as maintenance, insurance, and registration that is required to own and operate the vehicle in the first place. Assuming an arbitrarily-chosen "wear-and-tear" cost of \\$0.05/mi, that would bump up my cost to \\$10 for a one-way trip to or from work.
 
 Surprisingly, driving is still cheaper, but 100% of the time spent driving is lost, I cannot work while driving. (Except for maybe join a Zoom call, but a cop could stop you if they see you messing around on your phone.) On public transit, only about 20% of the time is lost - the remaining 80% can be used to start (and end) your work day early. This also assumes you can manage to get a seat on the bus or BART so you can open a laptop. One final argument for public transit is that I don't have to worry about getting a parking ticket, or having my car broken into while unattended. However, you run the risk of pickpockets or thieves on BART.
 
