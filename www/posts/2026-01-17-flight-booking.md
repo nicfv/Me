@@ -1,6 +1,6 @@
 # Flight Booking
 
-When you book a flight, you receive a 6-or-so digit confirmation number that is used to check in before boarding. You can also use the confirmation number to modify your flight details such as changing your seat, requesting upgrades, and even cancel your flight completely. The airline puts no effort into hiding this code. In fact, if you want to share your itinerary, your confirmation code will be right on the email! Being able to modify your flight with just the confirmation code is a really unsafe practice that I think travelers ought to be able to opt-out of.
+When you book a flight, you receive a 6-or-so digit confirmation number that is used to check in before boarding. You can also use the confirmation number to modify your flight details such as changing your seat, requesting upgrades, and even cancel your flight completely. The airline puts no effort into hiding this code. In fact, if you want to share your itinerary, your confirmation code will be right on the email or calendar event! Being able to modify your flight with just the confirmation code is a really unsafe practice that I think travelers ought to be able to opt-out of.
 
 ## Authentication
 
@@ -70,8 +70,10 @@ It was taking too long to run the whole program on my weak laptop so I just ran 
 
 For the entire simulation, we have to scale this up by a factor of 1,000. It would likely take anywhere from 43 minutes up to 47 minutes. Assuming some overhead let's say it will take about an hour for one complete run, on my weak laptop. "One complete run" means checking ALL possibilities of 6-digit confirmation codes.
 
+> This would go much quicker on a supercomputer!
+
 ## Conclusion
 
-While it's fun to do math and write code, my point is, is that it's wildly insecure to use a confirmation code that isn't even attempted to be hidden, for actions such as paying for upgrades or cancelling your flight. Whoever wants to cause you damage might already know your confirmation code, but if not, it wouldn't be too hard to figure it out.
+While it's fun to do math and write code, my point is, is that it's wildly insecure to use a confirmation code that isn't even attempted to be hidden, for actions such as paying for upgrades or cancelling your flight. Whoever wants to cause you damage might already know your confirmation code, but if not, it wouldn't be too hard to figure it out, especially if they have access to fast technology.
 
-In an ideal world, travelers should be able to opt out of this and "lock" down their account so that changes may *only* be made when they are logged in with their username/email and **secure** password.
+In an ideal world, travelers should be able to opt out of this and "lock" down their account so that changes may *only* be made when they are logged in with their username/email and **secure** password. Or, you know, don't put the confirmation code on everything.
