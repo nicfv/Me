@@ -1,12 +1,5 @@
----
-title: Brownie Crust Ratio
-description: Discover the optimal way to cook brownies.
-author: Nicolas Ventura
-date: 2025-10-03
-tags:
-    - food
-thumbnail: https://media.istockphoto.com/id/168731372/photo/fresh-homemade-chocolate-brownie.jpg?s=2048x2048&w=is&k=20&c=zXOgoCTKbPM22kI-P0xjRowgwRfvmwPg9Tjyi3mQkso=
----
+# Brownie Crust Ratio
+
 Do you like brownie crust? Or do you prefer the amazing, gooey, chocolatey "guts" of the brownie? There's only one right answer. But in case you're a crazy person, this guide will also help you to determine the optimal shape for your brownie pan.
 
 We'll define the crust-to-brownie ratio as follows:
