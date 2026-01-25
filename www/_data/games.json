@@ -1,12 +1,12 @@
 [
     {
         "name": "Hexles",
-        "url": "https://hexles.nicfv.com/",
+        "url": "https://app.nicfv.com/games/hexles/",
         "about": "Capture as many tiles as you can on a hexagonal board."
     },
     {
         "name": "Cave Explorer",
-        "url": "http://games.nicfv.com/cave-explorer/",
+        "url": "https://app.nicfv.com/games/cave-explorer/",
         "about": "Explore the map and collect items."
     }
 ]
