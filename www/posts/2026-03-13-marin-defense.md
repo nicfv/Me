@@ -20,3 +20,29 @@ In a time of siege, Marin would only need to blockade 6 access points to the res
 - Pt. Reyes-Petaluma Rd. (towards Sonoma)
 - Richmond-San Rafael Bridge (towards Contra Costa)
 - The Golden Gate Bridge (towards San Francisco)
+
+## Offenses
+
+Marin used to host several military bases and fortresses across the county, notably:
+
+- Spanish-American War
+    - Fort McDowell
+- WWI
+    - Fort Baker
+    - Bort Barry
+    - Fort Cronkhite
+- WWII
+    - Hamilton Army Airfield
+    - Floating Drydocks, Tiburon
+- Korean War
+    - Battery D, Ring Mountain (anti-aircraft missile system)
+- Cold War
+    - Several Nike Missile launch sites (McInnis Park, Angel Island, Marin Headlands)
+
+Many of these are well preserved and could be restored for present-day use.
+
+## Weaknesses
+
+About one-third of Marin's land area is dedicated towards farmland and agriculture, which is close to 150,000 acres. Going off the assumtion that one acre of farmland is enough to feed one person, the current amount of farmland can only feed a bit over 50% of the population consistently.
+
+Another issue is due to Marin's demographics.
