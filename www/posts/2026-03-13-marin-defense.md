@@ -1,10 +1,10 @@
 # Marin's Geographic Weakness
 
-Marin county, California is in a beautiful and extremely defendable location. Marin is surrounded on 3 sides by water, and is only bordered directly by a single other county. It would hold extremely well under siege, but could show some weakness if invaded from within.
+Marin county, California is in a beautiful and extremely defendable location. Marin is surrounded on 3 sides by water, and is only bordered directly by a single other county. It is well-prepared for siege and has some built-in countermeasures for attack. But just how well would it fare in times of war?
 
 ## Demographics & History
 
-Marin county has existed since California was admitted into the Union in 1850. Today is home to about 260,000 inhabitants in the San Francisco North Bay region with a median age is 48. Its GDP is over $35 billion, and currently, it's one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
+Marin county has existed since California was admitted into the Union in 1850. Today is home to about 260,000 inhabitants in the San Francisco North Bay region with a median age is 48. Its GDP is over $35 billion, and currently, it's one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases built throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
 
 ## Natural Defenses
 
@@ -25,19 +25,27 @@ In a time of siege, Marin would only need to blockade 6 access points to the res
 
 Marin used to host several military bases and fortresses across the county, notably:
 
-- Spanish-American War
-    - Fort McDowell
-- WWI
-    - Fort Baker
-    - Fort Barry
-    - Fort Cronkhite
-- WWII
-    - Hamilton Army Airfield
-    - Floating Drydocks, Tiburon
-- Korean War
-    - Battery D, Ring Mountain (anti-aircraft missile system)
-- Cold War
-    - Several Nike Missile launch sites (McInnis Park, Angel Island, Marin Headlands)
+- Fort McDowell
+    - Commissioned during the Spanish-American War
+    - Also used throughout WWI and WWII
+    - Used as a garrison for soldiers
+- Forts Baker, Barry, and Cronkhite
+    - Used as training and command posts during WWI and WWII
+- Hamilton Army Airfield
+    - Originally a bomber airfield for WWII
+    - Planes flew out of here to defend Hawaii during the attack of Pearl Harbor
+    - Also used as a training facility
+- Floating Drydocks, Tiburon
+    - Used for training and ship repair during WWII
+- Battery D, Ring Mountain
+    - Anti-aircraft missile system during the Korean War
+- Several Nike Missile launch sites
+    - Locations include:
+        - McInnis Park
+        - Angel Island
+        - Marin Headlands
+    - Designed to shoot down aircraft over 80 miles away
+    - Commissioned during the height of the Cold War
 
 Many of these are well preserved and could be restored for present-day use. There are no warheads remaining in Marin.
 
@@ -48,3 +56,7 @@ About one-third of Marin's land area is dedicated towards farmland and agricultu
 Another issue is due to Marin's demographics. Only 19% of the population is between the ages of 20-40, and only 49% of the population is male. That means, at best, Marin only has 24,000 troops, compared to San Francisco's 150,000 troops, for example.
 
 The last issue is a downfall in Marin's internal geography. Highway 101 is the main "artery" for mobilizing people throughout the county, and there are 2 severe choke points. One of them is between Marinwood and Novato, and the other one between Marin City and Tamalpias-Homestead Valley. If Highway 101 were to become unusable, that would turn 2 miles between Novato and Marinwood into almost 33 miles, and make mobilizing between Marin City and Tamalpias-Homestead Valley completely impossible on land.
+
+## Conclusion
+
+Marin is not
