@@ -4,7 +4,7 @@ Marin county, California is in a beautiful and extremely defendable location. Ma
 
 ## Demographics & History
 
-Marin county has existed since California was admitted into the Union in 1850. Today is home to about 260,000 inhabitants in the San Francisco North Bay region. The median age is 48 and it's GDP is over $35 billion. Currently, Marin is one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
+Marin county has existed since California was admitted into the Union in 1850. Today is home to about 260,000 inhabitants in the San Francisco North Bay region with a median age is 48. Its GDP is over $35 billion, and currently, it's one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
 
 ## Natural Defenses
 
@@ -29,7 +29,7 @@ Marin used to host several military bases and fortresses across the county, nota
     - Fort McDowell
 - WWI
     - Fort Baker
-    - Bort Barry
+    - Fort Barry
     - Fort Cronkhite
 - WWII
     - Hamilton Army Airfield
@@ -39,10 +39,12 @@ Marin used to host several military bases and fortresses across the county, nota
 - Cold War
     - Several Nike Missile launch sites (McInnis Park, Angel Island, Marin Headlands)
 
-Many of these are well preserved and could be restored for present-day use.
+Many of these are well preserved and could be restored for present-day use. There are no warheads remaining in Marin.
 
 ## Weaknesses
 
-About one-third of Marin's land area is dedicated towards farmland and agriculture, which is close to 150,000 acres. Going off the assumtion that one acre of farmland is enough to feed one person, the current amount of farmland can only feed a bit over 50% of the population consistently.
+About one-third of Marin's land area is dedicated towards farmland and agriculture, which is close to 150,000 acres. Going off the assumtion that one acre of farmland is enough to feed one person, the current amount of farmland can only feed a bit over 50% of the population consistently. Although, the amount of acres of protected farmland are increasing due to the Marin Agricultural Land Trust.
 
-Another issue is due to Marin's demographics.
+Another issue is due to Marin's demographics. Only 19% of the population is between the ages of 20-40, and only 49% of the population is male. That means, at best, Marin only has 24,000 troops, compared to San Francisco's 150,000 troops, for example.
+
+The last issue is a downfall in Marin's internal geography. Highway 101 is the main "artery" for mobilizing people throughout the county, and there are 2 severe choke points. One of them is between Marinwood and Novato, and the other one between Marin City and Tamalpias-Homestead Valley. If Highway 101 were to become unusable, that would turn 2 miles between Novato and Marinwood into almost 33 miles, and make mobilizing between Marin City and Tamalpias-Homestead Valley completely impossible on land.
