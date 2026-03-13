@@ -4,7 +4,7 @@ Marin county, California is in a beautiful and extremely defendable location. Ma
 
 ## Demographics & History
 
-Marin county has existed since California was admitted into the Union in 1850. Today is home to about 260,000 inhabitants in the San Francisco North Bay region with a median age is 48. Its GDP is over $35 billion, and currently, it's one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases built throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
+Marin county has existed since California was admitted into the Union in 1850. Today it is home to about 260,000 inhabitants in the San Francisco North Bay region with a median age of 48. Its GDP is over $35 billion, and currently, it's one of the top 10 counties in the entire United States for median household income. The largest city is San Rafael of about 60,000. Throughout history, Marin county offered strategic advantages which led to several military stations and bases built throughout the county, most of which have been turned into natural parks. Nowadays, Marin county is known for its coastal redwoods, mountain biking, and beaches.
 
 ## Natural Defenses
 
