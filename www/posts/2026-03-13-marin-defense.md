@@ -59,4 +59,4 @@ The last issue is a downfall in Marin's internal geography. Highway 101 is the m
 
 ## Conclusion
 
-Marin is not
+While a economic powerhouse in its own right, Marin is not actively prepared to go out on the offensive right away during a time of war. Its best strategy is to hold out and defend. After rebuilding its defense systems, and with some additional resources from its neighbors, it could become a force to be reckoned with.
