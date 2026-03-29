@@ -8,5 +8,10 @@
         "name": "Cave Explorer",
         "url": "https://app.nicfv.com/games/cave-explorer/",
         "about": "Explore the map and collect items."
+    },
+    {
+        "name": "Ballistic",
+        "url": "https://app.nicfv.com/games/ballistic/",
+        "about": "Reach the goal and avoid the obstacles in this fast-paced arcade game!"
     }
 ]
