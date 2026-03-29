@@ -13,5 +13,10 @@
         "name": "Ballistic",
         "url": "https://app.nicfv.com/games/ballistic/",
         "about": "Reach the goal and avoid the obstacles in this fast-paced arcade game!"
+    },
+    {
+        "name": "Cellsplit",
+        "url": "https://app.nicfv.com/games/cellsplit/",
+        "about": "When cell division goes haywire."
     }
 ]
