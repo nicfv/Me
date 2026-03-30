@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "bun build www/media/*.js --minify --format=iife --outdir=www/media && TZ=UTC bun x @11ty/eleventy",
+    "start": "bun build www/media/*.ts --minify --format=iife --outdir=www/media && TZ=UTC bun x @11ty/eleventy",
     "serve": "TZ=UTC bun x @11ty/eleventy --serve",
     "clean": "rm -rf _site"
   },
