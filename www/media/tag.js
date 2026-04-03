@@ -3,6 +3,9 @@ const tag = document.createElement('div');
 const link = document.createElement('a');
 
 // Style the tag
+tag.style.display = 'block';
+tag.style.width = 'max-content';
+tag.style.height = 'max-content';
 tag.style.position = 'absolute';
 tag.style.top = '10px';
 tag.style.right = '10px';
@@ -37,9 +40,11 @@ link.addEventListener('mousedown', () => link.style.color = 'red');
 link.addEventListener('mouseup', () => linkReset());
 
 // Set the text and attributes of the link
+link.style.cursor = 'pointer';
+link.style.background = 'transparent';
 link.textContent = 'Nicolas Ventura';
+link.title = 'Visit my website';
 link.href = 'https://nicfv.com/';
-link.target = '_blank';
 
 // Append the tag onto the document body
 document.body.appendChild(tag);
