@@ -8,7 +8,7 @@ I made a request directly through the Muni agency for their dashboard camera foo
 
 ## The Reply
 
-Eventually, I did receive a reply with a note, two files, and an immediate case closure. The note stated that the video was only playable in Windows. Of course. I use Linux at home and my work computer is a Mac. The video file was in `.dvs` format and there was also a `.zip` attachment. I downloaded both, figuring that was the logical next step.
+Eventually, I did receive a reply with a note, two files, and an immediate case closure. The note stated that the video was only playable in Windows. Of course. I use Linux at home and my work computer is a Mac. The video was a 1.3GB file in `.dvs` format, and there was also a `.zip` attachment. I downloaded both, figuring that was the logical next step.
 
 ## The Windows Attempt
 
@@ -32,4 +32,25 @@ I nearly laughed when I saw the interface. It looked like an extremely old TV/VC
 
 ## The AI Age
 
+Sadly, Gemini doesn't really know anything about the DVSS Client software, so we try some things together, but still nothing seems to work. I explain my problem and ask if there is a way I can open the file natively inside my Linux host machine. It recommends inspecting the first few bytes using the `xxd` command-line utility.
+
+```sh
+head -c 256 "file.dvs" | xxd
+```
+
+It immediately recognized the binary output as an H.264 video format with extra header garbage. Remember that this file was 1.3GB? These commands were taking so long to execute, so Gemini helped me create a "chunk" of this file to test things out on.
+
+```sh
+head -c 50M "file.dvs" > chunk.dvs
+```
+
+After a lot of back-and-forth, we found that this command successfully generated an output!
+
+```sh
+ffmpeg -f h264 -i "file.dvs" output.mp4
+```
+
+Now, I was able to actually see what the Public Records department actually sent me. This output was an incredibly messy stream, with a few frames of a camera before jumping to a few frames of a different camera, seemingly with different frame rates, too. But, we had something!
+
+## Post-Processing
 
