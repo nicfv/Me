@@ -54,3 +54,54 @@ Now, I was able to actually see what the Public Records department actually sent
 
 ## Post-Processing
 
+From inspecting the video stream, I discovered that I actually received a file containing recordings from 8 different cameras all filming simultaneously! They appeared to be "chunked" in a regular pattern:
+
+- 10 frames for camera 1
+- 30 frames for camera 2
+- 30 frames for camera 3
+- 10 frames for camera 4
+- 10 frames for camera 5
+- 10 frames for camera 6
+- 10 frames for camera 7
+- 10 frames for camera 8
+
+And it would reset back to camera 1 every 120 frames. So, this is perfect, I can work with this! I asked AI to make a script for me that would split the output video stream into 8 per-camera videos. Basically, it just needed to count frame-by-frame and place each frame in the corresponding video. We did that, but the videos were still very choppy. As it turns out, the pattern I "found" wasn't *always* true, sometimes a camera would generate 11 frames, so the per-camera outputs would slowly "drift" and become choppy again. Great.
+
+Working more with AI, I found out that we could determine the "scene changes" using another script, which would check to see if the entire frame is redrawn versus just a few pixels needing to be manipulated. We used this script to generate the raw "frame jumps" from camera to camera.
+
+```sh
+# Detect the camera jumps with a threshold of 0.02
+ffmpeg -i output.mp4 -vf "select='gt(scene,0.02)',metadata=print:file=raw_jumps.txt" -f null -
+# Actually extract the timestamps from the raw output
+grep "pts_time" raw_jumps.txt | cut -d':' -f4 > clean_times.txt
+```
+
+Now I had a list of timestamps, but a lot more than I needed, because there is a lot of false positives in this list. I used a Python script to cut out some of the timestamps with a threshold of 0.1sec between them. So, any jumps that were recorded in quick succession could be assumed to be a false positive.
+
+I had AI write me another script to trim `output.mp4` into these video segments and "stitch" them into 8 per-camera videos, by cycling 1 through 8. Unfortunately, I realized that occasionally, a camera may "drop out" and its video would be out of order, or missing, so the cameras would essentially be "rotated" multiple times through the per-camera videos.
+
+At this point, I was getting so frustrated, and trust me, I tried *so* many things. Of course, with enough time and resources, this file format could be reverse-engineered, but I just couldn't do it. So do you want to know what I did?
+
+## My Brute-Force Solution
+
+I went back to the step where we trimmed out little "pieces" of `output.mp4`, where one segment is a single camera recording. (Mostly, there were a few instances where we had a false negative and a segment contained output for multiple cameras.) There was a particular segment of the full output I was interested in, so I used `ffmpeg` to trim the main output to just the area I wanted.
+
+```sh
+ffmpeg -i "output.mp4" -ss 00:12:00 -to 00:22:00 trimmed.mp4
+```
+
+That way I had something more manageable to work with. I then ran the script to generate the timestamps for the camera jumps and then split the file into over 1,200 video segments of 0.5-2 seconds! And this is the ugly part. I went through, piece by piece, putting them in their correct "bins" one by one. Kind of - there were only 3 cameras I was interested in (and later found out I only needed 2 of them) so I would put those in their respective folders, deleting the rest. AI helped me write the script to stitch them together into 3 per-camera videos.
+
+```sh
+dirname='cameraXYZ'
+printf "file '%s'\n" ${dirname}/*.mp4 > join_list.txt
+ffmpeg -f concat -safe 0 -i join_list.txt -c copy "${dirname}_full.mp4"
+```
+
+There were still a *few* artifacts, but by golly this was the best output I'd seen all day. It was like a ray of sunshine when I saw the final solution.
+
+## Conclusion
+
+Brute-forcing each per-camera video was a pain, but luckily I was able to judge them pretty well based on the thumbnails. I got through them all in about half an hour, which in all the time I've spent on this, is not that much. However, if I sorted the whole video (e.g. `output.mp4`) and wanted all 8 cameras, that would have been in the 10,000s of snippets.
+
+In fact, this whole process was a great deal of work, but I was locked in. It was so interesting to do a deep dive on reverse-engineering a piece of software, and slowly seeing the result get better and better. I've far from perfected this process, but maybe someday, someone will bring `.dvs` files into the 21st century or make them open-source.
