@@ -18,7 +18,7 @@ I tried looking up "Windows PC online" to see if anyone has set up a public Wind
 
 I thought maybe a Docker image would work, but before I found out how to implement that, I came across Virtual Machines (VMs)! I can't believe I didn't think of that first, since that is a very common way to run applications in a data center like where I work.
 
-I installed VirtualBox and set it up with Windows 11. I got the disk image directly from Microsoft so I know it was legit and I made sure it matched the `sha256sum` provided. There was some difficulty getting it set up because I didn't want to log into my Microsoft account so I found a way to bypass that online by opening a console, entering the following code, and then rebooting with the network interface turned off.
+I installed VirtualBox and set it up with Windows 11. I got the disk image directly from Microsoft so I know it was legit and I made sure it matched the `sha256sum` provided. There was some difficulty getting it set up because I didn't want to log into my Microsoft account. So, I found a way to bypass that online by opening a console, entering the following code, and then rebooting with the network interface turned off.
 
 ```bash
 OOBE\BYPASSNRO
@@ -26,7 +26,7 @@ OOBE\BYPASSNRO
 
 It's a super roundabout way but it actually worked, I skipped the horrible forced "sign in with Microsoft" dialog and was finally inside my virtual machine. This time, I had to reboot with the network interface turned back on so I could download those files from my public records case.
 
-Soon enough I had my files and tried to directly open the `.dvs` file again with no luck. So I turned to the `.zip` file. Inside it contained the **DVSS Client** installer, a `.bat` script, and a `.docx` file, sort of like a readme. I installed the DVSS Client and tried to run it, but I kept getting an error that `msvcp100.dll` and `msvcr100.dll` were not found. Thanks to a Google search and StackOverflow, I found out that I had to install **Microsoft Visual C++ 2010 Redistributable** to fill those missing holes. You heard that right, **2010**, which is 16 years old at this point! That's a *long* time for software to be around. The kicker? I already had Microsoft Visual C++ 2015 Redistributable installed on my machine. And I guess that wasn't old enough for this DVSS Client software. Luckily, I was still able to download this from the official Microsoft website. Finally, I could run DVSS Client.
+Soon enough I had my files and tried to directly open the `.dvs` file again with no luck. So I turned to the `.zip` file. Inside it contained the **DVSS Client** installer, a `.bat` script, and a `.docx` file, sort of like a readme. I installed the DVSS Client and tried to run it, but I kept getting an error that `msvcp100.dll` and `msvcr100.dll` were not found. The readme was of no help, of course. Thanks to a Google search and StackOverflow, I found out that I had to install **Microsoft Visual C++ 2010 Redistributable** to fill those missing holes. You heard that right, **2010**, which is 16 years old at this point! That's a *long* time for software to be around. The kicker? I already had Microsoft Visual C++ 2015 Redistributable installed on my machine. And I guess that wasn't old enough for this DVSS Client software. Luckily, I was still able to download this from the official Microsoft website. Finally, I could run DVSS Client.
 
 I nearly laughed when I saw the interface. It looked like an extremely old TV/VCR system. I tried to launch the `.dvs` file in the application, but I kept getting a read error. I tried opening it *with* DVSS Client, I tried running the batch file first, and opening it with the batch file, but nothing was working. After all this time, frustrated, I turn to AI.
 
@@ -84,13 +84,13 @@ At this point, I was getting so frustrated, and trust me, I tried *so* many thin
 
 ## My Brute-Force Solution
 
-I went back to the step where we trimmed out little "pieces" of `output.mp4`, where one segment is a single camera recording. (Mostly, there were a few instances where we had a false negative and a segment contained output for multiple cameras.) There was a particular segment of the full output I was interested in, so I used `ffmpeg` to trim the main output to just the area I wanted.
+I went back to the step where we trimmed out little "pieces" of `output.mp4`, where one segment is a single camera recording. (Mostly, there were a few instances where we had a false negative and a segment contained output for multiple cameras.) There was a particular segment of the full output I was interested in, so I used `ffmpeg` to trim the main output to just the time range I wanted.
 
 ```sh
 ffmpeg -i "output.mp4" -ss 00:12:00 -to 00:22:00 trimmed.mp4
 ```
 
-That way I had something more manageable to work with. I then ran the script to generate the timestamps for the camera jumps and then split the file into over 1,200 video segments of 0.5-2 seconds! And this is the ugly part. I went through, piece by piece, putting them in their correct "bins" one by one. Kind of - there were only 3 cameras I was interested in (and later found out I only needed 2 of them) so I would put those in their respective folders, deleting the rest. AI helped me write the script to stitch them together into 3 per-camera videos.
+That way I had something more manageable to work with. I then ran the script to generate the timestamps for the camera jumps and then split the file into over 1,200 video segments of 0.5-2 seconds! And this is the ugly part. I went through, piece by piece, putting them in their correct "bins" one by one. That's right. However, I could speed things up since there were only 3 cameras I was interested in (and later found out I only needed 2 of them) so I would put those in their respective folders, deleting the rest. AI helped me write the script to stitch them together into 3 per-camera videos.
 
 ```sh
 dirname='cameraXYZ'
@@ -104,4 +104,4 @@ There were still a *few* artifacts, but by golly this was the best output I'd se
 
 Brute-forcing each per-camera video was a pain, but luckily I was able to judge them pretty well based on the thumbnails. I got through them all in about half an hour, which in all the time I've spent on this, is not that much. However, if I sorted the whole video (e.g. `output.mp4`) and wanted all 8 cameras, that would have been in the 10,000s of snippets.
 
-In fact, this whole process was a great deal of work, but I was locked in. It was so interesting to do a deep dive on reverse-engineering a piece of software, and slowly seeing the result get better and better. I've far from perfected this process, but maybe someday, someone will bring `.dvs` files into the 21st century or make them open-source.
+In fact, this whole process was a great deal of work, but I was locked in. It was so interesting to do a deep dive on reverse-engineering a piece of software, and slowly seeing the result get better and better. I felt like a true hacker. I've far from perfected this process, but maybe someday, someone will bring `.dvs` files into the 21st century or make them open-source.
