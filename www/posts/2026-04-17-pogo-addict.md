@@ -63,3 +63,11 @@ This one has a "hidden" cost. I'm not the kind of person that will jump to grab 
 | Friday (today) | 10 |
 
 10 to 20 notifications per day is overwheling! Not to mention these will also slowly leak your phone's battery by emitting light, noise, or vibrations. Also, did you notice that Saturday, the day where I didn't pick up the game at all, is the day I received the most notifications? I think that is disgusting.
+
+## Conclusion
+
+I cleared the cache and data, and uninstalled Pokemon Go. Will I come back to it? Probably. As far as games go, at least this one incentivizes you to go outside for a walk. But I was just spending so much more time and resources on it than I expected, which is the main reason it had to go.
+
+I'll probably download it again. I mean, when I tried to get myself off Reddit, I ended up just going on Reddit through my phone's browser, which probably wasted me even more time. Eventually though, I stopped using it completely and haven't looked back since. Just the thought of browsing through Reddit makes me shudder. It's mildly interesting at best and enraging at worst.
+
+Pokemon Go is similar. It's got its high points, but they are followed by a long process of cleaning up your inventory, opening and sending gifts to friends, and watching all those dang animations. I mean come on, why can't we skip all those animations? Let's see how long I can last without it! Maybe it'll turn into a "Reddit" for me one day too.
