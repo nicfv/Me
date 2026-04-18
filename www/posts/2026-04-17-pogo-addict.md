@@ -4,7 +4,7 @@ I logged into Pokemon Go (or PoGo) today before my afternoon walk. I had just be
 
 I walked about 1.5 miles (the usual) all while playing PoGo, which I think was around 45 minutes. I completed 3 routes, defeated an evil Team Rocket grunt, took over a gym, and caught dozens of Pokemon. And the walk felt like a breeze. I sat down on my chair outside and begin to flip through the huge haul of Pokemon and items that I came home with, sorting them out and clearing up unnecessary items from my inventory.
 
-It was about 15 minutes, or maybe even 30 before I went back inside. The weather was nice and sunny, but not too warm, so it was perfect to sit outside. But when I came back in ultimately for an afternoon snack, I didn't realize how much time had passed. That moment kind of "reset" my brain and I realized how much time I spent on all the "overhead" tasks (like clearing up inventory) in PoGo rather than enjoying my walk. In fact, I didn't really look up from my phone much during my walk either.
+It was about 15 minutes, or maybe even 30 before I went back inside. The weather was nice and sunny, but not too warm, so it was perfect to sit outside. But when I came back in ultimately for an afternoon snack, I didn't realize how much time had passed. That moment kind of "reset" my brain and I realized how long I spent on all the "overhead" tasks (like clearing up inventory) in PoGo rather than enjoying my walk. In fact, I didn't really look up from my phone much during my walk either.
 
 As I sat down at my desk to write, I went through the settings in my phone. It tracks some statistics for all the apps I have, so I know how much time I've spent on the app, how much battery it used, and more. So, let's start with the time spent on the app.
 
@@ -50,7 +50,7 @@ However, I feel like it's known that PoGo is a very data-hungry game. You can't 
 
 ## Notifications
 
-This one has a "hidden" cost. I'm not the kind of person that will jump to grab my phone whenever there's a notification, but of course everyone at least will glance at them when they are looking at their phone. (This may even be something as little as it popping up on your lock screen.)
+This also has a cost. I'm not the kind of person that will jump to grab my phone whenever there's a notification, but of course everyone at least will glance at them when they are looking at their phone. (This may even be something as little as it popping up on your lock screen.)
 
 | Weekday | Notifications |
 | ------- | ------------- |
@@ -62,7 +62,7 @@ This one has a "hidden" cost. I'm not the kind of person that will jump to grab 
 | Thursday | 12 |
 | Friday (today) | 10 |
 
-10 to 20 notifications per day is overwheling! Not to mention these will also slowly leak your phone's battery by emitting light, noise, or vibrations. Also, did you notice that Saturday, the day where I didn't pick up the game at all, is the day I received the most notifications? I think that is disgusting.
+10 to 20 notifications per day is overwhelming! Not to mention these will also slowly leak your phone's battery by emitting light, noise, or vibrations. Also, did you notice that Saturday, the day where I didn't pick up the game at all, is the day I received the most notifications? I think that is disgusting.
 
 ## Conclusion
 
