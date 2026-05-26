@@ -1,0 +1,7 @@
+# Run Progress 2026
+
+I can't believe it's already the end of May! I just came out of a nice, relaxing 3-day weekend. I did a bit of running and working out, and watched *Mandalorian and Grogu*. (Amazing movie, by the way. Would recommend.) I didn't do a whole lot with my 3 days off, but still felt busy the whole time. Now I'm back on the grind. At least it's only a 4-day week.
+
+Let's check in on my annual progress for running and writing. This is my 20th journal article this year, and it is currently week 22. So, I'm a bit behind, but I can easily catch up from this. I've been particularly busy these last few months. I have been taking an online night class after work for HVAC control and energy management systems. I think the class could have gone smoother, but I'm just wrapping it up this week. In fact, I just submitted my final paper for it, and I may try to figure out somewhere to publish it.
+
+Secondly, how is my running going? My goal this year is to run 50 miles per month on average. That would put me at 600 miles over the course of 2026. According to my Strava profile, I've already run **338** miles this year! That's about 68 miles per month (over 5 months.) If I continue at this pace, I will absolutely achieve my goal, and that will put me at over 800 miles. We'll see how the next 7 months go. It's hard to keep up the same pace when it gets colder and darker in November and December.
