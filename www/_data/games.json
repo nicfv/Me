@@ -23,5 +23,10 @@
     "name": "GeoMarin",
     "url": "https://app.nicfv.com/games/geomarin/",
     "about": "Test your geography and explore Marin county!"
+  },
+  {
+    "name": "Orbit Idle",
+    "url": "https://app.nicfv.com/games/orbit-idle/",
+    "about": "Build strong solar systems to increase cash flow."
   }
 ]
