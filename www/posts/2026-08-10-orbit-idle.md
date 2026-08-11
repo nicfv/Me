@@ -14,6 +14,10 @@ Both games were rather simple and neither included any assets (except for music.
 
 I was in high school when I published these games. Back then, I didn't even know what proper version control (e.g. Git) was, so I literally have files like `Idle Wheel.zip` and `Idle Wheel 2.zip` and so on. (In development, the game was originally called "Idle Wheel.") I shudder to think of those days. But maybe in a way, it was freeing. I developed games so fast, but maybe that can be attributed to bad software engineering practices.
 
-Anyway, I had to decide on a technology stack for my new game. I am practically a purely TypeScript developer nowadays, so that was my obvious choice, with [Bun](./2026-01-28-bun.md) as my compiler/package manager. Of course, I now version control everything with Git/Github, with a monorepo structure for all my games.
+Anyway, I had to decide on a technology stack for my new game. I am practically a purely TypeScript developer nowadays, so that was my obvious choice, using my [graphico](https://www.npmjs.com/package/graphico) engine and [Bun](./2026-01-28-bun.md) as my compiler/package manager. Of course, I now version control everything with Git/Github, with a monorepo structure for all my games.
 
 ## Development
+
+This was honestly the fun part. I love building with code. I am proud to say that I did not use any generative AI for writing code, which not a lot of developers can say nowadays. However, I do not think it's a bad thing to use AI, in fact I [promote it](./2026-07-12-vibecode.md), but the point here wasn't to produce a game as fast as possible. I genuinely love the development process (it's like a big puzzle for me) so I decided to slog through it. Of course, I came across plenty of roadblocks like any software developer, so I did chat with LLMs occasionally to bounce ideas off, but this was few and far between and ultimately all of the published code I wrote myself.
+
+I also tried to keep everything as organized as I could, by adding TsDoc comments to all classes and public members, and separating files by class. I also sorted files based on a metatype, for example `src/ui/**.ts` contains all of the purely UI components, like buttons and labels. It's been almost 10 years since publishing *Idle R3volutions*, and the software development practices between then and now could not be more vast.
