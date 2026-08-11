@@ -78,7 +78,7 @@ Could I have shortened that time by relying more heavily on AI? Possibly, but de
 
 So far, Itch.io is massively outperforming GameJolt (or maybe they track metrics differently.) After about 24 hours published, I had about **600** plays on Itch.io! On GameJolt, you ask? About 4.
 
-**What would I do differently next time?**
+### What would I do differently next time?
 
 - I'd want to slow down and **ensure good code practices**. My code in *Orbit Idle*, which is possible some of the best I've written, is still a bit sloppy. The way I check for mouse clicks is very strange, for example. When the mouse button is pressed, I first check to see if the mouse is currently hovering over any in-game buttons (needed anyway for rendering the border around the button.) If so, then check if the left mouse button is pressed. If so, then activate the click handler for the hovered in-game button. It works, but it could be done better with a single check.
 - I'd love to learn how to **make good in-game music**. This time, I took the easy way out and used AI. But I've dabbled in the past with digital music production, and I would love to pick that back up again. I would just need to pay with my time.
