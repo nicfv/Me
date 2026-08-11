@@ -47,4 +47,20 @@ Unfortunately I had a lot more work to do to polish the game up. I want to say t
 - Custom cursor
 - Game progression balancing
 
+### Disclaimer
+
+Regrettably, I used generative AI to generate the 30-second looping audio track for *Orbit Idle*. I would have loved to learn how to create my own tracks, but I decided that having perfect audio for this game wasn't my primary goal. I really just wanted to design and build the game myself - which I did. Plus, this is the kind of game that you mute the audio and let it run in the background, anyway. Learning how to make a good audio track and then executing on that plan would have set me back several more weeks. I clearly added a disclaimer inside the game warning that the audio track was AI-generated.
+
 ## Publishing
+
+Finally the game was polished up, user-tested, and ready to ship! In this phase I still had a lot of work to do. I need platform(s) to publish and distribute my game!
+
+As you might have noticed from the links to my previous games, many of them link to [Kongregate](https://www.kongregate.com/en). Kongregate used to be an excellent platform for indie developers to publish their games, and they even had a developer API that could be used to publish scores and leaderboards, and even site-wide achievements! It was the full deal. Unfortunately for us all, Kongregate decided to shift their business focus onto larger, more established games and completely remove the indie developer features and vibes.
+
+I miss the old days of Kongregate. There was certainly a vibrant indie community, which they crushed now that they are basically a Steam clone but for flash/web games. Not to mention their generous ad revenue model.
+
+However, not all hope is lost. In the past, I used a platform called [GameJolt](https://gamejolt.com/), and I am familiar with another one called [Itch.io](https://itch.io/), and I planned to host my games on both of those sites.
+
+### Duration
+
+It took me from June 30th all the way through August 9th to see this game to completion.
