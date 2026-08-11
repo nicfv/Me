@@ -61,7 +61,7 @@ I miss the old days of Kongregate. There was certainly a vibrant indie community
 
 However, not all hope is lost. In the past, I used a platform called [GameJolt](https://gamejolt.com/), and I am familiar with another one called [Itch.io](https://itch.io/), and I planned to host my games on both of those sites.
 
-The publishing step in the game development process was another grind. I had to write out a game description, controls, hashtags, and take some screenshots, video, and even create a game thumbnail. Luckily my `graphico` library is capable of the screenshots and [video](https://youtu.be/ImNcrLvZuF0), so that part was fairly easy. For the thumbnail, I got creative and temporarily altered my game code itself to hide the UI and render the title in large font. That way, I got a very authentic and distinct image of my game.
+The publishing step in the game development process was another grind. I had to write out a game description, controls, hashtags, and take some screenshots, video, and even create a game thumbnail. Luckily my `graphico` library is capable of the screenshots and [video](https://youtu.be/ImNcrLvZuF0), so that part was fairly easy. For the thumbnail, I got creative and temporarily altered my game code itself to hide the UI and render the title in large font. That way, I got a very authentic and distinct image of my game. I also posted to BlueSky to gather more attention for my game.
 
 Here are the final published results of *Orbit Idle*:
 
@@ -75,3 +75,14 @@ It took me from June 30th all the way through August 9th to see this game to com
 Could I have shortened that time by relying more heavily on AI? Possibly, but debugging AI-written code would have also been time consuming.
 
 ## Conclusion
+
+So far, Itch.io is massively outperforming GameJolt (or maybe they track metrics differently.) After about 24 hours published, I had about **600** plays on Itch.io! On GameJolt, you ask? About 4.
+
+**What would I do differently next time?**
+
+- I'd want to slow down and **ensure good code practices**. My code in *Orbit Idle*, which is possible some of the best I've written, is still a bit sloppy. The way I check for mouse clicks is very strange, for example. When the mouse button is pressed, I first check to see if the mouse is currently hovering over any in-game buttons (needed anyway for rendering the border around the button.) If so, then check if the left mouse button is pressed. If so, then activate the click handler for the hovered in-game button. It works, but it could be done better with a single check.
+- I'd love to learn how to **make good in-game music**. This time, I took the easy way out and used AI. But I've dabbled in the past with digital music production, and I would love to pick that back up again. I would just need to pay with my time.
+- Maybe tangential to game development, I want to work on a video blog or something similar to act as a **developer log** to generate interest and engagement with my game. I could incorporate any feedback directly during this process before the game is even released. I could offer things such as beta access for engaged users, and maybe even monetize my hobby.
+- Lastly, I want to **incorporate the GameJolt API** next time. Similar to Kongregate, GameJolt exposes an API for developers to publish scores, leaderboards, and achievements which are shown on each user's profile. This makes the game more interactive, competitive, and addictive.
+
+Despite these minor shortcomings, I thoroughly enjoyed making *Orbit Idle*, and I hope you enjoy playing it. Stay tuned for the next game!
