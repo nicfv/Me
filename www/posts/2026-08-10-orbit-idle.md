@@ -33,3 +33,18 @@ This gave me a burst of energy as I started rewriting and refactoring bits of co
 - [Star Wars Wheel of Fortune](https://www.kongregate.com/en/games/ninjanic/star-wars-wheel-of-fortune)
 
 And now I could add a new one to my portfolio: *Orbit Idle*. Honestly, this was turning out better than expected. I get to remake one of my beloved games *and* make it space-themed!
+
+Unfortunately I had a lot more work to do to polish the game up. I want to say that this part took at least 50% of my development time, despite not really changing the game's appearance much, if at all. In this stage, I implemented the following features:
+
+- Welcome message
+- Interactive tutorial
+- Save & load data in browser cache
+- Autosaving
+- Music & mute
+- Hotkeys
+- Statistics & scores
+- Credits
+- Custom cursor
+- Game progression balancing
+
+## Publishing
