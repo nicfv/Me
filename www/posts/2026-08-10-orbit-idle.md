@@ -1,6 +1,6 @@
 # Making Orbit Idle
 
-**New game just dropped!** I used to love making games in the afternoons after school (or even during school) and publishing them for free to play. I've been wanting to get back into that hobby for some time, but life always gets in the way. Finally, I just sat myself down and grinded one out. Introducing, [Orbit Idle](https://app.nicfv.com/games/orbit-idle/)! Go ahead and play now, or read the boring backstory first.
+**New game just dropped!** I used to love making games in the afternoons after school (or even during school) and publishing them for free to play. I've been wanting to get back into that hobby for some time, but life always gets in the way. Finally, I just sat myself down and grinded one out. Introducing, [*Orbit Idle*](https://app.nicfv.com/games/orbit-idle/)! Go ahead and play now, or read the boring backstory first.
 
 ## Genre
 
@@ -14,7 +14,7 @@ Both games were rather simple and neither included any assets (except for music.
 
 I was in high school when I published these games. Back then, I didn't even know what proper version control (e.g. Git) was, so I literally have files like `Idle Wheel.zip` and `Idle Wheel 2.zip` and so on. (In development, the game was originally called "Idle Wheel.") I shudder to think of those days. But maybe in a way, it was freeing. I developed games so fast, but maybe that can be attributed to bad software engineering practices.
 
-Anyway, I had to decide on a technology stack for my new game. I am practically a purely TypeScript developer nowadays, so that was my obvious choice, using my [graphico](https://www.npmjs.com/package/graphico) engine and [Bun](./2026-01-28-bun.md) as my compiler/package manager. Of course, I now version control everything with Git/Github, with a monorepo structure for all my games.
+Anyway, I had to decide on a technology stack for my new game. I am practically a purely TypeScript developer nowadays, so that was my obvious choice, using my [`graphico`](https://www.npmjs.com/package/graphico) engine and [Bun](./2026-01-28-bun.md) as my compiler/package manager. Of course, I now version control everything with Git/Github, with a monorepo structure for all my games.
 
 ## Development
 
@@ -61,6 +61,17 @@ I miss the old days of Kongregate. There was certainly a vibrant indie community
 
 However, not all hope is lost. In the past, I used a platform called [GameJolt](https://gamejolt.com/), and I am familiar with another one called [Itch.io](https://itch.io/), and I planned to host my games on both of those sites.
 
-### Duration
+The publishing step in the game development process was another grind. I had to write out a game description, controls, hashtags, and take some screenshots, video, and even create a game thumbnail. Luckily my `graphico` library is capable of the screenshots and [video](https://youtu.be/ImNcrLvZuF0), so that part was fairly easy. For the thumbnail, I got creative and temporarily altered my game code itself to hide the UI and render the title in large font. That way, I got a very authentic and distinct image of my game.
 
-It took me from June 30th all the way through August 9th to see this game to completion.
+Here are the final published results of *Orbit Idle*:
+
+- GameJolt: [nicfv.gamejolt.io/orbit-idle](https://nicfv.gamejolt.io/orbit-idle)
+- Itch.io: [nicfv.itch.io/orbit-idle](https://nicfv.itch.io/orbit-idle)
+
+## Duration
+
+It took me from June 30th all the way through August 9th to see this game to completion (about 6 weeks.) As a super rough estimate, let's say I spent about 4 hours total on the weekends and another 3 hours through the week, so 7 hours per week total or about 1 hour per day. This only counts development time, I probably spent nearly as much time testing my game on my phone throughout the day. That means I spent about **40 hours** total developing this game.
+
+Could I have shortened that time by relying more heavily on AI? Possibly, but debugging AI-written code would have also been time consuming.
+
+## Conclusion
