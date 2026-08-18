@@ -22,4 +22,22 @@ Okay, let's say we have unlimited money and resources, but hate flying. So, we d
 
 Sorry flat Earthers, remember that Earth is a sphere\*! So, we don't have to go around the equator. If we move further north or south, the circumference actually decreases, which means the ground we need to cover also decreases!
 
-> \*Because Earth rotates, it is not a perfect sphere. Rather, it is squished a bit vertically and stretched at the equator. In my equator example, I used the approximate measurement for the radius of Earth's equator, and going forward, I will use the geometric radius of Earth.
+> \*Because Earth rotates, it is not a perfect sphere. Rather, it is squished a bit vertically and stretched at the equator. In my equator example, I used the approximate measurement for the radius of Earth's equator, and going forward, I will use the geometric radius of Earth: 6371km.
+
+$$R = R_{\text{geo}}\cos(\text{lat})$$
+
+$$C = 2 \pi R_{\text{geo}}\cos(\text{lat})$$
+
+Now, $R$ is a function of our latitude. We can plug this in to the previous formula to get the ground speed.
+
+$$V = \frac{2 \pi \times 6371\text{km}\times\cos(\text{lat})}{24\text{h}} \approx 1668\cos(\text{lat}) \left[\frac{\text{km}}{\text{h}}\right]$$
+
+Using our shiny new 500 km/hr drag racer, where would we have to build our road in order to watch the sunset forever driving westbound?
+
+$$500 = 1668\cos(\text{lat})$$
+
+$$\text{lat} = \arccos\left(\frac{500}{1668}\right) \approx 1.266 \approx 72.5^{\circ}$$
+
+This can be 72.5 degrees North or South. That's pretty far from the equator, and actually beyond the arctic (or antarctic) circle! 72.5 degrees North passes through parts of Russia, Greenland, and the northern tip of Baffin Island, Canada. 72.5 degrees South is completely contained by Antarctica, with a few stretches through the Southern Ocean.
+
+At least it doesn't cut right through any major cities. Enjoy the sunset!
