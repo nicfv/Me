@@ -41,3 +41,7 @@ $$\text{lat} = \arccos\left(\frac{500}{1668}\right) \approx 1.266 \approx 72.5^{
 This can be 72.5 degrees North or South. That's pretty far from the equator, and actually beyond the arctic (or antarctic) circle! 72.5 degrees North passes through parts of Russia, Greenland, and the northern tip of Baffin Island, Canada. 72.5 degrees South is completely contained by Antarctica, with a few stretches through the Southern Ocean.
 
 At least it doesn't cut right through any major cities. Enjoy the sunset!
+
+## Disclaimer
+
+I know, Earth rotates on a tilted axis. Let's just say that this only works on the equinox(es). Otherwise, you might have to build a different road, that uses much more complicated mathematics.
