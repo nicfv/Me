@@ -1,32 +1,32 @@
 [
   {
     "name": "Hexles",
-    "url": "https://app.nicfv.com/games/hexles/",
+    "url": "https://app.nicfv.com/hexles/",
     "about": "Capture as many tiles as you can on a hexagonal board."
   },
   {
     "name": "Cave Explorer",
-    "url": "https://app.nicfv.com/games/cave-explorer/",
+    "url": "https://app.nicfv.com/cave-explorer/",
     "about": "Explore the map and collect items."
   },
   {
     "name": "Ballistic",
-    "url": "https://app.nicfv.com/games/ballistic/",
+    "url": "https://app.nicfv.com/ballistic/",
     "about": "Reach the goal and avoid the obstacles in this fast-paced arcade game!"
   },
   {
     "name": "Cellsplit",
-    "url": "https://app.nicfv.com/games/cellsplit/",
+    "url": "https://app.nicfv.com/cellsplit/",
     "about": "When cell division goes haywire."
   },
   {
     "name": "GeoMarin",
-    "url": "https://app.nicfv.com/games/geomarin/",
+    "url": "https://app.nicfv.com/geomarin/",
     "about": "Test your geography and explore Marin county!"
   },
   {
     "name": "Orbit Idle",
-    "url": "https://app.nicfv.com/games/orbit-idle/",
+    "url": "https://app.nicfv.com/orbit-idle/",
     "about": "Build strong solar systems to increase cash flow."
   }
 ]
