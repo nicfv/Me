@@ -1,6 +1,6 @@
 # Another Bun/NPM Overhaul
 
-You might remember a [story](./2026-01-28-bun.md) I wrote about upgrading from `npm` to `bun` for more features and stability. Well, 2 days ago, Bun version 1.4 was released. This was the "Rust rewrite" which got most of the attention in their promotional video. I don't really care about any of that stuff, but something caught my ear which made me do a double-take.
+You might remember a [story](./2026-01-28-bun.md) I wrote about upgrading from `npm` to `bun` for more features and stability. Well, 2 days ago, Bun version 1.4 was released. This was the "Rust rewrite" which got most of the attention in their promotional video, but something caught my ear which made me do a double-take. Don't worry, this story isn't going to be about me rewriting something in Rust.
 
 It was mentioned as an aside in the video that Bun now supports generating standalone HTML files. Which means that *everyting* is embedded into a single HTML file - including media and other assets that are encoded in base64. I immediately started looking into this, because this is really cool. It can compress your output and also reduce the artifacts needed to be deployed to your website.
 
@@ -30,3 +30,21 @@ The `bun` command might look a bit more complicated now, but it's basically crea
 ```sh
 bun build --compile --target=browser ./index.html --outfile="${outdir}/index.html"
 ```
+
+One part that was a little tricky was audio. I have one game ([Orbit Idle](./2026-08-10-orbit-idle.md)) so far that incorporates music in the game. The way I achieved this previously was by directly playing audio from the file path in TypeScript.
+
+```ts
+canv.playAudio('./Between_The_Sleepless_Stars.mp3', true, 0.25);
+```
+
+I could continue doing this if I wanted to, but then I would have to package this `.mp3` file with the output HTML. That seemed a bit like it would defeat the purpose of this update, so after a while I discovered the workaround. In my HTML source file, I added the `<audio>` tag, referenced in TypeScript.
+
+```html
+<audio id="music" src="./Between_The_Sleepless_Stars.mp3"></audio>
+```
+
+```ts
+canv.playAudio((document.getElementById('music') as HTMLAudioElement).src, true, 0.25);
+```
+
+It's slightly more complicated this way, but when compiled with `bun`, it automatically embeds the audio file as a base64-encoded string, so I don't need to deploy any assets with that file. Amazing!
