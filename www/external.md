@@ -6,4 +6,4 @@
 
 ---
 
-Read more on Academia: [independent.academia.edu/nicfv](https://independent.academia.edu/nicfv)
+Read more on [eScholarship](https://escholarship.org/search/?q=author%3AVentura%2C%20Nicolas) and Academia: [independent.academia.edu/nicfv](https://independent.academia.edu/nicfv)
