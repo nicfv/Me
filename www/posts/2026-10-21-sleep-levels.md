@@ -2,7 +2,7 @@
 
 Are you tired all the time? That means, you might be a sleep level 2, or `SL2`. Here I'll define the different sleep levels and their definitions, in case you were wondering. The number after the sleep level indicates your consciousness, ranging from 0-3.
 
-## Awake (Standard)
+## Awake
 
 In your normal state, a few hours after waking up from a typical good night's sleep (7-8 hours) and without (too much) caffeine, that is a sleep level one, or `SL1`. In this state, you are awake, and your energy level doesn't bother you. Ideally, you want to spend most of the day at this level.
 
