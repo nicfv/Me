@@ -43,7 +43,7 @@ command: ["java", "-jar", "--help", "server.jar"]
 On Ubuntu, by default this will create all the Minecraft server files and set their owner to `root`. This restricts you (the user) from modifying or deleting these files, which may be exactly what you want. Otherwise, you may need to fix the permissions for these generated files. I created a simple script called `fix-permissions.sh` containing the following command:
 
 ```sh
-sudo chown "$(id -u):$(id -g)" ./*
+sudo chown -R "${USER}:${USER}" .
 ```
 
 This will set all the file ownership in the current working directory to your current user and group ID.
