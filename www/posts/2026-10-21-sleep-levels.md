@@ -26,14 +26,14 @@ There can also be decimal values between the energized state and awake state. Fo
 
 ## Summary
 
-| Sleep Level | Description |
-| ----------- | ----------- |
-| `SL0.0` | Energized, wired |
-| `SL0.5` | Flow state |
-| `SL1.0` | Awake (standard) |
-| `SL1.5` | Annoyingly tired |
-| `SL2.0` | Sleep deprived |
-| `SL2.5` | Near sleep |
-| `SL3.0` | Fully asleep |
+| Sleep Level | Description | Consiousness |
+| ----------- | ----------- | ------------:|
+| `SL0.0` | Energized, wired | ++100% |
+| `SL0.5` | Flow state | +100% |
+| `SL1.0` | Awake (standard) | 100% |
+| `SL1.5` | Annoyingly tired | 75% |
+| `SL2.0` | Sleep deprived | 50% |
+| `SL2.5` | Near sleep | 25% |
+| `SL3.0` | Fully asleep | 0% |
 
 Have fun counting sheep!
