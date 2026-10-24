@@ -26,7 +26,7 @@ I bet you weren't expecting to see this one! Believe it or not, I've recently fi
 
 I liked that book so much, that I decided to check out another book by the same author, called *Mister Tender's Girl*. This not only takes place in the same "universe" as *Tell Me What You Did*, but the main characters actually know each other. This book was about a girl who had a tragic accident when she was younger which triggered crazy stalkers to worship her in twisted ways. I highly recommend either of these books if you like mysteries or crime.
 
-Believe it or not, I've actually started a third book, called *The Cuckoo's Egg*, recommended by my colleagues. I've only read the first chapter, but it seems like it will be about a scientist who has to counterstike against a hacker who cracked into the national laboratory network.
+Believe it or not, I've actually started a third book, called *The Cuckoo's Egg*, recommended by my colleagues. I've only read the first chapter, but from what I've heard, it's about a scientist who has to defend against a hacker who cracked into the national laboratory network.
 
 ## Conclusion
 
