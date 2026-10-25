@@ -54,3 +54,17 @@ I want to define the same set of rules for each other elemental type in the game
 
 ## All Matchups
 
+This is my arbitrary table of card type matchups.
+
+| You -> | Fighting | Fire | Psychic | Water | Grass | Lightning | Metal | Darkness |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fighting  | - | L | W |   |   |   |   | L |
+| Fire      | W | - |   | W | L |   | L |   |
+| Psychic   | L |   | - |   | L |   | W | W |
+| Water     |   | L |   | - | W | W |   |   |
+| Grass     |   | W | W | L | - |   |   |   |
+| Lightning |   |   |   | L |   | - |   |   |
+| Metal     |   | W | L |   |   |   | - |   |
+| Darkness  | W |   | L |   |   |   |   | - |
+
+> **How to read this table:** You play the card on the top row. Your opponent plays the card in the first column. Look at the cell where your row and column meet. If it says `W`, then you win and pick up the cards. If it says `L`, then you lose and your opponent picks up the cards. Otherwise, you both play a second card.
