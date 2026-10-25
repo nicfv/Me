@@ -27,3 +27,11 @@ First I want to total up my deck just to take inventory.
 Luckily, my elemental type counts are roughly in the same ballpark. Right off the bat, I have close to double the amount of *Fire* as I do *Metal*.
 
 ## The Rules
+
+I imagine this game to be very similar to *War*. Each player takes a card off the top of their deck. If one card "beats" the other, then that player takes both cards and adds it to the bottom of their stack. If neither card beats the other, then each player puts down another card. To win the game, one player must have all the cards, or force their opponent to run out of their cards!
+
+However, defining what cards "beat" others is going to be tricky. With a standard deck of 52 cards, that is easy, because each card has a numeric value, 2 through 14 (assuming aces are high.) The higher value card "beats" the lower value card.
+
+For those if you who are not familiar with Pokemon, there is no such "ace" in the game. Each elemental type has strengths and weaknesses against other types. A very common scenario is Fire-Water-Grass. Think of it like [Rock-Paper-Scissors](./2021-01-05-rps.md). Fire beats Grass, Water beats Fire, and Grass beats Water. There is no "best" type.
+
+In the Pokemon games, there are clear-cut rules for which types are strong against other types. Look up "Type Effectiveness Chart" for the full rundown. Unfortunately, there are no clear-cut rules in the Pokemon card games, so we'll define our own based on common type matchups and common card weaknesses and resistances in the TCG.
