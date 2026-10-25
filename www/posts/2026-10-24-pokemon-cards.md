@@ -8,6 +8,8 @@ After dividing up all the cards, only the trainer cards and energy cards were le
 
 You know the simple, long, and boring card game War? There have been several variations of this game such as Speed, Slap Jack, and Egyptian Ratscrew. I figure that I could come up with my own variation of this using these energy cards!
 
+## The Deck
+
 First I want to total up my deck just to take inventory.
 
 | Type | Also used for | Count |
@@ -20,4 +22,8 @@ First I want to total up my deck just to take inventory.
 | Lightning | (Electric) | 9 |
 | Metal | (Steel) | 7 |
 | Darkness | (Dark) | 8 |
-| **Total** | | 76 |
+| **Total** | | **76** |
+
+Luckily, my elemental type counts are roughly in the same ballpark. Right off the bat, I have close to double the amount of *Fire* as I do *Metal*.
+
+## The Rules
