@@ -35,3 +35,22 @@ However, defining what cards "beat" others is going to be tricky. With a standar
 For those if you who are not familiar with Pokemon, there is no such "ace" in the game. Each elemental type has strengths and weaknesses against other types. A very common scenario is Fire-Water-Grass. Think of it like [Rock-Paper-Scissors](./2021-01-05-rps.md). Fire beats Grass, Water beats Fire, and Grass beats Water. There is no "best" type.
 
 In the Pokemon games, there are clear-cut rules for which types are strong against other types. Look up "Type Effectiveness Chart" for the full rundown. Unfortunately, there are no clear-cut rules in the Pokemon card games, so we'll define our own based on common type matchups and common card weaknesses and resistances in the TCG.
+
+## Card Matchups
+
+To make a balanced game, I want to define an equal number of strengths and weaknesses for each elemental type.
+
+For example, *Fire* beats *Grass* and loses to *Water*. In the games, *Fire* also beats *Steel*, so we'll define that matchup as well in this game. To balance it out, I want to create another weakness for *Fire*. In the games, *Rock* and *Ground* types beat *Fire*, so I'll use the *Fighting* type as *Fire*'s second weakness. So here's the summary:
+
+| Player | Opponent | Outcome |
+| ------ | -------- | ------- |
+| Fire | Grass | Win |
+| Fire | Metal | Win |
+| Fire | Water | Lose |
+| Fire | Fighting | Lose |
+| Fire | *anything else* | Draw, play again |
+
+I want to define the same set of rules for each other elemental type in the game, and I'll put the results below.
+
+## All Matchups
+
