@@ -68,3 +68,17 @@ This is my arbitrary table of card type matchups.
 | Darkness  | W |   | L |   |   |   |   | - |
 
 > **How to read this table:** You play the card on the top row. Your opponent plays the card in the first column. Look at the cell where your row and column meet. If it says `W`, then you win and pick up the cards. If it says `L`, then you lose and your opponent picks up the cards. Otherwise, you both play a second card.
+
+This table is an attempt to keep each card balanced, where different elemental types have different numbers of strengths and weaknesses. However, each card has the same number of strengths as weaknesses. This is not tested for balance, especially because I do not have identical amounts for each type of card. It is simply meant as a guide to show how to balance a deck like this.
+
+## Explanation
+
+Most of the matchups make sense, being derived from the base game or TCG. However I did have to "force" some for balance; for example the *Fighting* -> *Fire* matchup that I explained earlier. I also had to "force" *Water* -> *Fighting* (assuming that *Fighting* encompasses *Rock* and *Ground* types) and *Psychic* -> *Grass* (assuming that *Psychic* includes *Poison* types.)
+
+Some other matchups I considered were *Fighting* -> *Metal* **AND** *Metal* -> *Fighting* simultaneously; because in the games, *Fighting* and *Ground* **does** actually beat *Steel*, but *Steel* beats *Rock* too. Plus, if I had included this, then *Fighting* would have an uneven amount of strengths and weaknesses.
+
+I also considered adding *Water* -> *Metal* as *Water* types resist *Steel* moves. Same thing for *Grass* -> *Lightning*. I also considered *Grass* -> *Darkness* since *Bug* type moves are strong against *Dark* types. Feel free to use these suggestions in play, but just know that it might make certain cards stronger than others. This might not be a bad thing.
+
+## Conclusion
+
+I haven't played this game yet, but I will follow-up once I do. I may make some tweaks to the matchup table if needed. If you decide to break out the ol' Pokemon card collection and try this game, please enjoy, and send me your feedback!
