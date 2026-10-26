@@ -58,12 +58,12 @@ This is my arbitrary table of card type matchups.
 
 | You -> | Fighting | Fire | Psychic | Water | Grass | Lightning | Metal | Darkness |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fighting  | - | L | W |   |   |   |   | L |
+| Fighting  | - | L | W | W | W | L |   | L |
 | Fire      | W | - |   | W | L |   | L |   |
 | Psychic   | L |   | - |   | L |   | W | W |
-| Water     |   | L |   | - | W | W |   |   |
-| Grass     |   | W | W | L | - |   |   |   |
-| Lightning |   |   |   | L |   | - |   |   |
+| Water     | L | L |   | - | W | W |   |   |
+| Grass     | L | W | W | L | - |   |   |   |
+| Lightning | W |   |   | L |   | - |   |   |
 | Metal     |   | W | L |   |   |   | - |   |
 | Darkness  | W |   | L |   |   |   |   | - |
 
