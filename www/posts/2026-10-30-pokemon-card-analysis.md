@@ -83,3 +83,13 @@ With these rules and unfair starting hands, player 1 won nearly twice as often a
 
 To confirm my last hypothesis regarding average game length, I need to add more rules. I predict that by adding more rules, more often will 2 random cards have a non-neutral matchup. I predict that neutral matchups slow the game down, but honestly, I'm not sure. When several neutral matchups occur back-to-back, and then one player wins, they take *all* the cards sitting on the table. Let's find out if that's true.
 
+To keep the game balanced, I added the following matchups:
+
+- *Water* beats *Metal*
+- *Lightning* beats *Metal*
+- *Metal* beats *Grass*
+- *Metal* beats *Darkness*
+- *Grass* beats *Lightning*
+- *Darkness* beats *Water*
+
+You can see that an equal number of strengths and weaknesses have been added per each of these types. For example, *Metal* gained 2 strengths (*Grass*, *Darkness*) but also 2 weaknesses (*Water*, *Lightning*). All the other types here gained one strength and one weakness.
