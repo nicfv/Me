@@ -28,8 +28,21 @@ I also weighted each card's average by game duration using this formula where $i
 
 $$\text{average(type)}=\frac{\sum_{i=1}^{n}\left(\frac{\text{num starting cards(type)}_{i}}{\text{turns to win}_{i}}\right)}{\sum_{i=1}^{n}\left(\frac{1}{\text{turns to win}_{i}}\right)}$$
 
+After running the simulation and importing the resulting file into my Google Sheet, I now see all the histograms line up with the peak of the bell curve around 5 cards! My exact results were:
+
+| Type | Average | Weighted |
+| ---- | -------:| --------:|
+| Darkness | 5.011 | 4.998 |
+| Fighting | 5.017 | 5.017 |
+| Fire | 4.988 | 4.971 |
+| Grass | 4.991 | 4.985 |
+| Lightning | 4.961 | 4.968 |
+| Metal | 5.016 | 5.037 |
+| Psychic | 4.987 | 4.989 |
+| Water | 5.029 | 5.036 |
+
 ## Hypothesis Testing
 
 Now to make sure that cards with more strengths and less resistances are favored more, I arbitrarily picked the *Darkness* type to be strong against *Grass*, *Fire*, *Water*, and *Metal*. Not only should this favor the *Darkness* type, but this should show an avoidance to the other cards with the extra weakness.
 
-Despite all the added strength, the difference was small but noticeable. There were an average of **5.2334** cards of the *Darkness* type in winning decks, or **5.4466** cards when weighted for game duration.
+Despite all the added strength, the difference was small but noticeable. There were an average of **5.2334** cards of the *Darkness* type in winning decks, or **5.4466** cards when weighted for game duration. The weaker cards had much slighter deviations.
