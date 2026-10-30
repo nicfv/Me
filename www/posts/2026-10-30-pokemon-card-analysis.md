@@ -43,7 +43,7 @@ To make sure that this idea was correct, I re-run the simulation with 10 cards o
 
 I also weighted each card's average by game duration using this formula where $i$ is the game index and $n=10000$ games. This type of weighted average will give more weight to shorter games and less weight to longer games.
 
-$$\text{average(type)}=\frac{\sum_{i=1}^{n}\left(\frac{\text{num starting cards(type)}_{i}}{\text{turns to win}_{i}}\right)}{\sum_{i=1}^{n}\left(\frac{1}{\text{turns to win}_{i}}\right)}$$
+$$\operatorname{avg}(\text{type})=\frac{\sum_{i=1}^{n}\left(\frac{\operatorname{count}(\text{type},i)}{\operatorname{turns}(i)}\right)}{\sum_{i=1}^{n}\left(\frac{1}{\operatorname{turns}(i)}\right)}$$
 
 After running the simulation and importing the resulting file into my Google Sheet, I now see all the histograms line up with the peak of the bell curve around 5 cards! My exact results were:
 
