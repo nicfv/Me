@@ -16,9 +16,22 @@ Lastly, I predict that games with rulesets containing more "netural" matchups sh
 
 I modified my program in order to output a `.csv` (comma-separated value) file which can easily be read in Excel or Google Sheets for data analysis. Each row was the output of a single game, and each column was the starting number of cards that the winning player had of each type. The first column was the number of turns it took that player to win the game.
 
-I imported that file into Google Sheets, and then took an average and standard deviation of each card count and the turn number.
+I created a template in Google Sheets where I could upload that file, and it would take an average and standard deviation of each card count and the turn number. Additionally, it would plot a histogram for each card type appearing in winning players' hands.
 
-With my [deck](./2026-10-24-pokemon-cards.md#the-deck) and [rules](./2026-10-24-pokemon-cards.md#the-rules),
+I ran the simulation for 10,000 games (originally I ran it to completion for 100,000, but it was too long to do this for other runs so I shortened it.) For my [deck](./2026-10-24-pokemon-cards.md#the-deck) and [rules](./2026-10-24-pokemon-cards.md#the-rules), I got a completely unexpected histogram which at first glance looked all over the place. On closer look, each histogram was a bell curve, all with different peaks. To me at first, this was a telltale sign that certain cards were more "powerful" than others. Here are my full results:
+
+| Type | Average |
+| ---- | -------:|
+| Darkness | 4.002 |
+| Fighting | 3.975 |
+| Fire | 6.492 |
+| Grass | 4.513 |
+| Lightning | 4.502 |
+| Metal | 3.491 |
+| Psychic | 5.002 |
+| Water | 6.024 |
+
+So weird. Why would fire cards show up on average 6.492 times in winning players hands, but metal cards only show up 3.491 times? Gee, that's about 6.5 and 3.5 respectively. Wait... there's a pattern here. Do you see it?
 
 ## Validation
 
