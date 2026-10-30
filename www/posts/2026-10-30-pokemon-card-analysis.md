@@ -112,3 +112,8 @@ To double-check, I simulated a single game on debug mode to watch it play out, a
 
 ## Conclusion
 
+So, the good news is, the rules I had created originally were pretty well-balanced! Unfortunately, if two people were to actually sit down and play that game, it could take hundreds of turns lasting several hours. Also, you have to remember all the matchups, too.
+
+Fortunately, if you get rid of some of the matchups (as long as you keep the number of strengths and weaknesses per type consistent) then your game could go by much quicker. Plus, you'd have less rules to remember!
+
+Have fun!
