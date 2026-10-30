@@ -65,3 +65,16 @@ Now to make sure that cards with more strengths and less resistances are favored
 Despite all the added strength, the difference was small but noticeable. There were an average of **5.137** cards of the *Darkness* type in winning decks, or **5.282** cards when weighted for game duration. The weaker cards had much slighter deviations. For example, *Fire* cards were an average of **4.963** cards on average, or **4.934** cards on weighted average.
 
 It's good to see that the weighted average was even higher. That means that games that were ended faster had winning hands which contained more starting *Darkness* cards.
+
+## Unfair Testing
+
+To really drive this home, I gamed the system. I forced player 1 to always start with all 10 *Darkness* cards, and player 2 to start with none of them. (Sorry, player 2!) To keep the starting hand sizes balanced, I gave player 2 all of the *Metal* cards to begin with.
+
+I then ran the simulation for another 10,000 games and you could really see the results this time. I'll share them in a different format.
+
+| Player | Win \% | Average Turns to Win |
+| ------ | ------ | --------------------:|
+| 1 | 65.7\% | 478.289 |
+| 2 | 34.3\% | 701.645 |
+
+With these rules and unfair starting hands, player 1 won nearly twice as often as player 2, and they would win games over 200 turns faster on average.
