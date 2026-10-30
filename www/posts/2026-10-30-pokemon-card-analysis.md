@@ -78,3 +78,8 @@ I then ran the simulation for another 10,000 games and you could really see the 
 | 2 | 34.3\% | 701.645 |
 
 With these rules and unfair starting hands, player 1 won nearly twice as often as player 2, and they would win games over 200 turns faster on average.
+
+## Adding Rules
+
+To confirm my last hypothesis regarding average game length, I need to add more rules. I predict that by adding more rules, more often will 2 random cards have a non-neutral matchup. I predict that neutral matchups slow the game down, but honestly, I'm not sure. When several neutral matchups occur back-to-back, and then one player wins, they take *all* the cards sitting on the table. Let's find out if that's true.
+
