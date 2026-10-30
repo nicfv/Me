@@ -2,6 +2,8 @@
 
 Do you think my card game rules were balanced? Let's find out by simulating 100,000 games using the [program](./2026-10-29-pokemon-card-code.md) I wrote.
 
+**Read more:** [\#1](./2026-10-24-pokemon-cards.md) | [\#2](./2026-10-29-pokemon-card-code.md) | \#3
+
 ## Hypothesis
 
 First, my predictions. I hypothesize that all cards are relatively balanced, with no favor towards cards that have 3 strengths and 3 weaknesses vs. cards with only 1 strength and 1 weakness.

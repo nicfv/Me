@@ -8,6 +8,8 @@ After dividing up all the cards, only the trainer cards and energy cards were le
 
 You know the simple, long, and boring card game War? There have been several variations of this game such as Speed, Slap Jack, and Egyptian Ratscrew. I figure that I could come up with my own variation of this using these energy cards!
 
+**Read more:** \#1 | [\#2](./2026-10-29-pokemon-card-code.md) | [\#3](./2026-10-30-pokemon-card-analysis.md)
+
 ## The Deck
 
 First I want to total up my deck just to take inventory.

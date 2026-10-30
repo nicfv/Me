@@ -2,6 +2,8 @@
 
 I built a simulator for playing my proposed [Pokemon War](./2026-10-24-pokemon-cards.md) card game! This allows me to fine-tune the rules and card amounts to balance the game. Man, I have an unhealthy obsession with programming... (TypeScript especially.) Let me show you how I built it and then let's cover the results!
 
+**Read more:** [\#1](./2026-10-24-pokemon-cards.md) | \#2 | [\#3](./2026-10-30-pokemon-card-analysis.md)
+
 ## Transfer Real-World Objects into Code
 
 The best way to tackle a problem like this is to translate real-world objects and types into programming structures first, before diving into any sort of logic. I started out with the most basic stuff first - defining elemental types and matchup outcomes.
