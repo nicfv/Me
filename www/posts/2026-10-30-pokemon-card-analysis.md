@@ -18,7 +18,7 @@ I modified my program in order to output a `.csv` (comma-separated value) file w
 
 I created a template in Google Sheets where I could upload that file, and it would take an average and standard deviation of each card count and the turn number. Additionally, it would plot a histogram for each card type appearing in winning players' hands.
 
-I ran the simulation for 10,000 games (originally I ran it to completion for 100,000, but it was too long to do this for other runs so I shortened it.) For my [deck](./2026-10-24-pokemon-cards.md#the-deck) and [rules](./2026-10-24-pokemon-cards.md#the-rules), I got a completely unexpected histogram which at first glance looked all over the place. On closer look, each histogram was a bell curve, all with different peaks. To me at first, this was a telltale sign that certain cards were more "powerful" than others. Here are my full results:
+I ran the simulation for 10,000 games (originally I ran it to completion for 100,000, but it was too long to do this for other runs so I shortened it.) For my [deck](./2026-10-24-pokemon-cards.md#the-deck) and [rules](./2026-10-24-pokemon-cards.md#the-rules), games took an average of a whopping 400 turns to complete! I got a completely unexpected histogram which at first glance looked all over the place. On closer look, each card type had a histogram showing a normal distribution or a bell curve. Each bell curve had different peaks. At first, this looked like a telltale sign that certain cards were more "powerful" than others. Here are my full results:
 
 | Type | Average |
 | ---- | -------:|
@@ -31,7 +31,9 @@ I ran the simulation for 10,000 games (originally I ran it to completion for 100
 | Psychic | 5.002 |
 | Water | 6.024 |
 
-So weird. Why would fire cards show up on average 6.492 times in winning players hands, but metal cards only show up 3.491 times? Gee, that's about 6.5 and 3.5 respectively. Wait... there's a pattern here. Do you see it?
+So weird! Why would fire cards show up on average 6.492 times in winning players hands, but metal cards only show up 3.491 times? Golly, that looks pretty close to 6.5 and 3.5 respectively. Wait a minute, how many total fire and metal cards did I have to begin with?
+
+And then the lightbulb turned on. These numbers are basically just the total counts for each card type divided by the number of players (in this case, 2.) If I really want to get a good idea whether any cards are stronger, I need to normalize the counts for each card type.
 
 ## Validation
 
@@ -53,6 +55,8 @@ After running the simulation and importing the resulting file into my Google She
 | Metal | 5.016 | 5.037 |
 | Psychic | 4.987 | 4.989 |
 | Water | 5.029 | 5.036 |
+
+It's also good news to see that the weighted averages were also all around 5 cards per hand, meaning that games weren't necessarily won quicker with any certain card type.
 
 ## Hypothesis Testing
 
