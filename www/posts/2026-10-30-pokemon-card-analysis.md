@@ -22,4 +22,14 @@ With my [deck](./2026-10-24-pokemon-cards.md#the-deck) and [rules](./2026-10-24-
 
 ## Validation
 
-To see if 
+To make sure that this idea was correct, I re-run the simulation with 10 cards of each type in the deck. I expect to see about 5 cards per type in the winning player's hand.
+
+I also weighted each card's average by game duration using this formula where $i$ is the game index and $n=10000$ games. This type of weighted average will give more weight to shorter games and less weight to longer games.
+
+$$\text{average(type)}=\frac{\sum_{i=1}^{n}\left(\frac{\text{num starting cards(type)}_{i}}{\text{turns to win}_{i}}\right)}{\sum_{i=1}^{n}\left(\frac{1}{\text{turns to win}_{i}}\right)}$$
+
+## Hypothesis Testing
+
+Now to make sure that cards with more strengths and less resistances are favored more, I arbitrarily picked the *Darkness* type to be strong against *Grass*, *Fire*, *Water*, and *Metal*. Not only should this favor the *Darkness* type, but this should show an avoidance to the other cards with the extra weakness.
+
+Despite all the added strength, the difference was small but noticeable. There were an average of **5.2334** cards of the *Darkness* type in winning decks, or **5.4466** cards when weighted for game duration.
