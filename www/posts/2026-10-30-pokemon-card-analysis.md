@@ -93,3 +93,22 @@ To keep the game balanced, I added the following matchups:
 - *Darkness* beats *Water*
 
 You can see that an equal number of strengths and weaknesses have been added per each of these types. For example, *Metal* gained 2 strengths (*Grass*, *Darkness*) but also 2 weaknesses (*Water*, *Lightning*). All the other types here gained one strength and one weakness.
+
+First, let's get a baseline with our standard matchup table and then implement those extra matchups to determine if that had any effect on the average number of turns to end the game. I've also modified my program to output the total number of neutral matchups per game.
+
+| Type | Turns | Neutrals | Neutral \% |
+| ---- | ----- | -------- | ---------- |
+| Sparse matchups | 179.613 | 133.679 | 74.4\% |
+| Standard matchups | 404.082 | 218.735 | 54.1\% |
+| Extra matchups | 632.693 | 243.933 | 38.6\% |
+
+> After the fact, I also did a run of another ruleset where each type had exactly one weakness and one strength, to reduce the number of matchups.
+
+This one actually surprised me! It's clear that the fewer matchups there are, the faster the games will play out! I suppose this does make sense, because of what I mentioned earlier.
+
+To double-check, I simulated a single game on debug mode to watch it play out, and there were several instances where one of the players would pick up 20 or more cards off the table. That particular game ended with 18 cards sitting on the table, and one the players' hands running empty.
+
+> That sounds like another statistic I should output...
+
+## Conclusion
+
