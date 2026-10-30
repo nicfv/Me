@@ -60,6 +60,8 @@ It's also good news to see that the weighted averages were also all around 5 car
 
 ## Hypothesis Testing
 
-Now to make sure that cards with more strengths and less resistances are favored more, I arbitrarily picked the *Darkness* type to be strong against *Grass*, *Fire*, *Water*, and *Metal*. Not only should this favor the *Darkness* type, but this should show an avoidance to the other cards with the extra weakness.
+Now to make sure that cards with more strengths and less resistances are favored more, I arbitrarily picked the *Darkness* type to be strong against *Grass*, *Fire*, and *Water*. Not only should this favor the *Darkness* type, but the other cards with the extra weakness should appear less often in winning hands.
 
-Despite all the added strength, the difference was small but noticeable. There were an average of **5.2334** cards of the *Darkness* type in winning decks, or **5.4466** cards when weighted for game duration. The weaker cards had much slighter deviations.
+Despite all the added strength, the difference was small but noticeable. There were an average of **5.137** cards of the *Darkness* type in winning decks, or **5.282** cards when weighted for game duration. The weaker cards had much slighter deviations. For example, *Fire* cards were an average of **4.963** cards on average, or **4.934** cards on weighted average.
+
+It's good to see that the weighted average was even higher. That means that games that were ended faster had winning hands which contained more starting *Darkness* cards.
