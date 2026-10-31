@@ -104,7 +104,7 @@ First, let's get a baseline with our standard matchup table and then implement t
 | Standard matchups | 404.082 | 218.735 | 54.1\% |
 | Extra matchups | 632.693 | 243.933 | 38.6\% |
 
-> After the fact, I also did a run of another ruleset where each type had exactly one weakness and one strength, to reduce the number of matchups.
+After the fact, I also ran another custom ruleset where each type had exactly one weakness and one strength, to reduce the number of matchups. I called that "Sparse matchups" in the table.
 
 This one actually surprised me! It's clear that the fewer matchups there are, the faster the games will play out! I suppose this does make sense, because of what I mentioned earlier.
 
